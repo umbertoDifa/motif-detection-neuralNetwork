@@ -1,0 +1,58 @@
+Entry	Entry name	Status	Protein names	Gene names	Organism	Length
+P00748	FA12_HUMAN	reviewed	Coagulation factor XII (EC 3.4.21.38) (Hageman factor) (HAF) [Cleaved into: Coagulation factor XIIa heavy chain; Beta-factor XIIa part 1; Coagulation factor XIIa light chain (Beta-factor XIIa part 2)]	F12	Homo sapiens (Human)	615
+P02751	FINC_HUMAN	reviewed	Fibronectin (FN) (Cold-insoluble globulin) (CIG) [Cleaved into: Anastellin; Ugl-Y1; Ugl-Y2; Ugl-Y3]	FN1 FN	Homo sapiens (Human)	2386
+P11276	FINC_MOUSE	reviewed	Fibronectin (FN) [Cleaved into: Anastellin]	Fn1	Mus musculus (Mouse)	2477
+P08253	MMP2_HUMAN	reviewed	72 kDa type IV collagenase (EC 3.4.24.24) (72 kDa gelatinase) (Gelatinase A) (Matrix metalloproteinase-2) (MMP-2) (TBE-1) [Cleaved into: PEX]	MMP2 CLG4A	Homo sapiens (Human)	660
+P14780	MMP9_HUMAN	reviewed	Matrix metalloproteinase-9 (MMP-9) (EC 3.4.24.35) (92 kDa gelatinase) (92 kDa type IV collagenase) (Gelatinase B) (GELB) [Cleaved into: 67 kDa matrix metalloproteinase-9; 82 kDa matrix metalloproteinase-9]	MMP9 CLG4B	Homo sapiens (Human)	707
+P11717	MPRI_HUMAN	reviewed	Cation-independent mannose-6-phosphate receptor (CI Man-6-P receptor) (CI-MPR) (M6PR) (300 kDa mannose 6-phosphate receptor) (MPR 300) (Insulin-like growth factor 2 receptor) (Insulin-like growth factor II receptor) (IGF-II receptor) (M6P/IGF2 receptor) (M6P/IGF2R) (CD antigen CD222)	IGF2R MPRI	Homo sapiens (Human)	2491
+Q07113	MPRI_MOUSE	reviewed	Cation-independent mannose-6-phosphate receptor (CI Man-6-P receptor) (CI-MPR) (M6PR) (300 kDa mannose 6-phosphate receptor) (MPR 300) (Insulin-like growth factor 2 receptor) (Insulin-like growth factor II receptor) (IGF-II receptor) (M6P/IGF2 receptor) (M6P/IGF2R) (CD antigen CD222)	Igf2r	Mus musculus (Mouse)	2483
+P22897	MRC1_HUMAN	reviewed	Macrophage mannose receptor 1 (MMR) (C-type lectin domain family 13 member D) (C-type lectin domain family 13 member D-like) (Human mannose receptor) (hMR) (Macrophage mannose receptor 1-like protein 1) (CD antigen CD206)	MRC1 CLEC13D CLEC13DL MRC1L1	Homo sapiens (Human)	1456
+Q9UBG0	MRC2_HUMAN	reviewed	C-type mannose receptor 2 (C-type lectin domain family 13 member E) (Endocytic receptor 180) (Macrophage mannose receptor 2) (Urokinase-type plasminogen activator receptor-associated protein) (UPAR-associated protein) (Urokinase receptor-associated protein) (CD antigen CD280)	MRC2 CLEC13E ENDO180 KIAA0709 UPARAP	Homo sapiens (Human)	1479
+Q64449	MRC2_MOUSE	reviewed	C-type mannose receptor 2 (Lectin lambda) (Macrophage mannose receptor 2) (CD antigen CD280)	Mrc2 Kiaa0709	Mus musculus (Mouse)	1479
+Q62028	PLA2R_MOUSE	reviewed	Secretory phospholipase A2 receptor (PLA2-R) (PLA2R) (180 kDa secretory phospholipase A2 receptor) (M-type receptor) [Cleaved into: Soluble secretory phospholipase A2 receptor (Soluble PLA2-R) (Soluble PLA2R)]	Pla2r1 Pla2g1br	Mus musculus (Mouse)	1487
+Q9UBV2	SE1L1_HUMAN	reviewed	Protein sel-1 homolog 1 (Suppressor of lin-12-like protein 1) (Sel-1L)	SEL1L TSA305 UNQ128/PRO1063	Homo sapiens (Human)	794
+Q96BH3	ESPB1_HUMAN	reviewed	Epididymal sperm-binding protein 1 (Epididymal secretory protein 12) (hE12)	ELSPBP1 E12	Homo sapiens (Human)	223
+P07589	FINC_BOVIN	reviewed	Fibronectin (FN) [Cleaved into: Anastellin]	FN1	Bos taurus (Bovine)	2478
+P04937	FINC_RAT	reviewed	Fibronectin (FN) [Cleaved into: Anastellin]	Fn1	Rattus norvegicus (Rat)	2477
+Q04756	HGFA_HUMAN	reviewed	Hepatocyte growth factor activator (HGF activator) (HGFA) (EC 3.4.21.-) [Cleaved into: Hepatocyte growth factor activator short chain; Hepatocyte growth factor activator long chain]	HGFAC	Homo sapiens (Human)	655
+Q9R098	HGFA_MOUSE	reviewed	Hepatocyte growth factor activator (HGF activator) (HGFA) (EC 3.4.21.-) [Cleaved into: Hepatocyte growth factor activator short chain; Hepatocyte growth factor activator long chain]	Hgfac	Mus musculus (Mouse)	653
+Q60767	LY75_MOUSE	reviewed	Lymphocyte antigen 75 (Ly-75) (DEC-205) (CD antigen CD205)	Ly75 Cd205	Mus musculus (Mouse)	1723
+O60449	LY75_HUMAN	reviewed	Lymphocyte antigen 75 (Ly-75) (C-type lectin domain family 13 member B) (DEC-205) (gp200-MR6) (CD antigen CD205)	LY75 CD205 CLEC13B	Homo sapiens (Human)	1722
+P33434	MMP2_MOUSE	reviewed	72 kDa type IV collagenase (EC 3.4.24.24) (72 kDa gelatinase) (Gelatinase A) (Matrix metalloproteinase-2) (MMP-2) [Cleaved into: PEX]	Mmp2	Mus musculus (Mouse)	662
+P41245	MMP9_MOUSE	reviewed	Matrix metalloproteinase-9 (MMP-9) (EC 3.4.24.35) (92 kDa gelatinase) (92 kDa type IV collagenase) (Gelatinase B) (GELB)	Mmp9 Clg4b	Mus musculus (Mouse)	730
+P08169	MPRI_BOVIN	reviewed	Cation-independent mannose-6-phosphate receptor (CI Man-6-P receptor) (CI-MPR) (M6PR) (300 kDa mannose 6-phosphate receptor) (MPR 300) (Insulin-like growth factor 2 receptor) (Insulin-like growth factor II receptor) (IGF-II receptor) (CD antigen CD222)	IGF2R M6P	Bos taurus (Bovine)	2499
+Q61830	MRC1_MOUSE	reviewed	Macrophage mannose receptor 1 (MMR) (CD antigen CD206)	Mrc1	Mus musculus (Mouse)	1456
+Q13018	PLA2R_HUMAN	reviewed	Secretory phospholipase A2 receptor (PLA2-R) (PLA2R) (180 kDa secretory phospholipase A2 receptor) (C-type lectin domain family 13 member C) (M-type receptor) [Cleaved into: Soluble secretory phospholipase A2 receptor (Soluble PLA2-R) (Soluble PLA2R)]	PLA2R1 CLEC13C	Homo sapiens (Human)	1463
+Q9Z2G6	SE1L1_MOUSE	reviewed	Protein sel-1 homolog 1 (Suppressor of lin-12-like protein 1) (Sel-1L)	Sel1l Sel1h	Mus musculus (Mouse)	790
+P02784	SFP1_BOVIN	reviewed	Seminal plasma protein PDC-109 (BSP-A1 and BSP-A2) (Seminal vesicle secretory protein 109) (SVSP109)		Bos taurus (Bovine)	134
+Q075Z2	BSPH1_HUMAN	reviewed	Binder of sperm protein homolog 1 (Bovine seminal plasma protein homolog 1) (Bovine seminal plasma protein-like 1)	BSPH1	Homo sapiens (Human)	132
+Q3UW26	BSPH1_MOUSE	reviewed	Binder of sperm protein homolog 1 (Bovine seminal plasma protein homolog 1) (Bovine seminal plasma protein-like 1)	Bsph1 Gm767	Mus musculus (Mouse)	133
+Q9GL25	ESPB1_CANFA	reviewed	Epididymal sperm-binding protein 1 (CeE12) (E12a) (Epididymal secretory protein 12)	ELSPBP1 E12	Canis familiaris (Dog) (Canis lupus familiaris)	245
+Q7YR83	ESPB1_PIG	reviewed	Epididymal sperm-binding protein 1 (Epididymal secretory protein 12)	ELSPBP1 E12	Sus scrofa (Pig)	223
+D3ZTE0	FA12_RAT	reviewed	Coagulation factor XII (EC 3.4.21.38) (Hageman factor) (HAF) [Cleaved into: Coagulation factor XIIa heavy chain; Coagulation factor XIIa light chain]	F12	Rattus norvegicus (Rat)	595
+Q04962	FA12_CAVPO	reviewed	Coagulation factor XII (EC 3.4.21.38) (Hageman factor) (HAF) [Cleaved into: Coagulation factor XIIa heavy chain; Coagulation factor XIIa light chain] (Fragment)	F12	Cavia porcellus (Guinea pig)	603
+O97507	FA12_PIG	reviewed	Coagulation factor XII (EC 3.4.21.38) (Hageman factor) (HAF) [Cleaved into: Coagulation factor XIIa heavy chain; Coagulation factor XIIa light chain]	F12	Sus scrofa (Pig)	616
+Q80YC5	FA12_MOUSE	reviewed	Coagulation factor XII (EC 3.4.21.38) (Hageman factor) (HAF) [Cleaved into: Coagulation factor XIIa heavy chain; Coagulation factor XIIa light chain]	F12	Mus musculus (Mouse)	597
+P98140	FA12_BOVIN	reviewed	Coagulation factor XII (EC 3.4.21.38) (Hageman factor) (HAF) [Cleaved into: Coagulation factor XIIa heavy chain; Coagulation factor XIIa light chain]	F12	Bos taurus (Bovine)	612
+Q91400	FINC_NOTVI	reviewed	Fibronectin (FN) (Fragment)		Notophthalmus viridescens (Eastern newt) (Triturus viridescens)	190
+Q91740	FINC_XENLA	reviewed	Fibronectin (FN)	fn1	Xenopus laevis (African clawed frog)	2481
+Q6QNF4	HGFA_CANFA	reviewed	Hepatocyte growth factor activator (HGF activator) (HGFA) (EC 3.4.21.-) [Cleaved into: Hepatocyte growth factor activator short chain; Hepatocyte growth factor activator long chain]	HGFAC	Canis familiaris (Dog) (Canis lupus familiaris)	654
+Q920P9	LY75_MESAU	reviewed	Lymphocyte antigen 75 (Ly-75) (DEC-205) (CD antigen CD205)	LY75	Mesocricetus auratus (Golden hamster)	1722
+Q9GLE5	MMP2_BOVIN	reviewed	72 kDa type IV collagenase (EC 3.4.24.24) (72 kDa gelatinase) (Matrix metalloproteinase-2) (MMP-2) [Cleaved into: PEX]	MMP2	Bos taurus (Bovine)	661
+Q90611	MMP2_CHICK	reviewed	72 kDa type IV collagenase (EC 3.4.24.24) (72 kDa gelatinase) (Gelatinase A) (Matrix metalloproteinase-2) (MMP-2)	MMP2	Gallus gallus (Chicken)	663
+P50757	MMP2_RABIT	reviewed	72 kDa type IV collagenase (EC 3.4.24.24) (72 kDa gelatinase) (Gelatinase A) (Matrix metalloproteinase-2) (MMP-2) [Cleaved into: PEX]	MMP2	Oryctolagus cuniculus (Rabbit)	662
+P33436	MMP2_RAT	reviewed	72 kDa type IV collagenase (EC 3.4.24.24) (72 kDa gelatinase) (Gelatinase A) (Matrix metalloproteinase-2) (MMP-2) [Cleaved into: PEX]	Mmp2	Rattus norvegicus (Rat)	662
+P52176	MMP9_BOVIN	reviewed	Matrix metalloproteinase-9 (MMP-9) (EC 3.4.24.35) (92 kDa gelatinase) (92 kDa type IV collagenase) (Gelatinase B) (GELB)	MMP9	Bos taurus (Bovine)	712
+O18733	MMP9_CANFA	reviewed	Matrix metalloproteinase-9 (MMP-9) (EC 3.4.24.35) (92 kDa gelatinase) (92 kDa type IV collagenase) (Gelatinase B) (GELB)	MMP9	Canis familiaris (Dog) (Canis lupus familiaris)	704
+P41246	MMP9_RABIT	reviewed	Matrix metalloproteinase-9 (MMP-9) (EC 3.4.24.35) (92 kDa gelatinase) (92 kDa type IV collagenase) (Gelatinase B) (GELB)	MMP9	Oryctolagus cuniculus (Rabbit)	707
+P50282	MMP9_RAT	reviewed	Matrix metalloproteinase-9 (MMP-9) (EC 3.4.24.35) (92 kDa gelatinase) (92 kDa type IV collagenase) (Gelatinase B) (GELB)	Mmp9	Rattus norvegicus (Rat)	708
+Q4TU93	MRC2_RAT	reviewed	C-type mannose receptor 2 (Endocytic receptor 180) (Macrophage mannose receptor 2) (CD antigen CD280)	Mrc2 Endo180	Rattus norvegicus (Rat)	1480
+P80964	PB1_PIG	reviewed	Seminal plasma protein pB1 (Protein DQH) (pAIF-1)		Sus scrofa (Pig)	130
+P49259	PLA2R_BOVIN	reviewed	Secretory phospholipase A2 receptor (PLA2-R) (PLA2R) (180 kDa secretory phospholipase A2 receptor) (M-type receptor) [Cleaved into: Soluble secretory phospholipase A2 receptor (Soluble PLA2-R) (Soluble PLA2R)]	PLA2R1	Bos taurus (Bovine)	1463
+Q5R880	PLA2R_PONAB	reviewed	Secretory phospholipase A2 receptor (PLA2-R) (PLA2R) (180 kDa secretory phospholipase A2 receptor) (M-type receptor) [Cleaved into: Soluble secretory phospholipase A2 receptor (Soluble PLA2-R) (Soluble PLA2R)]	PLA2R1	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	1464
+P49260	PLA2R_RABIT	reviewed	Secretory phospholipase A2 receptor (PLA2-R) (PLA2R) (180 kDa secretory phospholipase A2 receptor) (M-type receptor) [Cleaved into: Soluble secretory phospholipase A2 receptor (Soluble PLA2-R) (Soluble PLA2R)]	PLA2R1	Oryctolagus cuniculus (Rabbit)	1458
+Q80Z70	SE1L1_RAT	reviewed	Protein sel-1 homolog 1 (Suppressor of lin-12-like protein 1) (Sel-1L)	Sel1l Sel1h	Rattus norvegicus (Rat)	794
+Q9ESM7	SE1L1_MESAU	reviewed	Protein sel-1 homolog 1 (Suppressor of lin-12-like protein 1) (Sel-1L)	Sel1l Sel1h	Mesocricetus auratus (Golden hamster)	794
+P04557	SFP3_BOVIN	reviewed	Seminal plasma protein A3 (BSP-A3)		Bos taurus (Bovine)	140
+P81019	SFP4_BOVIN	reviewed	Seminal plasma protein BSP-30 kDa (BSP-30K)		Bos taurus (Bovine)	183
+P81121	SP1_HORSE	reviewed	Seminal plasma protein HSP-1		Equus caballus (Horse)	120
