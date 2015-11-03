@@ -1,0 +1,1153 @@
+Entry	Entry name	Status	Protein names	Gene names	Organism	Length
+P39676	FHP_YEAST	reviewed	Flavohemoprotein (EC 1.14.12.17) (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD)	YHB1 YHB YGR234W G8572	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	399
+Q59MV9	FHP_CANAL	reviewed	Flavohemoprotein (EC 1.14.12.17) (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD)	YHB1 CaO19.11192 CaO19.3707	Candida albicans (strain SC5314 / ATCC MYA-2876) (Yeast)	398
+P02008	HBAZ_HUMAN	reviewed	Hemoglobin subunit zeta (HBAZ) (Hemoglobin zeta chain) (Zeta-globin)	HBZ HBZ2	Homo sapiens (Human)	142
+P69905	HBA_HUMAN	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA1; HBA2	Homo sapiens (Human)	142
+P02088	HBB1_MOUSE	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain) (Hemoglobin beta-major chain)	Hbb-b1	Mus musculus (Mouse)	147
+P68871	HBB_HUMAN	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain) [Cleaved into: LVV-hemorphin-7; Spinorphin]	HBB	Homo sapiens (Human)	147
+P02042	HBD_HUMAN	reviewed	Hemoglobin subunit delta (Delta-globin) (Hemoglobin delta chain)	HBD	Homo sapiens (Human)	147
+P69891	HBG1_HUMAN	reviewed	Hemoglobin subunit gamma-1 (Gamma-1-globin) (Hb F Agamma) (Hemoglobin gamma-1 chain) (Hemoglobin gamma-A chain)	HBG1 PRO2979	Homo sapiens (Human)	147
+P69892	HBG2_HUMAN	reviewed	Hemoglobin subunit gamma-2 (Gamma-2-globin) (Hb F Ggamma) (Hemoglobin gamma-2 chain) (Hemoglobin gamma-G chain)	HBG2	Homo sapiens (Human)	147
+P24232	HMP_ECOLI	reviewed	Flavohemoprotein (Flavohemoglobin) (HMP) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp fsrB hmpA b2552 JW2536	Escherichia coli (strain K12)	396
+P02144	MYG_HUMAN	reviewed	Myoglobin	MB	Homo sapiens (Human)	154
+P04252	BAHG_VITST	reviewed	Bacterial hemoglobin (Soluble cytochrome O)	vhb	Vitreoscilla stercoraria	146
+Q8WWM9	CYGB_HUMAN	reviewed	Cytoglobin (Histoglobin) (HGb) (Stellate cell activation-associated protein)	CYGB STAP	Homo sapiens (Human)	190
+P02213	GLB1_ANAIN	reviewed	Globin-1 (Dimeric hemoglobin) (Globin I) (HbI)		Anadara inaequivalvis (Inequivalve ark) (Scapharca inaequivalvis)	146
+P41260	GLB1_PHAPT	reviewed	Hemoglobin-1 (Hemoglobin I) (Hb I) (HbI) (Sulfide-reactive hemoglobin)		Phacoides pectinatus (Thick lucine) (Lucina pectinata)	143
+P02229	GLB3_CHITH	reviewed	Globin CTT-III (Erythrocruorin III)	A; A'; B; B'	Chironomus thummi thummi (Midge)	151
+P11069	GLB3_LUMTE	reviewed	Extracellular globin-3 (Erythrocruorin) (Extracellular globin III) (Globin C)		Lumbricus terrestris (Common earthworm)	170
+P02208	GLB5_PETMA	reviewed	Globin-5 (Hemoglobin V)		Petromyzon marinus (Sea lamprey)	150
+P02210	GLB_APLLI	reviewed	Globin (Myoglobin)		Aplysia limacina (Sea hare)	147
+Q18086	GLOB6_CAEEL	reviewed	Globin-like protein 6	glb-6 C18C4.9	Caenorhabditis elegans	389
+P02001	HBAD_CHICK	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Gallus gallus (Chicken)	141
+P09105	HBAT_HUMAN	reviewed	Hemoglobin subunit theta-1 (Hemoglobin theta-1 chain) (Theta-1-globin)	HBQ1	Homo sapiens (Human)	142
+P06467	HBAZ_MOUSE	reviewed	Hemoglobin subunit zeta (Alpha-like embryonic globin chain x) (Hemoglobin zeta chain) (Zeta-globin)	Hbz Hba-x Hbz1	Mus musculus (Mouse)	142
+P01966	HBA_BOVIN	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Bos taurus (Bovine)	142
+P01994	HBA_CHICK	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Gallus gallus (Chicken)	142
+P21871	HBA_COLLI	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Columba livia (Rock dove)	142
+Q575T0	CYGB1_ORYLA	reviewed	Cytoglobin-1	cygb1 cygb-1	Oryzias latipes (Japanese rice fish) (Japanese killifish)	177
+Q575S8	CYGB2_DANRE	reviewed	Cytoglobin-2	cygb2 cygb-2	Danio rerio (Zebrafish) (Brachydanio rerio)	179
+Q9CX80	CYGB_MOUSE	reviewed	Cytoglobin (Histoglobin) (HGb)	Cygb	Mus musculus (Mouse)	190
+Q575S9	CYGB2_ORYLA	reviewed	Cytoglobin-2	cygb2 cygb-2	Oryzias latipes (Japanese rice fish) (Japanese killifish)	179
+Q921A4	CYGB_RAT	reviewed	Cytoglobin (Histoglobin) (HGb) (Stellate cell activation-associated protein)	Cygb Stap	Rattus norvegicus (Rat)	190
+Q8UUR3	CYGB1_DANRE	reviewed	Cytoglobin-1	cygb1 cygb cygb-1 zgc:109806	Danio rerio (Zebrafish) (Brachydanio rerio)	174
+Q9UAG7	FHBA_DICDI	reviewed	Flavohemoprotein A (EC 1.14.12.17) (DdFHa) (Flavohemoglobin A) (Hemoglobin-like protein A) (Nitric oxide dioxygenase A) (NO oxygenase A) (NOD A)	fhbA DDB_G0292378	Dictyostelium discoideum (Slime mold)	397
+Q54D73	FHBB_DICDI	reviewed	Flavohemoprotein B (EC 1.14.12.17) (DdFHb) (Flavohemoglobin B) (Hemoglobin-like protein B) (Nitric oxide dioxygenase B) (NO oxygenase B) (NOD B)	fhbB DDB_G0292380	Dictyostelium discoideum (Slime mold)	423
+Q03331	FHP_CANNO	reviewed	Flavohemoprotein (EC 1.14.12.17) (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD)		Candida norvegensis (Yeast) (Candida mycoderma)	390
+Q9URY5	FHP_SCHPO	reviewed	Flavohemoprotein (EC 1.14.12.17) (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD)	SPAC869.02c	Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast)	427
+P02228	GLB10_CHITH	reviewed	Globin CTT-X	CTT-10	Chironomus thummi thummi (Midge)	151
+P14395	GLB1A_ANATR	reviewed	Globin-1 subunit alpha (Globin I alpha chain)		Anadara trapezia (Sydney cockle) (Arca trapezia)	151
+P02212	GLB1_ANABR	reviewed	Globin-1 (Globin I) (HbI)		Anadara broughtonii (Blood clam) (Scapharca broughtonii)	146
+P04251	GLB1B_ANATR	reviewed	Globin-1 subunit beta (Globin I beta chain)		Anadara trapezia (Sydney cockle) (Arca trapezia)	152
+P02221	GLB1_CHITH	reviewed	Globin CTT-I/CTT-IA (Erythrocruorin)	CTT-1	Chironomus thummi thummi (Midge)	158
+P14805	GLB1_CALSO	reviewed	Globin-1 (Globin I) (Hb I)		Calyptogena soyoae (Deep-sea cold-seep clam)	144
+P02216	GLB1_GLYDI	reviewed	Globin, major monomeric component		Glycera dibranchiata (Bloodworm)	147
+Q7M416	GLB1_LIOJA	reviewed	Globin-1 (Myoglobin I)		Liolophura japonica (Chiton) (Acanthopleura japonica)	145
+P09967	GLB1_PETMA	reviewed	Globin-1 (Globin I)		Petromyzon marinus (Sea lamprey)	150
+P11740	GLB1_METSO	reviewed	Extracellular globin-1 (Erythrocruorin) (Globin I)		Metaphire sieboldi (Earthworm) (Pheretima sieboldi)	141
+P02219	GLB1_TYLHE	reviewed	Extracellular globin-1 (Erythrocruorin) (Extracellular globin I)		Tylorrhynchus heterochaetus (Marine worm) (Nereis heterochaeta)	139
+P14822	GLB2B_ANAIN	reviewed	Globin-2 B chain (Globin II B chain) (HBII-B)		Anadara inaequivalvis (Inequivalve ark) (Scapharca inaequivalvis)	151
+P14821	GLB2A_ANAIN	reviewed	Globin-2 A chain (Globin II A chain) (HBII-A)		Anadara inaequivalvis (Inequivalve ark) (Scapharca inaequivalvis)	150
+P21197	GLB1_MORMR	reviewed	Globin-1 (Hemoglobin I)		Mordacia mordax (Southern hemisphere lamprey)	150
+P15161	GLB1_PARCH	reviewed	Globin-1 (Globin I)		Paracaudina chilensis (Sea cucumber) (Caudina chilensis)	158
+P02218	GLB2_LUMTE	reviewed	Extracellular globin-2 (Erythrocruorin) (Globin AIII) (Globin B) (Globin II)		Lumbricus terrestris (Common earthworm)	145
+P19363	GLB1_ARTSX	reviewed	Extracellular globin-E1 (Fragment)		Artemia sp. (Brine shrimp)	194
+P02222	GLB2_CHITH	reviewed	Globin CTT-II beta		Chironomus thummi thummi (Midge)	160
+P49672	GLB2_ASCSU	reviewed	Myoglobin (Globin, body wall isoform)		Ascaris suum (Pig roundworm) (Ascaris lumbricoides)	153
+P21198	GLB2_MORMR	reviewed	Globin-2 (Hemoglobin II)		Mordacia mordax (Southern hemisphere lamprey)	150
+P14394	GLB2_ANATR	reviewed	Globin-2B (Globin IIB)		Anadara trapezia (Sydney cockle) (Arca trapezia)	146
+Q9I9I3	GLB2_PETMA	reviewed	Globin-2 (Globin II) (Hemoglobin PmII')		Petromyzon marinus (Sea lamprey)	150
+P09966	GLB2_TYLHE	reviewed	Extracellular globin-2A (Erythrocruorin) (Globin IIA)		Tylorrhynchus heterochaetus (Marine worm) (Nereis heterochaeta)	146
+P08924	GLB1_LUMTE	reviewed	Extracellular globin-1 (Erythrocruorin) (Globin D) (Globin I)		Lumbricus terrestris (Common earthworm)	142
+P41261	GLB2_PHAPT	reviewed	Hemoglobin-2 (Hemoglobin II) (Hb II) (HbII)		Phacoides pectinatus (Thick lucine) (Lucina pectinata)	151
+P22431	GLB3_CHITP	reviewed	Globin CTP-III (Erythrocruorin III)		Chironomus thummi piger (Midge) (Chironomus piger)	136
+P83122	GLB1_METHI	reviewed	Extracellular globin-1 (Erythrocruorin) (Globin I)		Metaphire hilgendorfi (Earthworm) (Pheretima hilgendorfi)	140
+P21199	GLB3_MORMR	reviewed	Globin-3 (Hemoglobin III)		Mordacia mordax (Southern hemisphere lamprey)	150
+P15469	GLB3_LAMSP	reviewed	Giant hemoglobin AIII chain		Lamellibrachia sp. (Deep-sea giant tube worm)	144
+P02230	GLB4_CHITH	reviewed	Globin CTT-IV	D; D'; C; C'	Chironomus thummi thummi (Midge)	151
+P15447	GLB4_GLYDI	reviewed	Globin, monomeric component M-IV (GMH4)		Glycera dibranchiata (Bloodworm)	148
+P41262	GLB3_PHAPT	reviewed	Hemoglobin-3 (Hemoglobin III) (Hb III)		Phacoides pectinatus (Thick lucine) (Lucina pectinata)	153
+P02209	GLB3_MYXGL	reviewed	Globin-3 (Hemoglobin III)		Myxine glutinosa (Atlantic hagfish)	149
+P09968	GLB3_PETMA	reviewed	Globin-3 (Globin III)		Petromyzon marinus (Sea lamprey)	150
+P51535	GLB2_NIPBR	reviewed	Myoglobin (Globin, body wall isoform)	GLBB	Nippostrongylus brasiliensis (Rat hookworm)	154
+P12548	GLB73_CHITH	reviewed	Globin CTT-VIIB-3	CTT-7B3	Chironomus thummi thummi (Midge)	161
+P84298	GLB75_CHITH	reviewed	Globin CTT-VIIB-5/CTT-VIIB-9	CTT-7B5; CTT-7B9	Chironomus thummi thummi (Midge)	161
+P02220	GLB4_TYLHE	reviewed	Extracellular globin-2C (Erythrocruorin) (Extracellular globin IIC)		Tylorrhynchus heterochaetus (Marine worm) (Nereis heterochaeta)	149
+P13579	GLB4_LUMTE	reviewed	Extracellular globin-4 (Erythrocruorin) (Globin A) (Globin IV)		Lumbricus terrestris (Common earthworm)	151
+P84297	GLB74_CHITP	reviewed	Globin CTT-VIIB-4	CTT-7B4 HbVIIB-9	Chironomus thummi piger (Midge) (Chironomus piger)	161
+P84299	GLB75_CHITP	reviewed	Globin CTT-VIIB-5/CTT-VIIB-9	CTT-7B5 HbVIIB-5; CTT-7B9 HbVIIB-6	Chironomus thummi piger (Midge) (Chironomus piger)	161
+P13578	GLB3_TYLHE	reviewed	Extracellular globin-2B (Erythrocruorin) (Extracellular globin IIB)		Tylorrhynchus heterochaetus (Marine worm) (Nereis heterochaeta)	148
+P12549	GLB76_CHITH	reviewed	Globin CTT-VIIB-6	CTT-7B6	Chironomus thummi thummi (Midge)	161
+Q23763	GLB78_CHITH	reviewed	Globin CTT-VIIB-8	CTT-7B8	Chironomus thummi thummi (Midge)	161
+P19364	GLB7_ARTSX	reviewed	Extracellular globin-E7		Artemia sp. (Brine shrimp)	152
+P02223	GLB9_CHITH	reviewed	Globin CTT-IX	CTT-9	Chironomus thummi thummi (Midge)	161
+P29242	GLB77_CHITP	reviewed	Globin CTT-VIIB-7	CTT-7B7 HbVIIb-7	Chironomus thummi piger (Midge) (Chironomus piger)	162
+P14528	GLB2_CALSO	reviewed	Globin-2 (Globin II) (Hb II)		Calyptogena soyoae (Deep-sea cold-seep clam)	136
+P84296	GLB74_CHITH	reviewed	Globin CTT-VIIB-4 (Erythrocruorin)	CTT-7B4	Chironomus thummi thummi (Midge)	161
+P02227	GLB8_CHITH	reviewed	Globin CTT-VIII	CTT-8	Chironomus thummi thummi (Midge)	151
+Q23762	GLB7X_CHITH	reviewed	Globin CTT-VIIB-10	CTT-7B10	Chironomus thummi thummi (Midge)	161
+Q7M413	GLBA2_OLIMA	reviewed	Extracellular giant hemoglobin major globin subunit A2 (Major globin chain a5)	ghbA2	Oligobrachia mashikoi (Beard worm)	158
+Q7M418	GLBB2_OLIMA	reviewed	Extracellular giant hemoglobin major globin subunit B2 (Major globin chain c)	ghbB2	Oligobrachia mashikoi (Beard worm)	163
+Q7M419	GLBA1_OLIMA	reviewed	Extracellular giant hemoglobin major globin subunit A1 (Major globin chain b)	ghbA1	Oligobrachia mashikoi (Beard worm)	156
+P18966	GLB78_CHITP	reviewed	Globin CTT-VIIB-8	CTT-7B8 HbVIIB-8	Chironomus thummi piger (Midge) (Chironomus piger)	161
+P02226	GLB7A_CHITH	reviewed	Globin CTT-VIIA	ctt-7A.1	Chironomus thummi thummi (Midge)	161
+P51536	GLBC_NIPBR	reviewed	Globin, cuticular isoform	GLBC	Nippostrongylus brasiliensis (Rat hookworm)	173
+Q5KSB7	GLBB1_OLIMA	reviewed	Extracellular giant hemoglobin major globin subunit B1 (Major globin chain d)	ghbB1	Oligobrachia mashikoi (Beard worm)	161
+P80592	GLBB_RIFPA	reviewed	Giant hemoglobins B chain		Riftia pachyptila (Vent tube worm)	144
+P11582	GLBE_CHITH	reviewed	Globin CTT-E/E'	CTT-E; CTT-E'	Chironomus thummi thummi (Midge)	152
+P02224	GLB6_CHITH	reviewed	Globin CTT-VI	CTT-6	Chironomus thummi thummi (Midge)	162
+P12550	GLB77_CHITH	reviewed	Globin CTT-VIIB-7	CTT-7B7	Chironomus thummi thummi (Midge)	162
+P80018	GLBC_CAUAR	reviewed	Globin C, coelomic		Caudina arenicola (Sea cucumber) (Molpadia arenicola)	159
+Q7SID0	GLBF1_EPTBU	reviewed	Globin-F1		Eptatretus burgeri (Inshore hagfish)	146
+P80017	GLBD_CAUAR	reviewed	Globin D, coelomic		Caudina arenicola (Sea cucumber) (Molpadia arenicola)	159
+P27613	GLBH_TRICO	reviewed	Globin-like host-protective antigen		Trichostrongylus colubriformis (Black scour worm)	173
+P23216	GLBP1_GLYDI	reviewed	Globin, major polymeric component P1		Glycera dibranchiata (Bloodworm)	147
+P25165	GLBM_ANATR	reviewed	Globin, minor		Anadara trapezia (Sydney cockle) (Arca trapezia)	152
+P21659	GLBP2_GLYDI	reviewed	Globin, polymeric component P2		Glycera dibranchiata (Bloodworm)	147
+Q23760	GLBW_CHITH	reviewed	Globin CTT-W (HBW)	CTT-W	Chironomus thummi thummi (Midge)	159
+P21660	GLBP3_GLYDI	reviewed	Globin, polymeric component P3		Glycera dibranchiata (Bloodworm)	147
+P18968	GLBY_CHITP	reviewed	Globin CTT-Y (HBY)	CTT-Y	Chironomus thummi piger (Midge) (Chironomus piger)	160
+P29245	GLBZ_CHITP	reviewed	Globin CTT-Z (HBZ)	CTT-Z	Chironomus thummi piger (Midge) (Chironomus piger)	163
+Q23761	GLBZ_CHITH	reviewed	Globin CTT-Z (HBZ)	CTT-Z	Chironomus thummi thummi (Midge)	163
+P28316	GLB_ASCSU	reviewed	Extracellular globin		Ascaris suum (Pig roundworm) (Ascaris lumbricoides)	338
+P02231	GLBT_CHITH	reviewed	Globin CTT-IIIA		Chironomus thummi thummi (Midge)	151
+P02211	GLB_APLKU	reviewed	Globin (Myoglobin)		Aplysia kurodai (Kuroda's sea hare)	145
+O77003	GLB_BIOGL	reviewed	Globin (Myoglobin)		Biomphalaria glabrata (Bloodfluke planorb) (Freshwater snail)	151
+P29287	GLB_BURLE	reviewed	Globin (Myoglobin)		Bursatella leachii (Ragged sea hare)	146
+P02207	GLB_LAMFL	reviewed	Globin		Lampetra fluviatilis (European river lamprey) (Petromyzon fluviatilis)	150
+P09965	GLB_DOLAU	reviewed	Globin (Myoglobin)		Dolabella auricularia (Sea hare)	146
+P02214	GLB_BUSCA	reviewed	Globin (Myoglobin)		Busycotypus canaliculatus (Channeled whelk) (Busycon canaliculatum)	147
+P0C227	GLB_NERAL	reviewed	Globin (Myoglobin)		Nerita albicilla (Ox-palate nerite) (Theliostyla albicilla)	157
+Q8T7J9	GLB_YOLEI	reviewed	Globin		Yoldia eightsii	147
+P31331	GLB_NASMU	reviewed	Globin (Myoglobin)		Nassarius mutabilis (Sea snail) (Buccinum mutabile)	147
+P29244	GLBW_CHITP	reviewed	Globin CTT-W (HBW)	CTT-W	Chironomus thummi piger (Midge) (Chironomus piger)	159
+P02215	GLB_CERRH	reviewed	Globin (Myoglobin)		Cerithidea rhizophorarum (Water snail) (Horn shell)	151
+P14393	GLB_APLJU	reviewed	Globin (Myoglobin)		Aplysia juliana (Walking sea hare) (Juliana's sea hare)	144
+Q7M424	GLB_BUCUU	reviewed	Globin (Myoglobin)		Buccinum undatum (Common whelk)	146
+P18202	GLB_TUBTU	reviewed	Globin, extracellular monomeric		Tubifex tubifex (Sludge worm) (Lumbricus tubifex)	141
+P29243	GLBV_CHITP	reviewed	Globin CTT-V (HBV)	CTT-V	Chironomus thummi piger (Midge) (Chironomus piger)	163
+P26914	GLB_PSEDC	reviewed	Extracellular globin		Pseudoterranova decipiens (Cod worm)	333
+P83270	HBA1_ANAMI	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain)	hba1	Anarhichas minor (Arctic spotted wolffish)	143
+Q1AGS5	HBA1_ARCGL	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain)	hba1	Arctogadus glacialis (Arctic cod)	143
+Q9TSN7	HBA1_BUBBU	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain) (Ialpha1)		Bubalus bubalis (Domestic water buffalo)	142
+P84653	HBA1_COTGO	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain)	hba1	Cottoperca gobio (Frogmouth) (Aphritis gobio)	143
+P41329	HBA1_ARCGA	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain) (Hemoglobin alpha-I chain)		Arctocephalus galapagoensis (Galapagoes fur seal) (Arctocephalus australis galapagoensis)	142
+Q9XSN3	HBA1_EQUBU	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain)	HBA1	Equus burchelli (Plains zebra) (Equus quagga)	142
+Q1AGS9	HBA1_BORSA	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain)	hba1	Boreogadus saida (Polar cod)	143
+P84609	HBA1_GADMO	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain)	hba1	Gadus morhua (Atlantic cod)	143
+P83131	HBA1_ALDGI	reviewed	Hemoglobin A subunit alpha-1 (Hemoglobin A alpha-1 chain)		Aldabrachelys gigantea (Aldabra giant tortoise) (Geochelone gigantea)	142
+P82111	HBA1_CATMA	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hb 1) (Hemoglobin alpha-1 chain)		Catharacta maccormicki (South polar skua) (Stercorarius maccormicki)	141
+P85081	HBA1_LIPTU	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain)	hba1	Liparis tunicatus (Kelp snailfish)	143
+P01967	HBA1_BOSMU	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain)		Bos mutus grunniens (Wild yak) (Bos grunniens)	141
+P83611	HBA1_GOBGI	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain)	hba1	Gobionotothen gibberifrons (Humped rockcod) (Notothenia gibberifrons)	142
+Q9PRL9	HBA1_NAJNA	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain) (Hemoglobin alpha-I chain)		Naja naja (Indian cobra)	141
+P18979	HBA1_SAAHA	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain) (Fragment)		Saara hardwickii (Indian spiny-tailed lizard) (Uromastyx hardwickii)	90
+Q9XSN2	HBA1_EQUGR	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain)	HBA1	Equus grevyi (Grevy's zebra)	142
+P10777	HBA1_NOTNE	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain)	hba1	Notothenia neglecta (Yellowbelly rockcod) (Notothenia coriiceps neglecta)	142
+P01977	HBA1_TACAC	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain)		Tachyglossus aculeatus aculeatus (Australian echidna)	141
+P02019	HBA1_ONCMY	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain)	hba1	Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri)	144
+Q9TS35	HBA1_HYLLA	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain)	HBA1	Hylobates lar (Common gibbon) (White-handed gibbon)	142
+P11755	HBA1_TADBR	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain)		Tadarida brasiliensis (Brazilian free-tailed bat)	141
+P20244	HBA1_TORMA	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain)		Torpedo marmorata (Marbled electric ray)	141
+P07430	HBA1_XENBO	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain) (Hemoglobin alpha-major chain)	hba1	Xenopus borealis (Kenyan clawed frog)	142
+P0CH25	HBA1_CAPHI	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain)	HBA1	Capra hircus (Goat)	142
+P29624	HBA1_NOTAN	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain)	hba1	Notothenia angustata (Rockcod)	142
+P18974	HBA1_IGUIG	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain)		Iguana iguana (Common iguana)	141
+Q7M3B8	HBA1_HAPGR	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain)	HBA1	Hapalemur griseus (Gray gentle lemur) (Eastern lesser bamboo lemur)	140
+P83271	HBA2_ANAMI	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain)	hba2	Anarhichas minor (Arctic spotted wolffish)	143
+P83132	HBA2_ALDGI	reviewed	Hemoglobin A subunit alpha-2 (Hemoglobin A alpha-2 chain)		Aldabrachelys gigantea (Aldabra giant tortoise) (Geochelone gigantea)	142
+P41330	HBA2_ARCGA	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain) (Hemoglobin alpha-II chain)		Arctocephalus galapagoensis (Galapagoes fur seal) (Arctocephalus australis galapagoensis)	142
+P45718	HBA1_TRENE	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain)	hba1	Trematomus newnesi (Dusky notothen)	142
+P01968	HBA2_BOSMU	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain)		Bos mutus grunniens (Wild yak) (Bos grunniens)	141
+P02012	HBA1_XENLA	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain) (Hemoglobin alpha-major chain)	hba1	Xenopus laevis (African clawed frog)	142
+Q1AGS4	HBA2_ARCGL	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain)	hba2	Arctogadus glacialis (Arctic cod)	143
+P82112	HBA2_CATMA	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hb 2) (Hemoglobin alpha-2 chain)		Catharacta maccormicki (South polar skua) (Stercorarius maccormicki)	141
+K7N5M5	HBA1_ELEMC	reviewed	Hemoglobin subunit alpha 1 (Alpha-1-globin) (Hemoglobin alpha-1 chain)	hba1	Eleginops maclovinus (Patagonian blennie)	142
+Q9TVA3	HBA2_EQUBU	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain)	HBA2	Equus burchelli (Plains zebra) (Equus quagga)	142
+Q9TS34	HBA2_HYLLA	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain)	HBA2	Hylobates lar (Common gibbon) (White-handed gibbon)	142
+P62363	HBA2_NOTAN	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain)	hba2	Notothenia angustata (Rockcod)	141
+Q7JFN6	HBA2_EQUGR	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain)	HBA2	Equus grevyi (Grevy's zebra)	142
+P83613	HBA2_GOBGI	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain)	hba2	Gobionotothen gibberifrons (Humped rockcod) (Notothenia gibberifrons)	142
+Q9TSN8	HBA2_BUBBU	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain) (Ialpha2)		Bubalus bubalis (Domestic water buffalo)	142
+P01978	HBA2_TACAC	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain)		Tachyglossus aculeatus aculeatus (Australian echidna)	141
+P14259	HBA1_OTOCR	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Alpha-I) (Hemoglobin alpha-A chain)	HBAA	Otolemur crassicaudatus (Brown greater galago) (Galago crassicaudatus)	142
+P62387	HBA2_NOTNE	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain)	hba2	Notothenia neglecta (Yellowbelly rockcod) (Notothenia coriiceps neglecta)	141
+P18980	HBA2_SAAHA	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain) (Fragment)		Saara hardwickii (Indian spiny-tailed lizard) (Uromastyx hardwickii)	40
+P01939	HBA2_OTOCR	reviewed	Hemoglobin subunit alpha-B (Alpha-B-globin) (Alpha-II) (Hemoglobin alpha-B chain)	HBAB	Otolemur crassicaudatus (Brown greater galago) (Galago crassicaudatus)	142
+P45719	HBA2_TRENE	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain)	hba2	Trematomus newnesi (Dusky notothen)	142
+O42425	HBA2_GADMO	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain)	hba2 hba	Gadus morhua (Atlantic cod)	143
+P10783	HBA1_TRICR	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain) (Hemoglobin alpha-major chain)		Triturus cristatus (Great crested newt) (Warty newt)	142
+P06640	HBA2_PLEWA	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain) (Hemoglobin alpha-minor chain) (Fragment)		Pleurodeles waltl (Iberian ribbed newt)	133
+P18981	HBA2_VARAL	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain) (Hemoglobin alpha-II chain)		Varanus albigularis (White-throated monitor) (Varanus exanthematicus albigularis)	141
+Q9TSN9	HBA3_BUBBU	reviewed	Hemoglobin subunit alpha-3 (Alpha-3-globin) (Hemoglobin alpha-3 chain) (IIalpha3)		Bubalus bubalis (Domestic water buffalo)	142
+P10784	HBA2_TRICR	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain) (Hemoglobin alpha-minor chain)		Triturus cristatus (Great crested newt) (Warty newt)	141
+P85083	HBA2_COTGO	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain)	hba2	Cottoperca gobio (Frogmouth) (Aphritis gobio)	143
+Q1AGS8	HBA2_BORSA	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain)	hba2	Boreogadus saida (Polar cod)	143
+P20018	HBA1_VARVI	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain) (Hemoglobin alpha-I chain)		Varecia variegata (Black-and-white ruffed lemur) (Lemur variegatus)	141
+P07431	HBA2_XENBO	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain) (Hemoglobin alpha-minor chain)	hba2	Xenopus borealis (Kenyan clawed frog)	142
+P06636	HBA3_XENLA	reviewed	Hemoglobin subunit alpha-3 (Alpha-3-globin) (Alpha-T3) (Hemoglobin alpha-2 chain)	hba3	Xenopus laevis (African clawed frog)	142
+P0CH26	HBA2_CAPHI	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain)	HBA2	Capra hircus (Goat)	142
+P02013	HBA2_XENLA	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain) (Hemoglobin alpha-minor chain)	hba2	Xenopus laevis (African clawed frog)	142
+P11896	HBA3_PLEWA	reviewed	Hemoglobin larval subunit alpha (Alpha-globin, larval) (Hemoglobin alpha-chain, larval)		Pleurodeles waltl (Iberian ribbed newt)	142
+P20245	HBA2_TORMA	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain)		Torpedo marmorata (Marbled electric ray)	141
+P14527	HBA4_ONCMY	reviewed	Hemoglobin subunit alpha-4 (Alpha-4-globin) (Hemoglobin alpha-4 chain)	hba4	Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri)	142
+P06639	HBA1_PLEWA	reviewed	Hemoglobin subunit alpha-1 (Alpha-1-globin) (Hemoglobin alpha-1 chain) (Hemoglobin alpha-major chain)		Pleurodeles waltl (Iberian ribbed newt)	142
+Q9XSK1	HBA4_BUBBU	reviewed	Hemoglobin subunit alpha-4 (Alpha-4-globin) (Hemoglobin alpha-4 chain) (IIalpha4)		Bubalus bubalis (Domestic water buffalo)	142
+P80945	HBAA_ANGAN	reviewed	Hemoglobin anodic subunit alpha (Hemoglobin anodic alpha chain)	hba	Anguilla anguilla (European freshwater eel) (Muraena anguilla)	143
+P01934	HBA3_GORGO	reviewed	Hemoglobin subunit alpha-3 (Alpha-3-globin) (Hemoglobin alpha-2 chain)		Gorilla gorilla gorilla (Western lowland gorilla)	141
+P51465	HBAB_LITCT	reviewed	Hemoglobin subunit alpha-B (Alpha-B-globin) (Hemoglobin alpha-B chain)		Lithobates catesbeiana (American bullfrog) (Rana catesbeiana)	142
+P83135	HBAA_CHENI	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Chelonoidis nigra (Galapagos giant tortoise) (Geochelone nigra)	142
+Q9PVM4	HBAA_SERQU	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	hbaa	Seriola quinqueradiata (Five-ray yellowtail)	143
+P06637	HBA4_XENLA	reviewed	Hemoglobin subunit alpha-4 (Alpha-4-globin) (Alpha-T4) (Hemoglobin alpha-4 chain)	hba4	Xenopus laevis (African clawed frog)	142
+P83479	HBAC_CONCO	reviewed	Hemoglobin cathodic subunit alpha (Hemoglobin cathodic alpha chain)		Conger conger (Conger eel) (Muraena conger)	143
+P84203	HBAC_GYMUN	reviewed	Hemoglobin cathodic subunit alpha (Hemoglobin cathodic alpha chain)		Gymnothorax unicolor (Brown moray) (Muraenophis unicolor)	143
+P06638	HBA5_XENLA	reviewed	Hemoglobin subunit alpha-5 (Alpha-5-globin) (Alpha-T5) (Hemoglobin alpha-5 chain)	hba5	Xenopus laevis (African clawed frog)	142
+P20019	HBA2_VARVI	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain) (Hemoglobin alpha-II chain)		Varecia variegata (Black-and-white ruffed lemur) (Lemur variegatus)	141
+P80726	HBAC_ANGAN	reviewed	Hemoglobin cathodic subunit alpha (Hemoglobin cathodic alpha chain)		Anguilla anguilla (European freshwater eel) (Muraena anguilla)	143
+P55267	HBAC_LITCT	reviewed	Hemoglobin subunit alpha-C (Alpha-C-globin) (Hemoglobin alpha-C chain)		Lithobates catesbeiana (American bullfrog) (Rana catesbeiana)	142
+P84205	HBAA_GYMUN	reviewed	Hemoglobin anodic subunit alpha (Hemoglobin anodic alpha chain)		Gymnothorax unicolor (Brown moray) (Muraenophis unicolor)	142
+P08849	HBAD_ACCGE	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Accipiter gentilis (Northern goshawk) (Falco gentilis)	141
+P83134	HBAD_ALDGI	reviewed	Hemoglobin D subunit alpha (Hemoglobin D alpha chain)		Aldabrachelys gigantea (Aldabra giant tortoise) (Geochelone gigantea)	141
+P82315	HBAC_HOPLI	reviewed	Hemoglobin cathodic subunit alpha (Hemoglobin cathodic alpha chain) (Hb(Ca) alpha chain)		Hoplosternum littorale (Hassar)	142
+P04239	HBAD_ANSIN	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Anser indicus (Bar-headed goose) (Anas indica)	141
+B3EWR7	HBAC_OPHSE	reviewed	Hemoglobin cathodic subunit alpha (Hemoglobin cathodic alpha chain)		Ophisurus serpens (Serpent eel) (Muraena serpens)	142
+P04238	HBAD_ANSAN	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Anser anser anser (Western greylag goose)	141
+P04240	HBAD_BRACA	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Branta canadensis (Canada goose) (Anas canadensis)	141
+P68059	HBAD_AEGMO	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Aegypius monachus (Black vulture)	141
+P83113	HBA2_TELPE	reviewed	Hemoglobin subunit alpha-2 (Alpha-2-globin) (Hemoglobin alpha-2 chain) (Fragment)		Telmatobius peruvianus (Andean frog)	137
+P84791	HBAD_AYTFU	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Aythya fuligula (Tufted duck) (Anas fuligula)	141
+P15164	HBAD_APUAP	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Apus apus (Common swift)	141
+P08422	HBA3_XENTR	reviewed	Hemoglobin subunit alpha-3 (Alpha-3-globin) (Alpha-globin larval 8) (Hemoglobin alpha-3 chain) (Larval alpha globin)	hba-l8 TTpA002j01.1	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	142
+Q9PVM3	HBAB_SERQU	reviewed	Hemoglobin subunit alpha-B (Alpha-B-globin) (Hemoglobin alpha-B chain)	hbab	Seriola quinqueradiata (Five-ray yellowtail)	144
+P04442	HBAD_ANAPL	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Anas platyrhynchos (Mallard) (Anas boschas)	141
+P02011	HBA3_LITCT	reviewed	Hemoglobin subunit alpha-3 (Alpha-3-globin) (Hemoglobin alpha-3 chain) (Hemoglobin alpha-III chain, larval)		Lithobates catesbeiana (American bullfrog) (Rana catesbeiana)	141
+P01935	HBA3_PANTR	reviewed	Hemoglobin subunit alpha-3 (Alpha-3-globin) (Hemoglobin alpha-2 chain)		Pan troglodytes (Chimpanzee)	141
+P83124	HBAD_CHENI	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Chelonoidis nigra (Galapagos giant tortoise) (Geochelone nigra)	141
+P07035	HBAD_CHLME	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Chloephaga melanoptera (Andean goose) (Anser melanopterus)	141
+P02003	HBAD_CAIMO	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Cairina moschata (Muscovy duck)	141
+P81024	HBAD_MELGA	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Meleagris gallopavo (Common turkey)	141
+P30892	HBAD_COTJA	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Coturnix coturnix japonica (Japanese quail) (Coturnix japonica)	141
+P08257	HBAD_GYPRU	reviewed	Hemoglobin subunit alpha-D/D' (Alpha-D/D'-globin) (Hemoglobin alpha-D/D' chain)	HBAD	Gyps rueppellii (Rueppell's griffon)	141
+P02006	HBAD_PHRHI	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Component CII) (Hemoglobin alpha-D chain)	HBAD	Phrynops hilarii (Snake-necked turtle)	141
+P16417	HBAD_ERYML	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Erythrolamprus miliaris (South American water snake) (Liophis miliaris)	141
+P10062	HBAD_SPHPU	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Sphenodon punctatus (Tuatara) (Hatteria punctata)	141
+P04242	HBAD_STRCA	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Struthio camelus (Common ostrich)	141
+Q9DF25	HBAD_CHECB	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Chelonoidis carbonarius (Red-footed tortoise) (Geochelone carbonaria)	141
+P68060	HBAD_TRIOC	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Trigonoceps occipitalis (White-headed vulture) (Aegypius occipitalis)	141
+P07413	HBAD_PASMO	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Passer montanus (Eurasian tree sparrow)	141
+Q9PVU6	HBAE_ORYLA	reviewed	Hemoglobin embryonic subunit alpha (Alpha-globin, embryonic) (Hemoglobin alpha-chain, embryonic)		Oryzias latipes (Japanese rice fish) (Japanese killifish)	144
+O12985	HBAD_COLLI	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Columba livia (Rock dove)	140
+P14523	HBAD_TURME	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Turdus merula (Common blackbird)	141
+P10781	HBAD_PHACA	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Phalacrocorax carbo (Great cormorant) (Pelecanus carbo)	141
+P02002	HBAD_PHACO	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Phasianus colchicus colchicus (Black-necked pheasant)	141
+P04241	HBAD_RHEAM	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Rhea americana (Greater rhea) (Common rhea)	141
+P0C0U7	HBAD_DRYME	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)		Drymarchon melanurus erebennus (Texas indigo snake) (Drymarchon corais erebennus)	141
+P02022	HBAM_LITCT	reviewed	Hemoglobin heart muscle subunit alpha-type (Hemoglobin alpha-type chain, heart muscle)		Lithobates catesbeiana (American bullfrog) (Rana catesbeiana)	132
+P09106	HBAT_PAPAN	reviewed	Hemoglobin subunit theta-1 (Hemoglobin theta-1 chain) (Theta-1-globin)	HBQ1 THETA1	Papio anubis (Olive baboon)	142
+P06890	HBAT_PONPY	reviewed	Hemoglobin subunit theta-1 (Hemoglobin theta-1 chain) (Theta-1-globin)	HBQ1	Pongo pygmaeus (Bornean orangutan)	142
+P02005	HBAD_CHRPI	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Chrysemys picta bellii (Western painted turtle) (Emys bellii)	141
+P02004	HBAD_STUVU	reviewed	Hemoglobin subunit alpha-D (Alpha-D-globin) (Hemoglobin alpha-D chain)	HBAD	Sturnus vulgaris (Starling)	141
+P06714	HBAT_HORSE	reviewed	Hemoglobin subunit theta-1 (Hemoglobin theta-1 chain) (Theta-1-globin)	HBQ1 PSI ALPHA THETA1	Equus caballus (Horse)	142
+P81044	HBAZ_MACEU	reviewed	Hemoglobin subunit zeta (Hemoglobin zeta chain) (Zeta-globin) (Fragments)		Macropus eugenii (Tammar wallaby)	79
+P06347	HBAZ_PANTR	reviewed	Hemoglobin subunit zeta (Hemoglobin zeta chain) (Zeta-globin)	HBZ1	Pan troglodytes (Chimpanzee)	142
+P08850	HBA_ACCGE	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Accipiter gentilis (Northern goshawk) (Falco gentilis)	142
+P07417	HBA_AEGMO	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Aegypius monachus (Black vulture)	142
+P13786	HBAZ_CAPHI	reviewed	Hemoglobin subunit zeta (Hemoglobin zeta chain) (Zeta-globin)	HBZ1	Capra hircus (Goat)	142
+P02009	HBAZ_PIG	reviewed	Hemoglobin subunit zeta (Hemoglobin zeta chain) (Zeta-globin)		Sus scrofa (Pig)	141
+P01971	HBA_ALCAA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Alces alces alces (European moose) (Elk)	142
+P02015	HBA_AMBME	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Ambystoma mexicanum (Axolotl)	143
+P18970	HBA_AILME	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Ailuropoda melanoleuca (Giant panda)	142
+P01985	HBA_ANSSE	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Anseranas semipalmata (Magpie goose) (Anas semipalmata)	142
+P01986	HBA_ANAPL	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Anas platyrhynchos (Mallard) (Anas boschas)	142
+P15162	HBA_APUAP	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Apus apus (Common swift)	142
+P18969	HBA_AILFU	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Ailurus fulgens (Lesser panda) (Red panda)	142
+P01980	HBA_APTFO	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Aptenodytes forsteri (Emperor penguin)	142
+P68239	HBA_AMMLE	reviewed	Hemoglobin subunit alpha-1/2 (Alpha-1/2-globin) (Hemoglobin alpha-1/2 chain)		Ammotragus lervia (Barbary sheep) (Aoudad)	142
+P01989	HBA_ANSAN	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Anser anser anser (Western greylag goose)	142
+P01993	HBA_AQUCH	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Aquila chrysaetos (Golden eagle)	142
+P0C237	HBA_ARTOR	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	hba	Artedidraco orianae	143
+P14387	HBA_ANTPA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Antrozous pallidus (Pallid bat) (Vespertilio pallidus)	142
+P67817	HBA_ATEGE	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Ateles geoffroyi (Black-handed spider monkey) (Geoffroy's spider monkey)	142
+P01990	HBA_ANSIN	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Anser indicus (Bar-headed goose) (Anas indica)	142
+P01999	HBA_ALLMI	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Alligator mississippiensis (American alligator)	142
+P09423	HBA_BISBO	reviewed	Hemoglobin subunit alpha-I/II (Alpha-I/II-globin) (Hemoglobin alpha-I/II chain)		Bison bonasus (European bison)	142
+P01988	HBA_ANAPP	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Anas platyrhynchos platyrhynchos (Northern mallard)	142
+B3EWE1	HBA_BLABR	reviewed	Hemoglobin subunit alpha		Blarina brevicauda (Northern short-tailed shrew)	141
+P01969	HBA_BOSGF	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Bos gaurus frontalis (Domestic gayal) (Bos frontalis)	142
+P13787	HBAZ_HORSE	reviewed	Hemoglobin subunit zeta (Hemoglobin zeta chain) (Zeta-globin)	HBZ1	Equus caballus (Horse)	142
+P84216	HBA_BATEA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Bathyraja eatonii (Eaton's skate)	142
+P01991	HBA_BRACA	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Branta canadensis (Canada goose) (Anas canadensis)	141
+P02000	HBA_CAICR	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Caiman crocodilus (Spectacled caiman) (Caiman sclerops)	141
+P18972	HBA_CALAR	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Callithrix argentata (Silvery marmoset) (Mico argentatus)	141
+P84790	HBA_AYTFU	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)		Aythya fuligula (Tufted duck) (Anas fuligula)	142
+P63106	HBA_CAMDR	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Camelus dromedarius (Dromedary) (Arabian camel)	141
+P63105	HBA_CAMBA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Camelus bactrianus (Bactrian camel)	141
+P01996	HBA_ARAAR	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Ara ararauna (Blue-and-yellow macaw)	142
+P60530	HBA_CANLA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Canis latrans (Coyote)	142
+P14525	HBA_BRATR	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Bradypus tridactylus (Pale-throated three-toed sloth)	141
+Q10732	HBA_CARCR	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Caretta caretta (Loggerhead sea turtle)	141
+P18971	HBA_BALAC	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Balaenoptera acutorostrata (Common minke whale) (Balaena rostrata)	142
+P02018	HBA_CARAU	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	hba	Carassius auratus (Goldfish)	142
+P02017	HBA_CATCL	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	hba	Catostomus clarkii (Desert sucker)	142
+P60529	HBA_CANFA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Canis familiaris (Dog) (Canis lupus familiaris)	141
+P01947	HBA_CAVPO	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Cavia porcellus (Guinea pig)	142
+P07421	HBA_CEBCA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Cebus capucinus (White-faced sapajou)	141
+P80270	HBA_CHEKU	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	hba	Chelidonichthys kumu (Red gurnard) (Trigla kumu)	142
+P01933	HBA_CERAT	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Cercocebus atys (Sooty mangabey) (Cercocebus torquatus atys)	141
+P01987	HBA_CAIMO	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Cairina moschata (Muscovy duck)	142
+P01926	HBA_CHLAE	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)	142
+P07034	HBA_CHLME	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Chloephaga melanoptera (Andean goose) (Anser melanopterus)	141
+P60523	HBA_CHRBR	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Chrysocyon brachyurus (Maned wolf)	141
+P01983	HBA_CICCI	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Ciconia ciconia (White stork)	142
+P13273	HBA_CHRPI	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Chrysemys picta bellii (Western painted turtle) (Emys bellii)	141
+P24589	HBA_COTJA	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Coturnix coturnix japonica (Japanese quail) (Coturnix japonica)	142
+P19014	HBA_CRIGA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Cricetomys gambianus (Northern giant pouched rat)	142
+P18973	HBA_CROCR	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Crocuta crocuta (Spotted hyena)	141
+P20854	HBA_CTEGU	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Ctenodactylus gundi (Northern gundi)	141
+P23016	HBA_CYGMA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	hba	Cygnodraco mawsoni (Antarctic dragonfish)	142
+B0M2T2	HBA_CROSI	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Crocodylus siamensis (Siamese crocodile)	141
+P11753	HBA_CYNSP	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Cynopterus sphinx (Indian short-nosed fruit bat)	141
+Q7M2Y4	HBA_CHAMP	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Chalinolobus morio (Chocolate-wattled bat) (Lobe-lipped bat)	141
+P01992	HBA_CYGOL	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Cygnus olor (Mute swan) (Anas olor)	141
+P02016	HBA_CYPCA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	hba	Cyprinus carpio (Common carp)	143
+P01998	HBA_CRONI	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Crocodylus niloticus (Nile crocodile) (African crocodile)	141
+P56691	HBA_DASAK	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	hba	Dasyatis akajei (Red stingray) (Trygon akajei)	142
+P01976	HBA_DIDVI	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Didelphis virginiana (North American opossum) (Didelphis marsupialis virginiana)	141
+P01964	HBA_DASNO	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Dasypus novemcinctus (Nine-banded armadillo)	141
+P0C0U6	HBA_DRYME	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)		Drymarchon melanurus erebennus (Texas indigo snake) (Drymarchon corais erebennus)	141
+P24291	HBA_ECHTE	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Echinops telfairi (Lesser hedgehog tenrec)	141
+P01959	HBA_EQUAS	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA1; HBA2	Equus asinus (Donkey)	142
+C0HJT8	HBA_DISEL	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain) (Fragment)	hba	Dissostichus eleginoides (Patagonian toothfish) (Dissostichus amissus)	135
+P01963	HBA_CERSI	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Ceratotherium simum (White rhinoceros) (Square-lipped rhinoceros)	142
+P01954	HBA_ELEMA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Elephas maximus (Indian elephant)	141
+P01961	HBA_EQUHE	reviewed	Hemoglobin subunit alpha-1/2 (Alpha-1/2-globin) (Hemoglobin alpha-1/2 chain)		Equus hemionus kulan (Turkmenian kulan) (Equus onager kulan)	142
+Q9XSE9	HBA_EQUPR	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Equus przewalskii (Przewalski's horse) (Equus caballus przewalskii)	142
+P01960	HBA_EQUZE	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Equus zebra (Mountain zebra)	142
+P01949	HBA_ERIEU	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Erinaceus europaeus (Western European hedgehog)	141
+P14520	HBA_ELEEL	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	hba	Electrophorus electricus (Electric eel) (Gymnotus electricus)	142
+P19789	HBA_EUDSC	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Eudynamys scolopaceus (Western koel) (Cuculus scolopaceus)	141
+P07405	HBA_FELCA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Felis catus (Cat) (Felis silvestris catus)	141
+Q90487	HBA_DANRE	reviewed	Hemoglobin subunit alpha (Alpha-globin aa1) (Hemoglobin alpha chain)	hbaa1	Danio rerio (Zebrafish) (Brachydanio rerio)	143
+P01923	HBA_GORGO	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Gorilla gorilla gorilla (Western lowland gorilla)	141
+P08256	HBA_GYPRU	reviewed	Hemoglobin subunit alpha-A/A' (Alpha-A/A'-globin) (Hemoglobin alpha-A/A' chain)	HBAA	Gyps rueppellii (Rueppell's griffon)	141
+P29623	HBA_GYMAC	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	hba	Gymnodraco acuticeps (Antarctic dragonfish)	142
+P01936	HBA_EULFU	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Eulemur fulvus fulvus (Brown lemur)	141
+P22741	HBA_FRAPO	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Francolinus pondicerianus (Grey francolin) (Tetrao pondicerianus)	141
+P19015	HBA_HIPAM	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Hippopotamus amphibius (Hippopotamus)	141
+P02021	HBA_HETPO	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Heterodontus portusjacksoni (Port Jackson shark)	148
+P10057	HBA_EUDCH	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Eudyptes chrysocome (Rockhopper penguin) (Aptenodytes chrysocome)	141
+P68237	HBA_HELMA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Helarctos malayanus (Malayan sun bear) (Ursus malayanus)	142
+P01958	HBA_HORSE	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Equus caballus (Horse)	142
+P07419	HBA_DASVI	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Dasyurus viverrinus (Eastern quoll) (Didelphis viverrina)	142
+P41331	HBA_HYDGR	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Hydrophis gracilis (Graceful small-headed sea snake) (Microcephalophis gracilis)	141
+P67815	HBA_LAMGU	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Lama guanicoe (Guanaco)	141
+P01973	HBA_LAMGL	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Lama glama (Llama)	141
+P23740	HBA_LATCH	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Latimeria chalumnae (West Indian ocean coelacanth)	142
+P56250	HBA_LEIXA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	hba	Leiostomus xanthurus (Spot)	143
+P07425	HBA_LAMVI	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Lama vicugna (Vicugna) (Vicugna vicugna)	141
+P01938	HBA_LORTA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Loris tardigradus (Slender loris)	141
+P15163	HBA_LEPWE	reviewed	Hemoglobin subunit alpha-1/2 (Alpha-1/2-globin) (Hemoglobin alpha-1/2 chain) (Hemoglobin alpha-I/II chain)		Leptonychotes weddellii (Weddell seal)	141
+P02020	HBA_LEPPA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Lepidosiren paradoxus (South American lungfish)	143
+P10892	HBA_LUTLU	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Lutra lutra (European river otter)	141
+P08260	HBA_LARRI	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Larus ridibundus (Black-headed gull) (Chroicocephalus ridibundus)	141
+P41327	HBA_LYNLY	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Lynx lynx (Eurasian lynx) (Felis lynx)	141
+P21766	HBA_MACAS	reviewed	Hemoglobin subunit alpha-1/2/3 (Alpha-1/2/3-globin) (Hemoglobin alpha-1/2/3 chain)		Macaca assamensis (Assam macaque) (Assamese macaque)	141
+P09839	HBA_MACCA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Macrotus californicus (Californian leaf-nosed bat)	141
+P86882	HBA_LYCRE	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	hba	Lycodes reticulatus (Arctic eelpout)	142
+P01955	HBA_LOXAF	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Loxodonta africana (African elephant)	141
+P81043	HBA_MACEU	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Macropus eugenii (Tammar wallaby)	142
+P63107	HBA_MACFU	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Macaca fuscata fuscata (Japanese macaque)	142
+P21767	HBA_MACFA	reviewed	Hemoglobin subunit alpha-A/Q/R/T (Alpha-A/Q/R/T-globin) (Hemoglobin alpha-A/Q/R/T chain)		Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey)	141
+P24659	HBA_MACGG	reviewed	Hemoglobin subunit alpha-1/2 (Alpha-1/2-globin) (Hemoglobin alpha-1/2 chain) (Hemoglobin alpha-I/II chain)		Macroderma gigas (Australian ghost bat)	141
+P01975	HBA_MACGI	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Macropus giganteus (Eastern gray kangaroo)	141
+P63108	HBA_MACMU	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Macaca mulatta (Rhesus macaque)	142
+P19002	HBA_MACNE	reviewed	Hemoglobin subunit alpha-1/2/3 (Alpha-1/2/3-globin) (Hemoglobin alpha-1/2/3 chain)		Macaca nemestrina (Pig-tailed macaque)	141
+P07402	HBA_MACSP	reviewed	Hemoglobin subunit alpha-1/2 (Alpha-1/2-globin) (Hemoglobin alpha-1/2 chain)		Macaca speciosa (Stump-tail macaque)	141
+P21768	HBA_MACSI	reviewed	Hemoglobin subunit alpha-1/2 (Alpha-1/2-globin) (Hemoglobin alpha-1/2 chain)		Macaca sinica (Toque macaque) (Toque monkey)	141
+P08258	HBA_MANSP	reviewed	Hemoglobin subunit alpha-1/2 (Alpha-1/2-globin) (Hemoglobin alpha-1/2 chain) (Hemoglobin alpha-I/II chain)		Mandrillus sphinx (Mandrill) (Papio sphinx)	141
+P17689	HBA_MARFO	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Martes foina (Beech marten)	141
+P08852	HBA_MARMA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Marmota marmota marmota (Alpine marmot)	141
+P11751	HBA_MEGLY	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Megaderma lyra (Greater false vampire bat)	141
+P22740	HBA_MARPN	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Mareca penelope (Eurasian wigeon) (Anas penelope)	142
+P15448	HBA_MELCA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Mellivora capensis (Ratel)	141
+P81023	HBA_MELGA	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Meleagris gallopavo (Common turkey)	142
+P01953	HBA_MELME	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Meles meles (Eurasian badger)	141
+P01945	HBA_MESAU	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Mesocricetus auratus (Golden hamster)	141
+B3EWE3	HBA_MICPE	reviewed	Hemoglobin subunit alpha		Microtus pennsylvanicus (Meadow vole)	141
+Q8HY34	HBA_MONDO	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Monodelphis domestica (Gray short-tailed opossum)	142
+P01942	HBA_MOUSE	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	Hba Hba-a1	Mus musculus (Mouse)	142
+Q9YGW2	HBA_MUSGR	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Mustelus griseus (Spotless smooth hound)	141
+P20243	HBA_MUSPF	reviewed	Hemoglobin subunit alpha-1/2 (Alpha-1/2-globin) (Hemoglobin alpha-1/2 chain)		Mustela putorius furo (European domestic ferret) (Mustela furo)	141
+P11757	HBA_MYOVE	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Myotis velifer (Mouse-eared bat) (Cave bat)	141
+P23601	HBA_MUSPU	reviewed	Hemoglobin subunit alpha-1/2 (Alpha-1/2-globin) (Hemoglobin alpha-1/2 chain)		Mustela putorius (European polecat)	141
+P26915	HBA_NASNA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Nasua nasua (Ring-tailed coati)	141
+P01937	HBA_NYCCO	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Nycticebus coucang (Slow loris)	141
+P10778	HBA_ODORO	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Odobenus rosmarus divergens (Pacific walrus)	141
+P23600	HBA_MUSLU	reviewed	Hemoglobin subunit alpha-1/2 (Alpha-1/2-globin) (Hemoglobin alpha-1/2 chain)		Mustela lutreola (European mink)	141
+P01972	HBA_ODOVI	reviewed	Hemoglobin subunit alpha-1/2 (Alpha-1/2-globin) (Hemoglobin alpha-1/2 chain)		Odocoileus virginianus virginianus (Virginia white-tailed deer)	141
+P01944	HBA_ONDZI	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Ondatra zibethicus (Muskrat)	141
+P01979	HBA_ORNAN	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Ornithorhynchus anatinus (Duckbill platypus)	141
+P19645	HBA_PAGLA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Paguma larvata (Masked palm civet)	141
+C0HJE0	HBA_PALPA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Paleosuchus palpebrosus (Cuvier's smooth-fronted caiman) (Dwarf caiman)	141
+Q0ZA50	HBA_PANHO	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Pantholops hodgsonii (Chiru)	142
+P18975	HBA_PANLE	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Panthera leo (Lion)	142
+P63109	HBA_PANON	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Panthera onca (Jaguar) (Felis onca)	142
+P82990	HBA_PAGBO	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	hba	Pagothenia borchgrevinki (Bald rockcod) (Trematomus borchgrevinki)	142
+P63110	HBA_PANPO	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Panthera pardus orientalis (Amur leopard)	141
+P18976	HBA_PANPS	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Panthera pardus saxicolor (Northern persian leopard)	141
+P69906	HBA_PANPA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA1; HBA2	Pan paniscus (Pygmy chimpanzee) (Bonobo)	142
+P69907	HBA_PANTR	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA1; HBA2	Pan troglodytes (Chimpanzee)	142
+P63111	HBA_PAPAN	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Papio anubis (Olive baboon)	142
+P10883	HBA_PANTS	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Panthera tigris sumatrae (Sumatran tiger) (Panthera sumatrae)	141
+P63112	HBA_PAPCY	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Papio cynocephalus (Yellow baboon)	142
+P07407	HBA_PASMO	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Passer montanus (Eurasian tree sparrow)	141
+B3EWD3	HBA_PERCR	reviewed	Hemoglobin subunit alpha		Peromyscus crinitus (Canyon mouse)	141
+B3EWD5	HBA_PERCA	reviewed	Hemoglobin subunit alpha		Peromyscus californicus (California mouse)	141
+P01995	HBA_PHACO	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Phasianus colchicus colchicus (Black-necked pheasant)	141
+P01984	HBA_PHORB	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Phoenicopterus ruber (Greater flamingo) (Caribbean flamingo)	141
+P09908	HBA_PHOVI	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Phoca vitulina (Harbor seal)	141
+P10780	HBA_PHACA	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Phalacrocorax carbo (Great cormorant) (Pelecanus carbo)	141
+P09904	HBA_PHYCD	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Physeter catodon (Sperm whale) (Physeter macrocephalus)	141
+P01965	HBA_PIG	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Sus scrofa (Pig)	141
+P01930	HBA_PILBA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Piliocolobus badius (Western red colobus) (Procolobus badius)	142
+Q862A7	HBA_PIPAB	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Pipistrellus abramus (Japanese pipistrelle) (Pipistrellus javanicus abramus)	143
+P06635	HBA_PONPY	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA1; HBA2	Pongo pygmaeus (Bornean orangutan)	142
+P0C238	HBA_POGSC	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	hba	Pogonophryne scotti (Antartic fish)	143
+P23019	HBA_PROCR	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Proteles cristata (Aardwolf)	141
+P01957	HBA_PROHA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Procavia capensis habessinica (Abyssinian hyrax)	142
+P18977	HBA_PROLO	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Procyon lotor (Raccoon)	141
+P83623	HBA_PSEUR	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	hba	Pseudaphritis urvillii (Congolli) (Freshwater flathead)	142
+P14389	HBA_PTEAL	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Pteropus alecto (Black flying fox)	141
+P10885	HBA_PTEBR	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Pteronura brasiliensis (Giant otter)	141
+P19831	HBA_PSIKR	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Psittacula krameri (Rose-ringed parakeet)	141
+P14390	HBA_PTEPO	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Pteropus poliocephalus (Grey-headed flying fox)	141
+P01948	HBA_RABIT	reviewed	Hemoglobin subunit alpha-1/2 (Alpha-1/2-globin) (Hemoglobin alpha-1/2 chain)		Oryctolagus cuniculus (Rabbit)	142
+P21379	HBA_RANTA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Rangifer tarandus (Reindeer) (Cervus tarandus)	141
+P01946	HBA_RAT	reviewed	Hemoglobin subunit alpha-1/2 (Alpha-1/2-globin) (Hemoglobin alpha-1/2 chain)	Hba1 Hba-a1	Rattus norvegicus (Rat)	142
+D0VX09	HBA_PTEGI	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Pteropus giganteus (Indian flying fox)	141
+P01956	HBA_ROUAE	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Rousettus aegyptiacus (Egyptian rousette) (Egyptian fruit bat)	141
+P01929	HBA_SAGFU	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Saguinus fuscicollis (Brown-headed tamarin)	141
+Q7M3B6	HBA_SAGMY	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Saguinus mystax (Moustached tamarin)	141
+P01982	HBA_RHEAM	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Rhea americana (Greater rhea) (Common rhea)	141
+P01928	HBA_SAPAP	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Sapajus apella (Brown-capped capuchin) (Cebus apella)	142
+B3EWD1	HBA_SCICA	reviewed	Hemoglobin subunit alpha		Sciurus carolinensis (Gray squirrel)	141
+P09906	HBA_RHIUN	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Rhinoceros unicornis (Greater Indian rhinoceros)	141
+P67818	HBA_SAGOE	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Saguinus oedipus (Cotton-top tamarin)	141
+P01924	HBA_SEMEN	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Semnopithecus entellus (Hanuman langur) (Presbytis entellus)	141
+P11251	HBA_SALSA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	hba	Salmo salar (Atlantic salmon)	143
+P01943	HBA_SPAEH	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Spalax ehrenbergi (Middle East blind mole rat) (Nannospalax ehrenbergi)	141
+P68240	HBA_SHEEP	reviewed	Hemoglobin subunit alpha-1/2 (Alpha-1/2-globin) (Hemoglobin alpha-1/2 chain)		Ovis aries (Sheep)	142
+P10059	HBA_SPHPU	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Sphenodon punctatus (Tuatara) (Hatteria punctata)	141
+P01981	HBA_STRCA	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Struthio camelus (Common ostrich)	141
+B3EWC9	HBA_SPEBE	reviewed	Hemoglobin subunit alpha		Spermophilus beecheyi (California ground squirrel) (Otospermophilus beecheyi)	141
+P01997	HBA_STUVU	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Sturnus vulgaris (Starling)	141
+P01950	HBA_SUNMU	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Suncus murinus (Asian house shrew) (Musk shrew)	141
+Q7LZC3	HBA_STROE	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Streptopelia orientalis (Eastern turtle dove)	141
+P01951	HBA_TALEU	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Talpa europaea (European mole)	141
+P07408	HBA_SQUAC	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Squalus acanthias (Spiny dogfish)	141
+B3EWD7	HBA_TAMHU	reviewed	Hemoglobin subunit alpha		Tamiasciurus hudsonicus (American red squirrel)	141
+B3EWC7	HBA_TAMMR	reviewed	Hemoglobin subunit alpha		Tamias merriami (Merriam's chipmunk)	141
+B3EWD9	HBA_TAMST	reviewed	Hemoglobin subunit alpha		Tamias striatus (Eastern chipmunk)	141
+P09420	HBA_SPECI	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Spermophilus citellus (European suslik) (Citellus citellus)	141
+P28780	HBA_TAPGE	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Taphozous georgianus (Sharp-nosed tomb bat) (Taphozous australis georgianus)	141
+P01962	HBA_TAPTE	reviewed	Hemoglobin subunit alpha-1/2 (Alpha-1/2-globin) (Hemoglobin alpha-1/2 chain)		Tapirus terrestris (Lowland tapir) (Brazilian tapir)	141
+P01940	HBA_TARBA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Tarsius bancanus (Western tarsier) (Horsfield's tarsier)	141
+P02014	HBA_TARGR	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Taricha granulosa (Roughskin newt)	142
+P01932	HBA_THEGE	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Theropithecus gelada (Gelada baboon)	141
+P11748	HBA_THUTH	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	hba	Thunnus thynnus (Atlantic bluefin tuna) (Scomber thynnus)	143
+P80043	HBA_TREBE	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	hba	Trematomus bernacchii (Emerald rockcod) (Pagothenia bernacchii)	142
+P04237	HBA_TRAST	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Tragelaphus strepsiceros (Greater kudu)	140
+P19832	HBA_TRIOC	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Trigonoceps occipitalis (White-headed vulture) (Aegypius occipitalis)	141
+P01941	HBA_TUPGL	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Tupaia glis (Tree shrew)	141
+P18978	HBA_TURTR	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Tursiops truncatus (Atlantic bottle-nosed dolphin) (Delphinus truncatus)	141
+P07414	HBA_TRIIN	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Trichechus inunguis (Amazon manatee) (Brazilian manatee)	141
+P11750	HBA_UROPR	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Urocitellus parryii (Arctic ground squirrel) (Spermophilus parryii)	141
+P07403	HBA_UROTO	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Urocitellus townsendii (Townsend's ground squirrel) (Spermophilus townsendii)	141
+P68236	HBA_URSTH	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Ursus thibetanus (Asiatic black bear) (Selenarctos thibetanus)	142
+P68235	HBA_URSMA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Ursus maritimus (Polar bear) (Thalarctos maritimus)	142
+P14522	HBA_TURME	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Turdus merula (Common blackbird)	141
+P67816	HBA_VICPA	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Vicugna pacos (Alpaca) (Lama pacos)	141
+P07404	HBA_VULGR	reviewed	Hemoglobin subunit alpha-A (Alpha-A-globin) (Hemoglobin alpha-A chain)	HBAA	Vultur gryphus (Andean condor)	141
+P02010	HBA_VIPAS	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Vipera aspis (Aspic viper)	141
+P07428	HBA_XENTR	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	hba-A hba	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	142
+P21200	HBA_VULVU	reviewed	Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain)	HBA	Vulpes vulpes (Red fox)	141
+P04443	HBB0_MOUSE	reviewed	Hemoglobin subunit beta-H0 (Beta-H0-globin) (Hemoglobin beta-H0 chain)	Hbb-bh0	Mus musculus (Mouse)	147
+P82345	HBB0_PAGBO	reviewed	Hemoglobin subunit beta-0 (Beta-0-globin) (Hb 0) (Hemoglobin beta-0 chain)	hbb0	Pagothenia borchgrevinki (Bald rockcod) (Trematomus borchgrevinki)	146
+Q1AGS7	HBB1_BORSA	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain)	hbb1	Boreogadus saida (Polar cod)	147
+P23017	HBB1_CYGMA	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain)	hbb1	Cygnodraco mawsoni (Antarctic dragonfish)	147
+P68087	HBB1_CHAMP	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain) (Hemoglobin beta-I chain)	HBB1	Chalinolobus morio (Chocolate-wattled bat) (Lobe-lipped bat)	147
+C0HJT6	HBB1_DISEL	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain)	hbb1	Dissostichus eleginoides (Patagonian toothfish) (Dissostichus amissus)	146
+P0C0U8	HBB1_DRYME	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain) (Hemoglobin beta-I chain)		Drymarchon melanurus erebennus (Texas indigo snake) (Drymarchon corais erebennus)	146
+P84610	HBB1_GADMO	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain)	hbb1	Gadus morhua (Atlantic cod)	147
+P83612	HBB1_GOBGI	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain)	hbb1	Gobionotothen gibberifrons (Humped rockcod) (Notothenia gibberifrons)	146
+P18987	HBB1_IGUIG	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain)	HBB1	Iguana iguana (Common iguana)	146
+P83272	HBB1_ANAMI	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain)	hbb1	Anarhichas minor (Arctic spotted wolffish)	146
+P86879	HBB1_LYCRE	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain)	hbb1	Lycodes reticulatus (Arctic eelpout)	146
+Q90486	HBB1_DANRE	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Beta-A1-globin) (Hemoglobin beta-1 chain)	ba1 si:by187g17.2 zgc:123164; ba1l si:by187g17.4	Danio rerio (Zebrafish) (Brachydanio rerio)	148
+P85082	HBB1_LIPTU	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain)	hbb1	Liparis tunicatus (Kelp snailfish)	147
+Q7LZC2	HBB1_MURHE	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain) (Hemoglobin beta-I chain)	hbb1	Muraena helena (Mediterranean moray)	146
+O93348	HBB1_PAGBO	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hb 1) (Hemoglobin beta-1 chain)	hbb1	Pagothenia borchgrevinki (Bald rockcod) (Trematomus borchgrevinki)	147
+P68050	HBB1_PANLE	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain)	HBB1	Panthera leo (Lion)	146
+P68051	HBB1_PANPS	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain)	HBB1	Panthera pardus saxicolor (Northern persian leopard)	147
+P83624	HBB1_PSEUR	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain)	hbb1	Pseudaphritis urvillii (Congolli) (Freshwater flathead)	146
+P02091	HBB1_RAT	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta chain, major-form) (Hemoglobin beta-1 chain)	Hbb	Rattus norvegicus (Rat)	147
+P18991	HBB1_SAAHA	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain) (Fragments)		Saara hardwickii (Indian spiny-tailed lizard) (Uromastyx hardwickii)	146
+P68048	HBB1_PANTS	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain)	HBB1	Panthera tigris sumatrae (Sumatran tiger) (Panthera sumatrae)	147
+P10785	HBB1_TRICR	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain) (Hemoglobin beta-major chain)	HBB1	Triturus cristatus (Great crested newt) (Warty newt)	145
+P68049	HBB1_PANON	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain)	HBB1	Panthera onca (Jaguar) (Felis onca)	147
+P18993	HBB1_VARAL	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain) (Hemoglobin beta-I chain)	HBB1	Varanus albigularis (White-throated monitor) (Varanus exanthematicus albigularis)	146
+P20246	HBB1_TORMA	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain)	HBB1	Torpedo marmorata (Marbled electric ray)	142
+P02064	HBB1_TAPTE	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain) (Hemoglobin beta-major chain)	HBB1	Tapirus terrestris (Lowland tapir) (Brazilian tapir)	146
+P86391	HBB2_AMBCR	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain) (Hemoglobin beta-II chain)	HBB2	Amblyrhynchus cristatus (Galapagos marine iguana)	146
+P84604	HBB2_ARCGL	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain)	hbb2	Arctogadus glacialis (Arctic cod)	147
+P07429	HBB1_XENTR	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain)	hbb1	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	147
+P02132	HBB1_XENLA	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain) (Hemoglobin beta-major chain)	hbb1	Xenopus laevis (African clawed frog)	146
+K7N5M6	HBB1_ELEMC	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain)	hbb1	Eleginops maclovinus (Patagonian blennie)	146
+P02142	HBB1_ONCMY	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain) (Hemoglobin beta-I chain)	hbb1	Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri)	146
+P83273	HBB2_ANAMI	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain)	hbb2	Anarhichas minor (Arctic spotted wolffish)	146
+Q7M2Y5	HBB2_CHAMP	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain) (Hemoglobin beta-II chain)	HBB2	Chalinolobus morio (Chocolate-wattled bat) (Lobe-lipped bat)	147
+P23018	HBB2_CYGMA	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain)	hbb2	Cygnodraco mawsoni (Antarctic dragonfish)	146
+P83614	HBB2_GOBGI	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain)	hbb2	Gobionotothen gibberifrons (Humped rockcod) (Notothenia gibberifrons)	146
+P07432	HBB1_XENBO	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain) (Hemoglobin beta-major chain)	hbb1	Xenopus borealis (Kenyan clawed frog)	146
+P86390	HBB2_IGUIG	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain) (Hemoglobin beta-II chain)	HBB2	Iguana iguana (Common iguana)	146
+P84611	HBB2_GADMO	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain)	hbb2	Gadus morhua (Atlantic cod)	147
+P02089	HBB2_MOUSE	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain) (Hemoglobin beta-minor chain)	Hbb-b2	Mus musculus (Mouse)	147
+P86887	HBB2_LYCRE	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain)	hbb2	Lycodes reticulatus (Arctic eelpout)	146
+P10060	HBB1_SPHPU	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain)	HBB1	Sphenodon punctatus (Tuatara) (Hatteria punctata)	146
+Q1AGS6	HBB2_BORSA	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain)	hbb2	Boreogadus saida (Polar cod)	147
+P18988	HBB2_PANLE	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain)	HBB2	Panthera leo (Lion)	146
+C0HJT7	HBB2_DISEL	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain)	hbb2	Dissostichus eleginoides (Patagonian toothfish) (Dissostichus amissus)	146
+P83625	HBB2_PSEUR	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain)	hbb2	Pseudaphritis urvillii (Congolli) (Freshwater flathead)	146
+P11517	HBB2_RAT	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta chain, minor-form) (Hemoglobin beta-2 chain)		Rattus norvegicus (Rat)	147
+P68194	HBB2_PANTS	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain)	HBB2	Panthera tigris sumatrae (Sumatran tiger) (Panthera sumatrae)	146
+P68064	HBB2_PANON	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain)	HBB2	Panthera onca (Jaguar) (Felis onca)	147
+Q90485	HBB2_DANRE	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Beta-A2-globin) (Hemoglobin beta-2 chain)	ba2 si:dz118j2.3; ba2l si:dz118j2.1 zgc:92900	Danio rerio (Zebrafish) (Brachydanio rerio)	148
+P83114	HBB2_TELPE	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain)		Telmatobius peruvianus (Andean frog)	145
+O93349	HBB2_TRENE	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)		Trematomus newnesi (Dusky notothen)	147
+P68065	HBB2_PANPS	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain)	HBB2	Panthera pardus saxicolor (Northern persian leopard)	146
+P10786	HBB2_TRICR	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain) (Hemoglobin beta-minor chain)	HBB2	Triturus cristatus (Great crested newt) (Warty newt)	145
+P02133	HBB2_XENLA	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (B2G) (Hemoglobin beta-2 chain) (Hemoglobin beta-minor chain) (Larval beta-II-globin)	hbb2	Xenopus laevis (African clawed frog)	147
+Q7LZC1	HBB3_MURHE	reviewed	Hemoglobin subunit beta-3 (Beta-3-globin) (Hemoglobin beta-3 chain) (Hemoglobin beta-III chain)	hbb3	Muraena helena (Mediterranean moray)	147
+P20247	HBB2_TORMA	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain)	HBB2	Torpedo marmorata (Marbled electric ray)	142
+P02141	HBB4_ONCMY	reviewed	Hemoglobin subunit beta-4 (Beta-4-globin) (Hemoglobin beta-4 chain) (Hemoglobin beta-IV chain)	hbb4	Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri)	148
+P22743	HBB2_NAJNA	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain) (Hemoglobin beta-II chain)	HBB2	Naja naja (Indian cobra)	146
+P02136	HBB3_LITCT	reviewed	Hemoglobin subunit beta-3 (Beta-3-globin) (Hemoglobin beta-3 chain) (Hemoglobin beta-III chain, larval)		Lithobates catesbeiana (American bullfrog) (Rana catesbeiana)	147
+P02077	HBBA_CAPHI	reviewed	Hemoglobin subunit beta-A (Alanine beta-globin) (Beta-A-globin) (Hemoglobin beta-A chain)		Capra hircus (Goat)	145
+Q1AGS3	HBB1_ARCGL	reviewed	Hemoglobin subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain) (Fragment)	hbb1	Arctogadus glacialis (Arctic cod)	132
+Q9PVM2	HBBA_SERQU	reviewed	Hemoglobin subunit beta-A (Beta-A-globin) (Hemoglobin beta-A chain)	hbb1	Seriola quinqueradiata (Five-ray yellowtail)	148
+P04346	HBBA_BOSJA	reviewed	Hemoglobin subunit beta-A (Beta-A-globin) (Hemoglobin beta-A chain)		Bos javanicus (Wild banteng)	145
+P68058	HBBC_AMMLE	reviewed	Hemoglobin subunit beta-C (Beta-C-globin) (Hemoglobin beta-C chain)		Ammotragus lervia (Barbary sheep) (Aoudad)	141
+P02065	HBB2_TAPTE	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain) (Hemoglobin beta-minor chain)	HBB2	Tapirus terrestris (Lowland tapir) (Brazilian tapir)	146
+P85313	HBBB_CATCL	reviewed	Hemoglobin subunit beta-B (Beta-B-globin) (Hemoglobin beta-B chain) (Fragment)	hbbb	Catostomus clarkii (Desert sucker)	48
+P80946	HBBA_ANGAN	reviewed	Hemoglobin anodic subunit beta (Hemoglobin anodic beta chain)	hbb1	Anguilla anguilla (European freshwater eel) (Muraena anguilla)	147
+P80727	HBBC_ANGAN	reviewed	Hemoglobin cathodic subunit beta (Hemoglobin cathodic beta chain)	hbb2	Anguilla anguilla (European freshwater eel) (Muraena anguilla)	146
+P82316	HBBC_HOPLI	reviewed	Hemoglobin cathodic subunit beta (Hemoglobin cathodic beta chain) (Hb(Ca) beta chain)	hbb	Hoplosternum littorale (Hassar)	146
+P08423	HBB2_XENTR	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain) (Larval beta-globin)	hbb2 TTpA004i19.1	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	147
+P83478	HBBC_CONCO	reviewed	Hemoglobin cathodic subunit beta (Hemoglobin cathodic beta chain)		Conger conger (Conger eel) (Muraena conger)	146
+P84206	HBBA_GYMUN	reviewed	Hemoglobin anodic subunit beta (Hemoglobin anodic beta chain)		Gymnothorax unicolor (Brown moray) (Muraenophis unicolor)	147
+P85312	HBBA_CATCL	reviewed	Hemoglobin subunit beta-A (Beta-A-globin) (Hemoglobin beta-A chain) (Fragment)	hbba	Catostomus clarkii (Desert sucker)	42
+P45722	HBBC_TREBE	reviewed	Hemoglobin subunit beta-C (Beta-C-globin) (Hemoglobin beta-C chain)	hbbc	Trematomus bernacchii (Emerald rockcod) (Pagothenia bernacchii)	146
+P07433	HBB2_XENBO	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain) (Hemoglobin beta-minor chain)	hbb2	Xenopus borealis (Kenyan clawed frog)	146
+P68056	HBBC_SHEEP	reviewed	Hemoglobin subunit beta-C (Beta-C-globin) (Hemoglobin beta-C chain)	HBBC	Ovis aries (Sheep)	142
+P02081	HBBF_BOVIN	reviewed	Hemoglobin fetal subunit beta (Beta-globin, fetal) (Hemoglobin beta chain, fetal) (Hemoglobin gamma chain)		Bos taurus (Bovine)	145
+Q9PVM1	HBBB_SERQU	reviewed	Hemoglobin subunit beta-B (Beta-B-globin) (Hemoglobin beta-B chain)	hbb2	Seriola quinqueradiata (Five-ray yellowtail)	148
+P45721	HBBC_TRENE	reviewed	Hemoglobin subunit beta-C (Beta-C-globin) (Hemoglobin beta-C chain)		Trematomus newnesi (Dusky notothen)	146
+P02083	HBBF_SHEEP	reviewed	Hemoglobin fetal subunit beta (Beta-globin, fetal) (Hemoglobin beta chain, fetal) (Hemoglobin gamma chain)		Ovis aries (Sheep)	145
+P02078	HBBC_CAPHI	reviewed	Hemoglobin subunit beta-C (Beta-C-globin) (Cysteine beta-globin) (Hemoglobin beta-C chain)	HBBC	Capra hircus (Goat)	142
+P02082	HBBF_CAPHI	reviewed	Hemoglobin fetal subunit beta (Beta-globin, fetal) (Hemoglobin beta chain, fetal) (Hemoglobin gamma chain)		Capra hircus (Goat)	145
+P68057	HBBC_OVIMU	reviewed	Hemoglobin subunit beta-C (Beta-C-globin) (Hemoglobin beta-C chain)	HBBC	Ovis aries musimon (Mouflon)	141
+P10061	HBB2_SPHPU	reviewed	Hemoglobin subunit beta-2 (Beta-2-globin) (Hemoglobin beta-2 chain)	HBB2	Sphenodon punctatus (Tuatara) (Hatteria punctata)	146
+P02137	HBBL_XENLA	reviewed	Hemoglobin larval subunit beta-1 (Beta-1-globin) (Hemoglobin beta-1 chain, larval)		Xenopus laevis (African clawed frog)	147
+B3EWR8	HBBC_OPHSE	reviewed	Hemoglobin cathodic subunit beta (Hemoglobin cathodic beta chain)		Ophisurus serpens (Serpent eel) (Muraena serpens)	146
+P29627	HBBZ_MESAU	reviewed	Hemoglobin subunit beta-Z (Beta-Z-globin) (Hemoglobin beta-Z chain) (Fragment)	HBBZ	Mesocricetus auratus (Golden hamster)	102
+P29626	HBBY_MESAU	reviewed	Hemoglobin subunit beta-Y (Beta-Y-globin) (Hemoglobin beta-Y chain)	HBBY	Mesocricetus auratus (Golden hamster)	147
+P02080	HBBN_AMMLE	reviewed	Hemoglobin subunit beta-C(NA) (Beta-C(NA)-globin) (Hemoglobin beta C(NA) chain)		Ammotragus lervia (Barbary sheep) (Aoudad)	141
+P68061	HBB_AEGMO	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Aegypius monachus (Black vulture)	146
+P04444	HBBZ_MOUSE	reviewed	Hemoglobin subunit beta-H1 (Beta-H1-globin) (Hemoglobin beta-H1 chain) (Protein Z)	Hbb-bh1	Mus musculus (Mouse)	147
+P84204	HBBC_GYMUN	reviewed	Hemoglobin cathodic subunit beta (Hemoglobin cathodic beta chain)		Gymnothorax unicolor (Brown moray) (Muraenophis unicolor)	146
+P83133	HBB_ALDGI	reviewed	Hemoglobin A/D subunit beta (Hemoglobin A/D beta chain)		Aldabrachelys gigantea (Aldabra giant tortoise) (Geochelone gigantea)	146
+P02130	HBB_ALLMI	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Alligator mississippiensis (American alligator)	146
+P18982	HBB_AILFU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Ailurus fulgens (Lesser panda) (Red panda)	146
+P02073	HBB_ALCAA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Alces alces alces (European moose) (Elk)	145
+P02114	HBB_ANAPL	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Anas platyrhynchos (Mallard) (Anas boschas)	147
+P02118	HBB_ANSIN	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Anser indicus (Bar-headed goose) (Anas indica)	146
+Q6WN29	HBB_ALOBE	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Alouatta belzebul (Red-handed howler monkey)	147
+P02120	HBB_ANSSE	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Anseranas semipalmata (Magpie goose) (Anas semipalmata)	146
+P02117	HBB_ANSAN	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Anser anser anser (Western greylag goose)	146
+P08851	HBB_ACCGE	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Accipiter gentilis (Northern goshawk) (Falco gentilis)	146
+P80216	HBB_APTFO	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Aptenodytes forsteri (Emperor penguin)	146
+Q6WN26	HBB_AOTAZ	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Aotus azarae (Southern owl monkey) (Aotus azarai)	147
+P18983	HBB_AILME	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Ailuropoda melanoleuca (Giant panda)	147
+P02122	HBB_AQUCH	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Aquila chrysaetos (Golden eagle)	146
+P02116	HBB_ARAAR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Ara ararauna (Blue-and-yellow macaw)	146
+P15165	HBB_APUAP	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Apus apus (Common swift)	146
+P0C239	HBB_ARTOR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	hbb	Artedidraco orianae	146
+P68047	HBB_ARCGA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Arctocephalus galapagoensis (Galapagoes fur seal) (Arctocephalus australis galapagoensis)	146
+P02115	HBB_ANAPP	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Anas platyrhynchos platyrhynchos (Northern mallard)	146
+Q6WN22	HBB_ATEPA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Ateles paniscus (Black spider monkey) (Red-faced black spider monkey)	147
+P68234	HBB_ATEBE	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Ateles belzebuth (White-bellied spider monkey)	147
+P84792	HBB_AYTFU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)		Aythya fuligula (Tufted duck) (Anas fuligula)	147
+P84217	HBB_BATEA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Bathyraja eatonii (Eaton's skate)	141
+P18984	HBB_BALAC	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Balaenoptera acutorostrata (Common minke whale) (Balaena rostrata)	146
+P02035	HBB_AOTTR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Aotus trivirgatus (Three-striped night monkey) (Douroucouli)	146
+P14388	HBB_ANTPA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Antrozous pallidus (Pallid bat) (Vespertilio pallidus)	146
+P68232	HBB_ATEGE	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Ateles geoffroyi (Black-handed spider monkey) (Geoffroy's spider monkey)	147
+P02070	HBB_BOVIN	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain) [Cleaved into: Spinorphin]	HBB	Bos taurus (Bovine)	145
+P67819	HBB_BOSGF	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Bos gaurus frontalis (Domestic gayal) (Bos frontalis)	145
+B3EWE2	HBB_BLABR	reviewed	Hemoglobin subunit beta		Blarina brevicauda (Northern short-tailed shrew)	146
+P67820	HBB_BUBBU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Bubalus bubalis (Domestic water buffalo)	145
+P14260	HBB_CAIMO	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Cairina moschata (Muscovy duck)	147
+P02131	HBB_CAICR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Caiman crocodilus (Spectacled caiman) (Caiman sclerops)	146
+P09422	HBB_BISBO	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Bison bonasus (European bison)	145
+P68944	HBB_BRACA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Branta canadensis (Canada goose) (Anas canadensis)	146
+Q6WN21	HBB_CALGO	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Callimico goeldii (Goeldi's marmoset)	147
+P14526	HBB_BRATR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Bradypus tridactylus (Pale-throated three-toed sloth)	147
+P68230	HBB_CAMBA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Camelus bactrianus (Bactrian camel)	147
+Q6WN28	HBB_CALJA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Callithrix jacchus (White-tufted-ear marmoset)	147
+Q6WN20	HBB_CALTO	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Callicebus torquatus (Collared titi)	147
+P60525	HBB_CANLA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Canis latrans (Coyote)	146
+P82113	HBB_CATMA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Catharacta maccormicki (South polar skua) (Stercorarius maccormicki)	146
+Q10733	HBB_CARCR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Caretta caretta (Loggerhead sea turtle)	146
+P02072	HBB_BOSMU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Bos mutus grunniens (Wild yak) (Bos grunniens)	145
+P02140	HBB_CARAU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	hbb	Carassius auratus (Goldfish)	147
+P18985	HBB_CALAR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Callithrix argentata (Silvery marmoset) (Mico argentatus)	146
+P60524	HBB_CANFA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Canis familiaris (Dog) (Canis lupus familiaris)	146
+P02040	HBB_CEBAL	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Cebus albifrons (White-fronted capuchin)	146
+P02095	HBB_CAVPO	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Cavia porcellus (Guinea pig)	146
+P02066	HBB_CERSI	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Ceratotherium simum (White rhinoceros) (Square-lipped rhinoceros)	146
+P68231	HBB_CAMDR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Camelus dromedarius (Dromedary) (Arabian camel)	147
+P67822	HBB_CEBCA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Cebus capucinus (White-faced sapajou)	146
+Q98905	HBB_CHECB	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Chelonoidis carbonarius (Red-footed tortoise) (Geochelone carbonaria)	147
+P02028	HBB_CHLAE	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)	146
+P83123	HBB_CHENI	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Chelonoidis nigra (Galapagos giant tortoise) (Geochelone nigra)	147
+P13274	HBB_CHRPI	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Chrysemys picta bellii (Western painted turtle) (Emys bellii)	146
+P80271	HBB_CHEKU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	hbb	Chelidonichthys kumu (Red gurnard) (Trigla kumu)	146
+P07036	HBB_CHLME	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Chloephaga melanoptera (Andean goose) (Anser melanopterus)	146
+P60526	HBB_CHRBR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Chrysocyon brachyurus (Maned wolf)	146
+P11342	HBB_COLLI	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Columba livia (Rock dove)	146
+P02125	HBB_CICCI	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Ciconia ciconia (White stork)	146
+P30893	HBB_COTJA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Coturnix coturnix japonica (Japanese quail) (Coturnix japonica)	146
+P19885	HBB_COLPO	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Colobus polykomos (Western black-and-white colobus monkey)	147
+P02129	HBB_CRONI	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Crocodylus niloticus (Nile crocodile) (African crocodile)	146
+P18986	HBB_CROCR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Crocuta crocuta (Spotted hyena)	146
+P02031	HBB_CERAT	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Cercocebus atys (Sooty mangabey) (Cercocebus torquatus atys)	146
+P11754	HBB_CYNSP	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Cynopterus sphinx (Indian short-nosed fruit bat)	146
+P68945	HBB_CYGOL	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Cygnus olor (Mute swan) (Anas olor)	146
+P02112	HBB_CHICK	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Gallus gallus (Chicken)	147
+P20855	HBB_CTEGU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Ctenodactylus gundi (Northern gundi)	146
+P02139	HBB_CYPCA	reviewed	Hemoglobin subunit beta-A/B (Hemoglobin beta-A/B chain) (Hemoglobin subunit beta-1/2)		Cyprinus carpio (Common carp)	147
+P07420	HBB_DASVI	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain) (Fragment)	HBB	Dasyurus viverrinus (Eastern quoll) (Didelphis viverrina)	87
+P24292	HBB_ECHTE	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Echinops telfairi (Lesser hedgehog tenrec)	146
+P14521	HBB_ELEEL	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	hbb	Electrophorus electricus (Electric eel) (Gymnotus electricus)	147
+P84652	HBB_COTGO	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	hbb	Cottoperca gobio (Frogmouth) (Aphritis gobio)	147
+O13164	HBB_DECMA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	hbb	Decapterus maruadsi (Japanese scad) (Caranx maruadsi)	148
+P02059	HBB_ERIEU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Erinaceus europaeus (Western European hedgehog)	146
+Q9TT33	HBB_COLGU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain) (Fragment)	HBB	Colobus guereza (Mantled guereza) (Eastern black-and-white colobus monkey)	41
+P16418	HBB_ERYML	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Erythrolamprus miliaris (South American water snake) (Liophis miliaris)	146
+P67824	HBB_EQUZE	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Equus zebra (Mountain zebra)	146
+P02087	HBB_DASNO	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Dasypus novemcinctus (Nine-banded armadillo)	147
+P07412	HBB_FELCA	reviewed	Hemoglobin subunit beta-A/B (Beta-A/B-globin) (Hemoglobin beta-A/B chain)	HBB	Felis catus (Cat) (Felis silvestris catus)	146
+P02109	HBB_DIDVI	reviewed	Hemoglobin subunit beta-M (Beta-M-globin) (Hemoglobin beta-M chain)	HBB	Didelphis virginiana (North American opossum) (Didelphis marsupialis virginiana)	147
+P02084	HBB_ELEMA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Elephas maximus (Indian elephant)	146
+P02024	HBB_GORGO	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Gorilla gorilla gorilla (Western lowland gorilla)	147
+P86919	HBB_CROSI	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Crocodylus siamensis (Siamese crocodile)	146
+P22742	HBB_FRAPO	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Francolinus pondicerianus (Grey francolin) (Tetrao pondicerianus)	146
+P67823	HBB_EQUHE	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Equus hemionus kulan (Turkmenian kulan) (Equus onager kulan)	146
+P68063	HBB_GYPRU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Gyps rueppellii (Rueppell's griffon)	146
+P56692	HBB_DASAK	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Dasyatis akajei (Red stingray) (Trygon akajei)	142
+Q7M3C2	HBB_HAPGR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Hapalemur griseus (Gray gentle lemur) (Eastern lesser bamboo lemur)	146
+P29625	HBB_GYMAC	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	hbb	Gymnodraco acuticeps (Antarctic dragonfish)	147
+P68013	HBB_HELMA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Helarctos malayanus (Malayan sun bear) (Ursus malayanus)	146
+O13077	HBB_GADMO	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	hbb	Gadus morhua (Atlantic cod)	147
+P10058	HBB_EUDCH	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Eudyptes chrysocome (Rockhopper penguin) (Aptenodytes chrysocome)	146
+P02143	HBB_HETPO	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Heterodontus portusjacksoni (Port Jackson shark)	141
+P02062	HBB_HORSE	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Equus caballus (Horse)	146
+P02053	HBB_EULFU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Eulemur fulvus fulvus (Brown lemur)	147
+P19016	HBB_HIPAM	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Hippopotamus amphibius (Hippopotamus)	146
+P41332	HBB_HYDGR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Hydrophis gracilis (Graceful small-headed sea snake) (Microcephalophis gracilis)	146
+P02025	HBB_HYLLA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Hylobates lar (Common gibbon) (White-handed gibbon)	146
+Q6WN25	HBB_LAGLA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Lagothrix lagotricha (Brown woolly monkey) (Humboldt's woolly monkey)	147
+P68229	HBB_LAMGU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Lama guanicoe (Guanaco)	147
+P68227	HBB_LAMVI	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Lama vicugna (Vicugna) (Vicugna vicugna)	147
+P23741	HBB_LATCH	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Latimeria chalumnae (West Indian ocean coelacanth)	146
+P56251	HBB_LEIXA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	hbb	Leiostomus xanthurus (Spot)	147
+P08261	HBB_LARRI	reviewed	Hemoglobin subunit beta/beta' (Beta/beta'-globin) (Hemoglobin beta/beta' chain)	HBB	Larus ridibundus (Black-headed gull) (Chroicocephalus ridibundus)	146
+P15166	HBB_LEPWE	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Leptonychotes weddellii (Weddell seal)	146
+P68226	HBB_LAMGL	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Lama glama (Llama)	147
+P02135	HBB_LITCT	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Lithobates catesbeiana (American bullfrog) (Rana catesbeiana)	140
+P02048	HBB_LORTA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Loris tardigradus (Slender loris)	146
+P02138	HBB_LEPPA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Lepidosiren paradoxus (South American lungfish)	147
+P02054	HBB_LEMCA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Lemur catta (Ring-tailed lemur)	146
+Q6H1U7	HBB_MACEU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Macropus eugenii (Tammar wallaby)	147
+P09840	HBB_MACCA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Macrotus californicus (Californian leaf-nosed bat)	146
+P02085	HBB_LOXAF	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Loxodonta africana (African elephant)	146
+P68223	HBB_MACFA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey)	147
+P41328	HBB_LYNLY	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Lynx lynx (Eurasian lynx) (Felis lynx)	146
+P68222	HBB_MACFU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Macaca fuscata fuscata (Japanese macaque)	147
+P10893	HBB_LUTLU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Lutra lutra (European river otter)	146
+P08535	HBB_LEPEU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Lepus europaeus (European hare)	147
+P68224	HBB_MACSP	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Macaca speciosa (Stump-tail macaque)	147
+P02107	HBB_MACRU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Macropus rufus (Red kangaroo) (Megaleia rufa)	146
+P68225	HBB_MACNE	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Macaca nemestrina (Pig-tailed macaque)	147
+P68053	HBB_MARFO	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Martes foina (Beech marten)	146
+P02106	HBB_MACGI	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Macropus giganteus (Eastern gray kangaroo)	146
+P08259	HBB_MANSP	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Mandrillus sphinx (Mandrill) (Papio sphinx)	146
+P15449	HBB_MELCA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Mellivora capensis (Ratel)	146
+O09232	HBB_MELAE	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	hbb	Melanogrammus aeglefinus (Haddock) (Gadus aeglefinus)	147
+P02055	HBB_MELME	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Meles meles (Eurasian badger)	146
+P18707	HBB_MESBR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Mesocricetus brandti (Brandt's hamster) (Turkish hamster)	146
+P08853	HBB_MARMA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Marmota marmota marmota (Alpine marmot)	146
+B3EWE4	HBB_MICPE	reviewed	Hemoglobin subunit beta		Microtus pennsylvanicus (Meadow vole)	146
+P11752	HBB_MEGLY	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Megaderma lyra (Greater false vampire bat)	146
+P02026	HBB_MACMU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Macaca mulatta (Rhesus macaque)	146
+P02092	HBB_MICXA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Microtus xanthognathus (Yellow-cheeked vole) (Taiga vole)	146
+P68044	HBB_MUSPF	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Mustela putorius furo (European domestic ferret) (Mustela furo)	146
+P24660	HBB_MACGG	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Macroderma gigas (Australian ghost bat)	146
+O13078	HBB_MERMR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	hbb	Merlangius merlangus (Whiting) (Gadus merlangus)	147
+Q9YGW1	HBB_MUSGR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Mustelus griseus (Spotless smooth hound)	137
+P68045	HBB_MUSPU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Mustela putorius (European polecat)	146
+P16309	HBB_NOTNE	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	hbb	Notothenia neglecta (Yellowbelly rockcod) (Notothenia coriiceps neglecta)	146
+P23602	HBB_MUSLU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Mustela lutreola (European mink)	146
+P11758	HBB_MYOVE	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Myotis velifer (Mouse-eared bat) (Cave bat)	146
+P02074	HBB_ODOVI	reviewed	Hemoglobin subunit beta-3 (Beta-3-globin) (Hemoglobin beta-3 chain) (Hemoglobin beta-III chain)	HBB	Odocoileus virginianus virginianus (Virginia white-tailed deer)	145
+P02049	HBB_NYCCO	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Nycticebus coucang (Slow loris)	146
+P26916	HBB_NASNA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Nasua nasua (Ring-tailed coati)	146
+P68046	HBB_ODORO	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Odobenus rosmarus divergens (Pacific walrus)	146
+P02050	HBB_OTOCR	reviewed	Hemoglobin subunit beta-1/2 (Beta-1/2-globin) (Hemoglobin beta-1/2 chain)	HBB	Otolemur crassicaudatus (Brown greater galago) (Galago crassicaudatus)	146
+P02111	HBB_ORNAN	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Ornithorhynchus anatinus (Duckbill platypus)	146
+P02094	HBB_MESAU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain) (Hemoglobin beta-major chain)	HBB	Mesocricetus auratus (Golden hamster)	147
+P02093	HBB_ONDZI	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Ondatra zibethicus (Muskrat)	146
+Q6Y239	HBB_PAGMA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	hbb	Pagrus major (Red sea bream) (Chrysophrys major)	148
+P02076	HBB_OVIMU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Ovis aries musimon (Mouflon)	145
+P68872	HBB_PANPA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Pan paniscus (Pygmy chimpanzee) (Bonobo)	147
+Q98TS0	HBB_ONCNE	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	hbb	Oncorhynchus nerka (Sockeye salmon) (Salmo nerka)	148
+P04244	HBB_PANPO	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Panthera pardus orientalis (Amur leopard)	147
+Q9TSP1	HBB_PAPAN	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Papio anubis (Olive baboon)	147
+P02030	HBB_PAPCY	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Papio cynocephalus (Yellow baboon)	146
+C0HJE1	HBB_PALPA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Paleosuchus palpebrosus (Cuvier's smooth-fronted caiman) (Dwarf caiman)	146
+P19646	HBB_PAGLA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Paguma larvata (Masked palm civet)	146
+P07406	HBB_PASMO	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Passer montanus (Eurasian tree sparrow)	146
+B3EWD6	HBB_PERCA	reviewed	Hemoglobin subunit beta		Peromyscus californicus (California mouse)	146
+P68873	HBB_PANTR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Pan troglodytes (Chimpanzee)	147
+B3EWD4	HBB_PERCR	reviewed	Hemoglobin subunit beta		Peromyscus crinitus (Canyon mouse)	146
+P09909	HBB_PHOVI	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Phoca vitulina (Harbor seal)	146
+P09905	HBB_PHYCD	reviewed	Hemoglobin subunit beta-1/2 (Beta-1/2-globin) (Hemoglobin beta-1/2 chain) (Hemoglobin beta-I/II chain)	HBB	Physeter catodon (Sperm whale) (Physeter macrocephalus)	146
+P02067	HBB_PIG	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Sus scrofa (Pig)	147
+P02113	HBB_PHACO	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Phasianus colchicus colchicus (Black-necked pheasant)	146
+P02121	HBB_PHORB	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Phoenicopterus ruber (Greater flamingo) (Caribbean flamingo)	146
+P29628	HBB_NOTAN	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	hbb	Notothenia angustata (Rockcod)	146
+P02108	HBB_POTTR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Potorous tridactylus (Potoroo)	146
+P23020	HBB_PROCR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Proteles cristata (Aardwolf)	146
+P0C240	HBB_POGSC	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	hbb	Pogonophryne scotti (Antartic fish)	146
+Q9TT34	HBB_PONPY	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain) (Fragment)	HBB	Pongo pygmaeus (Bornean orangutan)	36
+P02134	HBB_PELES	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Pelophylax esculentus (Edible frog) (Rana esculenta)	140
+P10782	HBB_PHACA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Phalacrocorax carbo (Great cormorant) (Pelecanus carbo)	146
+P18989	HBB_PROLO	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Procyon lotor (Raccoon)	146
+P02033	HBB_PILBA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Piliocolobus badius (Western red colobus) (Procolobus badius)	146
+Q6WN27	HBB_PITPI	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Pithecia pithecia (White-faced saki)	147
+P68052	HBB_PTEBR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Pteronura brasiliensis (Giant otter)	146
+P14391	HBB_PTEAL	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Pteropus alecto (Black flying fox)	146
+P14392	HBB_PTEPO	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Pteropus poliocephalus (Grey-headed flying fox)	146
+D0VX08	HBB_PTEGI	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Pteropus giganteus (Indian flying fox)	146
+P02086	HBB_PROHA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Procavia capensis habessinica (Abyssinian hyrax)	146
+B2KHZ4	HBB_RHIFE	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Rhinolophus ferrumequinum (Greater horseshoe bat)	147
+P02124	HBB_RHEAM	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Rhea americana (Greater rhea) (Common rhea)	146
+P02058	HBB_ROUAE	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Rousettus aegyptiacus (Egyptian rousette) (Egyptian fruit bat)	146
+P02038	HBB_SAGMY	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Saguinus mystax (Moustached tamarin)	146
+P02039	HBB_SAGFU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Saguinus fuscicollis (Brown-headed tamarin)	146
+P68055	HBB_SAGOE	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Saguinus oedipus (Cotton-top tamarin)	146
+P21668	HBB_PSIKR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Psittacula krameri (Rose-ringed parakeet)	146
+P21380	HBB_RANTA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Rangifer tarandus (Reindeer) (Cervus tarandus)	145
+Q2KPA4	HBB_SCAAQ	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Scalopus aquaticus (Eastern mole)	147
+P67821	HBB_SAPAP	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Sapajus apella (Brown-capped capuchin) (Cebus apella)	147
+P68054	HBB_SAGNI	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Saguinus nigricollis (Black-and-red tamarin)	146
+P02057	HBB_RABIT	reviewed	Hemoglobin subunit beta-1/2 (Beta-1/2-globin) (Hemoglobin beta-1/2 chain)	HBB1; HBB2	Oryctolagus cuniculus (Rabbit)	147
+P09907	HBB_RHIUN	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Rhinoceros unicornis (Greater Indian rhinoceros)	146
+P02036	HBB_SAISC	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Saimiri sciureus (Common squirrel monkey)	147
+P02032	HBB_SEMEN	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Semnopithecus entellus (Hanuman langur) (Presbytis entellus)	146
+B3EWD2	HBB_SCICA	reviewed	Hemoglobin subunit beta		Sciurus carolinensis (Gray squirrel)	146
+O13163	HBB_SILAS	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	hbb	Silurus asotus (Amur catfish) (Parasilurus asotus)	148
+Q91473	HBB_SALSA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	hbb	Salmo salar (Atlantic salmon)	148
+P02090	HBB_SPAEH	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Spalax ehrenbergi (Middle East blind mole rat) (Nannospalax ehrenbergi)	146
+P07409	HBB_SQUAC	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Squalus acanthias (Spiny dogfish)	142
+P09421	HBB_SPECI	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Spermophilus citellus (European suslik) (Citellus citellus)	146
+P02060	HBB_SUNMU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Suncus murinus (Asian house shrew) (Musk shrew)	146
+Q28932	HBB_SMICR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Sminthopsis crassicaudata (Fat-tailed dunnart) (Phascogale crassicaudata)	147
+Q2KPA3	HBB_SCAOR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Scapanus orarius (Coast mole)	147
+B3EWD0	HBB_SPEBE	reviewed	Hemoglobin subunit beta		Spermophilus beecheyi (California ground squirrel) (Otospermophilus beecheyi)	146
+B3EWD8	HBB_TAMHU	reviewed	Hemoglobin subunit beta		Tamiasciurus hudsonicus (American red squirrel)	146
+B3EWC8	HBB_TAMMR	reviewed	Hemoglobin subunit beta		Tamias merriami (Merriam's chipmunk)	146
+P11756	HBB_TADBR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Tadarida brasiliensis (Brazilian free-tailed bat)	146
+Q7LZB9	HBB_STROE	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Streptopelia orientalis (Eastern turtle dove)	146
+P02061	HBB_TALEU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Talpa europaea (European mole)	146
+B3EWE0	HBB_TAMST	reviewed	Hemoglobin subunit beta		Tamias striatus (Eastern chipmunk)	146
+P13557	HBB_TARSY	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Tarsius syrichta (Philippine tarsier)	147
+P02110	HBB_TACAC	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Tachyglossus aculeatus aculeatus (Australian echidna)	147
+P02051	HBB_TARBA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Tarsius bancanus (Western tarsier) (Horsfield's tarsier)	146
+P02123	HBB_STRCA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Struthio camelus (Common ostrich)	146
+P28781	HBB_TAPGE	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Taphozous georgianus (Sharp-nosed tomb bat) (Taphozous australis georgianus)	146
+O93351	HBB_TREHA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	hbb	Trematomus hansoni (Striped rockcod) (Notothenia hansoni)	147
+P80044	HBB_TREBE	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	hbb	Trematomus bernacchii (Emerald rockcod) (Pagothenia bernacchii)	147
+P02126	HBB_STUVU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Sturnus vulgaris (Starling)	146
+P45720	HBB_TRENE	reviewed	Hemoglobin subunit beta-1/2 (Beta-1/2-globin) (Hemoglobin beta-1/2 chain)		Trematomus newnesi (Dusky notothen)	146
+P04245	HBB_TRAST	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Tragelaphus strepsiceros (Greater kudu)	145
+P02075	HBB_SHEEP	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Ovis aries (Sheep)	145
+P07415	HBB_TRIIN	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Trichechus inunguis (Amazon manatee) (Brazilian manatee)	146
+P68062	HBB_TRIOC	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Trigonoceps occipitalis (White-headed vulture) (Aegypius occipitalis)	146
+P02029	HBB_THEGE	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Theropithecus gelada (Gelada baboon)	146
+P18990	HBB_TURTR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Tursiops truncatus (Atlantic bottle-nosed dolphin) (Delphinus truncatus)	146
+P68012	HBB_URSTH	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Ursus thibetanus (Asiatic black bear) (Selenarctos thibetanus)	146
+P68011	HBB_URSMA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Ursus maritimus (Polar bear) (Thalarctos maritimus)	146
+P14524	HBB_TURME	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Turdus merula (Common blackbird)	146
+P11749	HBB_THUTH	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	hbb	Thunnus thynnus (Atlantic bluefin tuna) (Scomber thynnus)	146
+P07411	HBB_VULGR	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Vultur gryphus (Andean condor)	146
+P68228	HBB_VICPA	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Vicugna pacos (Alpaca) (Lama pacos)	147
+P02052	HBB_TUPGL	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Tupaia glis (Tree shrew)	146
+P21201	HBB_VULVU	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Vulpes vulpes (Red fox)	146
+P02044	HBD_ATEGE	reviewed	Hemoglobin subunit delta (Delta-globin) (Hemoglobin delta chain)	HBD	Ateles geoffroyi (Black-handed spider monkey) (Geoffroy's spider monkey)	147
+P21667	HBB_VARVI	reviewed	Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain)	HBB	Varecia variegata (Black-and-white ruffed lemur) (Lemur variegatus)	146
+P02046	HBD_AOTTR	reviewed	Hemoglobin subunit delta (Delta-globin) (Hemoglobin delta chain)	HBD	Aotus trivirgatus (Three-striped night monkey) (Douroucouli)	146
+P07410	HBB_UROTO	reviewed	Hemoglobin subunit beta-S/F (Beta-S/F-globin) (Hemoglobin beta-S/F chain)		Urocitellus townsendii (Townsend's ground squirrel) (Spermophilus townsendii)	146
+P19886	HBD_COLPO	reviewed	Hemoglobin subunit delta (Delta-globin) (Hemoglobin delta chain)	HBD	Colobus polykomos (Western black-and-white colobus monkey)	147
+Q45XI4	HBD_DENDR	reviewed	Hemoglobin subunit deltaH (DeltaH-globin) (Hemoglobin deltaH chain)	HBD	Dendrohyrax dorsalis (Beecroft's tree hyrax)	147
+Q5XLE5	HBD_AILME	reviewed	Hemoglobin subunit delta (Delta-globin) (Hemoglobin delta chain)	HBD	Ailuropoda melanoleuca (Giant panda)	147
+P33499	HBD_ATEFU	reviewed	Hemoglobin subunit delta (Delta-globin) (Hemoglobin delta chain)	HBD	Ateles fusciceps (Brown-headed spider monkey) (Ateles geoffroyi fusciceps)	146
+Q45XI9	HBD_ELEMA	reviewed	Hemoglobin subunit delta (Delta-globin) (Hemoglobin delta chain)	HBD	Elephas maximus (Indian elephant)	147
+Q03902	HBD_OTOCR	reviewed	Hemoglobin subunit delta (Delta-globin) (Hemoglobin delta chain)	HBD	Otolemur crassicaudatus (Brown greater galago) (Galago crassicaudatus)	147
+Q45XJ0	HBD_LOXAF	reviewed	Hemoglobin subunit delta (Delta-globin) (Hemoglobin delta chain)	HBD	Loxodonta africana (African elephant)	147
+P61772	HBD_PANTR	reviewed	Hemoglobin subunit delta (Delta-globin) (Hemoglobin delta chain)	HBD	Pan troglodytes (Chimpanzee)	147
+Q45XI5	HBD_HETBR	reviewed	Hemoglobin subunit deltaH (DeltaH-globin) (Hemoglobin deltaH chain)		Heterohyrax brucei (Yellow-spotted hyrax) (Rock hyrax)	147
+P61775	HBD_PONPY	reviewed	Hemoglobin subunit delta (Delta-globin) (Hemoglobin delta chain)	HBD	Pongo pygmaeus (Bornean orangutan)	147
+P61774	HBD_HYLLA	reviewed	Hemoglobin subunit delta (Delta-globin) (Hemoglobin delta chain)	HBD	Hylobates lar (Common gibbon) (White-handed gibbon)	147
+P68015	HBD_SAGNI	reviewed	Hemoglobin subunit delta (Delta-globin) (Hemoglobin delta chain)	HBD	Saguinus nigricollis (Black-and-red tamarin)	146
+P68014	HBD_SAGMY	reviewed	Hemoglobin subunit delta (Delta-globin) (Hemoglobin delta chain)	HBD	Saguinus mystax (Moustached tamarin)	146
+Q45XI7	HBD_DUGDU	reviewed	Hemoglobin subunit delta (Delta-globin) (Hemoglobin delta chain)	HBD	Dugong dugon (Dugong) (Trichechus dugon)	147
+P06642	HBE2_BOVIN	reviewed	Hemoglobin subunit epsilon-2 (Epsilon-2-globin) (Hemoglobin epsilon-2 chain)	HBE2	Bos taurus (Bovine)	147
+P61773	HBD_GORGO	reviewed	Hemoglobin subunit delta (Delta-globin) (Hemoglobin delta chain)	HBD	Gorilla gorilla gorilla (Western lowland gorilla)	147
+P02047	HBD_SAISC	reviewed	Hemoglobin subunit delta (Delta-globin) (Hemoglobin delta chain)	HBD	Saimiri sciureus (Common squirrel monkey)	146
+P06643	HBE4_BOVIN	reviewed	Hemoglobin subunit epsilon-4 (Epsilon-4-globin) (Hemoglobin epsilon-4 chain)	HBE4	Bos taurus (Bovine)	147
+P13558	HBD_TARSY	reviewed	Hemoglobin subunit delta (Delta-globin) (Hemoglobin delta chain)	HBD	Tarsius syrichta (Philippine tarsier)	147
+Q45XI8	HBD_TRIMA	reviewed	Hemoglobin subunit delta (Delta-globin) (Hemoglobin delta chain)	HBD	Trichechus manatus (Caribbean manatee) (West Indian manatee)	147
+Q45XI6	HBD_PROCA	reviewed	Hemoglobin subunit deltaH (DeltaH-globin) (Hemoglobin deltaH chain)		Procavia capensis (Cape hyrax) (Rock dassie)	147
+P02105	HBE2_CAPHI	reviewed	Hemoglobin subunit epsilon-2 (Epsilon-2-globin) (Hemoglobin epsilon-2 chain) (Hemoglobin epsilon-II chain)	HBE2	Capra hircus (Goat)	147
+P02102	HBE1_CAPHI	reviewed	Hemoglobin subunit epsilon-1 (Epsilon-1-globin) (Hemoglobin epsilon-1 chain) (Hemoglobin epsilon-I chain)	HBE1	Capra hircus (Goat)	147
+P68016	HBE_AOTAZ	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Aotus azarae (Southern owl monkey) (Aotus azarai)	147
+P51438	HBE_ATEBE	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Ateles belzebuth (White-bellied spider monkey)	147
+P68019	HBE_ATEGE	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Ateles geoffroyi (Black-handed spider monkey) (Geoffroy's spider monkey)	147
+P68017	HBE_ALOBE	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Alouatta belzebul (Red-handed howler monkey)	147
+Q45XH3	HBE_BRATR	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Bradypus tridactylus (Pale-throated three-toed sloth)	147
+P68018	HBE_ALOSE	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Alouatta seniculus (Red howler monkey)	147
+P68020	HBE_BRAAR	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Brachyteles arachnoides (Southern muriqui) (Woolly spider monkey)	147
+O13071	HBE_CALGE	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain) (Fragment)	HBE1	Callithrix geoffroyi (Geoffroy's marmoset)	142
+P14261	HBE_CAIMO	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE	Cairina moschata (Muscovy duck)	147
+P68027	HBE_CALPY	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Callithrix pygmaea (Pygmy marmoset) (Cebuella pygmaea)	147
+P68021	HBE_CACCA	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Cacajao calvus (Red uakari)	147
+P68026	HBE_CALJA	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Callithrix jacchus (White-tufted-ear marmoset)	147
+P68024	HBE_CALGO	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Callimico goeldii (Goeldi's marmoset)	147
+P02128	HBE_CHICK	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE	Gallus gallus (Chicken)	147
+P68022	HBE_CALMO	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Callicebus moloch (Dusky titi monkey)	147
+Q29415	HBE_CEBOL	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Cebus olivaceus (Weeper capuchin)	147
+Q28338	HBE_CHEME	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Cheirogaleus medius (Fat-tailed dwarf lemur)	147
+Q28356	HBE_DAUMA	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Daubentonia madagascariensis (Aye-aye) (Sciurus madagascariensis)	147
+P08223	HBE_EULFU	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Eulemur fulvus fulvus (Brown lemur)	147
+P68025	HBE_CHISA	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Chiropotes satanas (Brown-bearded saki)	147
+P11025	HBE_DIDVI	reviewed	Hemoglobin subunit epsilon-M (Epsilon-M-globin) (Hemoglobin epsilon-M chain)	HBE1	Didelphis virginiana (North American opossum) (Didelphis marsupialis virginiana)	147
+P02100	HBE_HUMAN	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1 HBE	Homo sapiens (Human)	147
+Q7JFR7	HBE_CEBKA	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Cebus kaapori (Ka'apor capuchin) (Cebus olivaceus kaapori)	147
+P51440	HBE_LAGLA	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Lagothrix lagotricha (Brown woolly monkey) (Humboldt's woolly monkey)	147
+Q28220	HBE_CEBAL	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Cebus albifrons (White-fronted capuchin)	147
+Q28507	HBE_MACMU	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Macaca mulatta (Rhesus macaque)	147
+P51441	HBE_LEORO	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Leontopithecus rosalia (Golden lion tamarin)	147
+Q6LDH0	HBE_GORGO	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Gorilla gorilla gorilla (Western lowland gorilla)	147
+Q28775	HBE_PANPA	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Pan paniscus (Pygmy chimpanzee) (Bonobo)	147
+P02104	HBE_MOUSE	reviewed	Hemoglobin subunit epsilon-Y2 (Epsilon-Y2-globin) (Hemoglobin epsilon-Y2 chain)	Hbb-y	Mus musculus (Mouse)	147
+Q28496	HBE_MICMU	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Microcebus murinus (Lesser mouse lemur) (Gray Mouse Lemur)	147
+P18994	HBE_PONPY	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Pongo pygmaeus (Bornean orangutan)	147
+Q95238	HBE_PROVE	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Propithecus verreauxi (White sifaka) (Verreaux's sifaka)	147
+P19759	HBE_OTOCR	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Otolemur crassicaudatus (Brown greater galago) (Galago crassicaudatus)	147
+P51442	HBE_PITIR	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Pithecia irrorata (Gray monk saki)	147
+P68023	HBE_CALTO	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Callicebus torquatus (Collared titi)	147
+P81042	HBE_MACEU	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Macropus eugenii (Tammar wallaby)	147
+P68028	HBE_SAISC	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Saimiri sciureus (Common squirrel monkey)	147
+Q95190	HBE_SYMSY	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Symphalangus syndactylus (Siamang) (Hylobates syndactylus)	147
+P06148	HBF1_URECA	reviewed	Hemoglobin F-I		Urechis caupo (Innkeeper worm) (Spoonworm)	142
+P18435	HBE_TARSY	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Tarsius syrichta (Philippine tarsier)	147
+P02103	HBE_RABIT	reviewed	Hemoglobin subunit epsilon (Beta-4 globin) (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Oryctolagus cuniculus (Rabbit)	147
+P68029	HBE_SAIBB	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Saimiri boliviensis boliviensis (Bolivian squirrel monkey)	147
+P62741	HBG1_GORGO	reviewed	Hemoglobin subunit gamma-1 (Gamma-1-globin) (Hemoglobin gamma-1 chain) (Hemoglobin gamma-A chain)	HBG1	Gorilla gorilla gorilla (Western lowland gorilla)	147
+Q28221	HBG1_CEBAL	reviewed	Hemoglobin subunit gamma-1 (Gamma-1-globin) (Hemoglobin gamma-1 chain)	HBG1	Cebus albifrons (White-fronted capuchin)	147
+P51443	HBE_SAGMI	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Saguinus midas (Midas tamarin) (Golden-handed tamarin)	147
+Q9GLX4	HBG1_CALMO	reviewed	Hemoglobin subunit gamma-1 (Gamma-1-globin) (Hemoglobin gamma-1 chain)	HBG1	Callicebus moloch (Dusky titi monkey)	147
+P61947	HBG1_HYLLA	reviewed	Hemoglobin subunit gamma-1 (Gamma-1-globin) (Hemoglobin gamma-1 chain) (Hemoglobin gamma-A chain)	HBG1	Hylobates lar (Common gibbon) (White-handed gibbon)	147
+Q28779	HBG1_PANPA	reviewed	Hemoglobin subunit gamma-1 (Gamma-1-globin) (Hemoglobin gamma-1 chain) (Hemoglobin gamma-A chain)	HBG1	Pan paniscus (Pygmy chimpanzee) (Bonobo)	147
+Q6LDH1	HBE_PANTR	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Pan troglodytes (Chimpanzee)	147
+P18995	HBG1_PONPY	reviewed	Hemoglobin subunit gamma-1 (Gamma-1-globin) (Hemoglobin gamma-1 chain)	HBG1	Pongo pygmaeus (Bornean orangutan)	147
+P61920	HBG1_PANTR	reviewed	Hemoglobin subunit gamma-1 (Gamma-1-globin) (Hemoglobin gamma-1 chain) (Hemoglobin gamma-A chain)	HBG1	Pan troglodytes (Chimpanzee)	147
+P02101	HBE_PIG	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain)	HBE1	Sus scrofa (Pig)	147
+Q28931	HBE_SMICR	reviewed	Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin embryonic beta chain) (Hemoglobin epsilon chain)	HBE1 HBBE	Sminthopsis crassicaudata (Fat-tailed dunnart) (Phascogale crassicaudata)	147
+P62742	HBG2_GORGO	reviewed	Hemoglobin subunit gamma-2 (Gamma-2-globin) (Hemoglobin gamma-2 chain) (Hemoglobin gamma-G chain)	HBG2	Gorilla gorilla gorilla (Western lowland gorilla)	147
+P68258	HBG2_CEBAL	reviewed	Hemoglobin subunit gamma-2 (Gamma-2-globin) (Hemoglobin gamma-2 chain)	HBG2	Cebus albifrons (White-fronted capuchin)	147
+P68257	HBG2_SAPAP	reviewed	Hemoglobin subunit gamma-2 (Gamma-2-globin) (Hemoglobin gamma-2 chain)	HBG2	Sapajus apella (Brown-capped capuchin) (Cebus apella)	147
+P61921	HBG2_PANTR	reviewed	Hemoglobin subunit gamma-2 (Gamma-2-globin) (Hemoglobin gamma-2 chain) (Hemoglobin gamma-G chain)	HBG2	Pan troglodytes (Chimpanzee)	147
+Q27940	HBG_AOTAZ	reviewed	Hemoglobin subunit gamma (Gamma-globin) (Hemoglobin gamma chain)	HBG	Aotus azarae (Southern owl monkey) (Aotus azarai)	147
+P68068	HBG_ATEGE	reviewed	Hemoglobin subunit gamma (Gamma-globin) (Hemoglobin gamma chain)	HBG	Ateles geoffroyi (Black-handed spider monkey) (Geoffroy's spider monkey)	147
+P18996	HBG2_PONPY	reviewed	Hemoglobin subunit gamma-2 (Gamma-2-globin) (Hemoglobin gamma-2 chain)	HBG2	Pongo pygmaeus (Bornean orangutan)	147
+P68256	HBG1_SAPAP	reviewed	Hemoglobin subunit gamma-1 (Gamma-1-globin) (Hemoglobin gamma-1 chain)	HBG1	Sapajus apella (Brown-capped capuchin) (Cebus apella)	147
+P68071	HBG_BRAAR	reviewed	Hemoglobin subunit gamma (Gamma-globin) (Hemoglobin gamma chain)	HBG	Brachyteles arachnoides (Southern muriqui) (Woolly spider monkey)	147
+P61948	HBG2_HYLLA	reviewed	Hemoglobin subunit gamma-2 (Gamma-2-globin) (Hemoglobin gamma-2 chain) (Hemoglobin gamma-G chain)	HBG2	Hylobates lar (Common gibbon) (White-handed gibbon)	147
+P68069	HBG_ATEPA	reviewed	Hemoglobin subunit gamma (Gamma-globin) (Hemoglobin gamma chain)	HBG	Ateles paniscus (Black spider monkey) (Red-faced black spider monkey)	147
+P08224	HBG_CHEME	reviewed	Hemoglobin subunit gamma (Gamma-globin) (Hemoglobin gamma chain)	HBG	Cheirogaleus medius (Fat-tailed dwarf lemur)	147
+P68070	HBG_LAGLA	reviewed	Hemoglobin subunit gamma (Gamma-globin) (Hemoglobin gamma chain)	HBG	Lagothrix lagotricha (Brown woolly monkey) (Humboldt's woolly monkey)	147
+Q45XH7	HBG_ELEMA	reviewed	Hemoglobin subunit gamma (Gamma-globin) (Hemoglobin gamma chain)	HBG	Elephas maximus (Indian elephant)	147
+P68077	HBG_MACMU	reviewed	Hemoglobin subunit gamma (Gamma-globin) (Hemoglobin gamma chain)	HBG	Macaca mulatta (Rhesus macaque)	147
+Q9GJS7	HBG_CALJA	reviewed	Hemoglobin subunit gamma (Gamma-globin) (Hemoglobin gamma chain)	HBG1; HBG2	Callithrix jacchus (White-tufted-ear marmoset)	147
+P68079	HBG_PAPCY	reviewed	Hemoglobin subunit gamma (Gamma-globin) (Hemoglobin gamma chain)	HBG	Papio cynocephalus (Yellow baboon)	147
+Q45XH5	HBG_DUGDU	reviewed	Hemoglobin subunit gamma (Gamma-globin) (Hemoglobin gamma chain)	HBG	Dugong dugon (Dugong) (Trichechus dugon)	147
+P02097	HBG_MACNE	reviewed	Hemoglobin subunit gamma (Gamma-globin) (Hemoglobin gamma chain)	HBG	Macaca nemestrina (Pig-tailed macaque)	146
+P02099	HBG_RABIT	reviewed	Hemoglobin subunit gamma (Gamma-globin) (Hemoglobin beta-3) (Hemoglobin gamma chain)	HBG	Oryctolagus cuniculus (Rabbit)	147
+O77655	HBG_TARBA	reviewed	Hemoglobin subunit gamma (Gamma-globin) (Hemoglobin gamma chain)	HBG	Tarsius bancanus (Western tarsier) (Horsfield's tarsier)	147
+Q45XH8	HBG_LOXAF	reviewed	Hemoglobin subunit gamma (Gamma-globin) (Hemoglobin gamma chain)	HBG	Loxodonta africana (African elephant)	147
+P18436	HBG_TARSY	reviewed	Hemoglobin subunit gamma (Gamma-globin) (Hemoglobin gamma chain)	HBG	Tarsius syrichta (Philippine tarsier)	148
+Q45XH6	HBG_TRIMA	reviewed	Hemoglobin subunit gamma (Gamma-globin) (Hemoglobin gamma chain)	HBG	Trichechus manatus (Caribbean manatee) (West Indian manatee)	147
+P56285	HBG_ALOSE	reviewed	Hemoglobin subunit gamma (Gamma-globin) (Hemoglobin gamma chain)	HBG	Alouatta seniculus (Red howler monkey)	147
+P19760	HBG_OTOCR	reviewed	Hemoglobin subunit gamma (Gamma-globin) (Hemoglobin gamma chain)	HBG	Otolemur crassicaudatus (Brown greater galago) (Galago crassicaudatus)	147
+P68030	HBG_ALOBE	reviewed	Hemoglobin subunit gamma (Gamma-globin) (Hemoglobin gamma chain)	HBG	Alouatta belzebul (Red-handed howler monkey)	147
+P68031	HBG_ALOCA	reviewed	Hemoglobin subunit gamma (Gamma-globin) (Hemoglobin gamma chain)	HBG	Alouatta caraya (Black howler monkey)	147
+P08225	HBG_EULFU	reviewed	Hemoglobin subunit gamma (Gamma-globin) (Hemoglobin gamma chain)	HBG	Eulemur fulvus fulvus (Brown lemur)	147
+O24520	HBL1_ARATH	reviewed	Non-symbiotic hemoglobin 1 (ARAth GLB1) (Hb1)	AHB1 GLB1 At2g16060 F7H1.8	Arabidopsis thaliana (Mouse-ear cress)	160
+Q947C5	HBL1_GOSHI	reviewed	Non-symbiotic hemoglobin 1 (GOShi GLB1) (Hb1)	HB1 GLB1	Gossypium hirsutum (Upland cotton) (Gossypium mexicanum)	163
+Q9FVL0	HBL1_MEDSA	reviewed	Non-symbiotic hemoglobin 1 (MEDsa GLB1)	MHB1 GLB1	Medicago sativa (Alfalfa)	160
+Q9M630	HBL0_PHYPA	reviewed	Non-symbiotic hemoglobin 0 (Non-vascular plant hemoglobin Glb0)	GLB0 PHYPADRAFT_184189	Physcomitrella patens subsp. patens (Moss)	180
+O24521	HBL2_ARATH	reviewed	Non-symbiotic hemoglobin 2 (ARAth GLB2) (Hb2)	AHB2 GLB2 At3g10520 F13M14.20 F18K10.9	Arabidopsis thaliana (Mouse-ear cress)	158
+Q93Y92	HBL2_GOSHI	reviewed	Non-symbiotic hemoglobin 2 (GOShi GLB2) (Hb2)	HB2 GLB2	Gossypium hirsutum (Upland cotton) (Gossypium mexicanum)	159
+Q94FT7	HBL4_ORYSJ	reviewed	Non-symbiotic hemoglobin 4 (ORYsa GLB1d) (rHb4)	HB4 GLB1D Os03g0234100 LOC_Os03g13160 OJ1175C11.3	Oryza sativa subsp. japonica (Rice)	167
+Q941Q2	HBL2_BRANA	reviewed	Non-symbiotic hemoglobin 2 (BRAna GLB2) (Hb2)	HB2 GLB2	Brassica napus (Rape)	161
+O04986	HBL1_ORYSJ	reviewed	Non-symbiotic hemoglobin 1 (ORYsa GLB1a) (rHb1)	HB1 GLB1A Os03g0233900 LOC_Os03g13140 OJ1175C11.5	Oryza sativa subsp. japonica (Rice)	166
+P07803	HBL_TRETO	reviewed	Non-symbiotic hemoglobin (TREto GLB1)	GLB1	Trema tomentosa (Poison peach) (Celtis tomentosa)	161
+O04985	HBL2_ORYSJ	reviewed	Non-symbiotic hemoglobin 2 (ORYsa GLB1b) (rHb2)	HB2 GLB1B Os03g0226200 LOC_Os03g12510 OSJNBa0081P02.19	Oryza sativa subsp. japonica (Rice)	169
+A1A4Q3	HBM_BOVIN	reviewed	Hemoglobin subunit mu (Hemoglobin mu chain) (Mu-globin)	HBM	Bos taurus (Bovine)	141
+Q42831	HBL_HORVU	reviewed	Non-symbiotic hemoglobin (HORvu GLB1) (Non-legume hemoglobin)	HB GLB1	Hordeum vulgare (Barley)	162
+Q9M593	HBL_ZEAMP	reviewed	Non-symbiotic hemoglobin (Hbt) (ZEAmp GLB1)	HB GLB1	Zea mays subsp. parviglumis (Balsas teosinte)	165
+P68078	HBG_MACFU	reviewed	Hemoglobin subunit gamma (Gamma-globin) (Hemoglobin gamma chain)	HBG	Macaca fuscata fuscata (Japanese macaque)	147
+Q94FT8	HBL3_ORYSJ	reviewed	Non-symbiotic hemoglobin 3 (ORYsa GLB1c) (rHb3)	HB3 GLB1C Os03g0234000 LOC_Os03g13150 OJ1175C11.4	Oryza sativa subsp. japonica (Rice)	169
+Q9FY42	HBL_MAIZE	reviewed	Non-symbiotic hemoglobin (Hbm) (ZEAma GLB1)	HB GLB1	Zea mays (Maize)	165
+Q6B0K9	HBM_HUMAN	reviewed	Hemoglobin subunit mu (Hemoglobin mu chain) (Mu-globin)	HBM HBAP2	Homo sapiens (Human)	141
+Q941P9	HBL2_SOLLC	reviewed	Non-symbiotic hemoglobin 2 (Hb2) (SOLly GLB2)	HB2 GLB2	Solanum lycopersicum (Tomato) (Lycopersicon esculentum)	156
+P08054	HBP1_CASGL	reviewed	Hemoglobin-1 (Hemoglobin I)		Casuarina glauca (Swamp oak)	152
+P81041	HBO_MACEU	reviewed	Hemoglobin subunit omega (Hemoglobin omega chain) (Omega-globin) (Fragment)		Macropus eugenii (Tammar wallaby)	54
+P23244	HBP2_CASGL	reviewed	Hemoglobin-2 (Hemoglobin II)	HBII	Casuarina glauca (Swamp oak)	160
+Q42665	HBPA_CASGL	reviewed	Hemoglobin A	SYMA	Casuarina glauca (Swamp oak)	152
+P02007	HBPI_CHICK	reviewed	Hemoglobin subunit pi (Hemoglobin pi chain) (Hemoglobin pi' chain) (Pi-globin)		Gallus gallus (Chicken)	142
+P68168	HBPL_PARAD	reviewed	Non-legume hemoglobin		Parasponia andersonii (Sponia andersonii)	162
+P68169	HBPL_PARRI	reviewed	Non-legume hemoglobin		Parasponia rigida	162
+P02127	HBRH_CHICK	reviewed	Hemoglobin subunit rho (Hemoglobin rho chain) (Rho-globin)		Gallus gallus (Chicken)	147
+P04243	HBPI_CAIMO	reviewed	Hemoglobin subunit pi (Hemoglobin pi chain) (Hemoglobin pi' chain) (Pi-globin)		Cairina moschata (Muscovy duck)	142
+P04246	HBT_PIG	reviewed	Hemoglobin subunit theta (Hemoglobin theta chain) (Theta-globin)		Sus scrofa (Pig)	146
+E1F8Q4	HMP1_GIAIA	reviewed	Flavohemoprotein-1 (Flavohemoglobin-1) (FlavoHb-1) (Hemoglobin-like protein-1) (Nitric oxide dioxygenase-1) (NO oxygenase-1) (NOD-1) (EC 1.14.12.17)	hmpA-1 FLHb-1 GLP15_2272	Giardia intestinalis (strain P15) (Giardia lamblia)	457
+Q81T23	HMP_BACAN	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp BA_1467 GBAA_1467 BAS1357	Bacillus anthracis	402
+Q81FW4	HMP_BACCR	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp BC_1448	Bacillus cereus (strain ATCC 14579 / DSM 31 / JCM 2152 / NBRC 15305 / NCIMB 9373 / NRRL B-3711)	402
+Q73B49	HMP_BACC1	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp BCE_1571	Bacillus cereus (strain ATCC 10987 / NRS 248)	402
+Q6HLA6	HMP_BACHK	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp BT9727_1331	Bacillus thuringiensis subsp. konkukian (strain 97-27)	402
+Q9RC40	HMP_BACHD	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp BH1058	Bacillus halodurans (strain ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM 9153 / C-125)	411
+E1F8H4	HMP2_GIAIA	reviewed	Flavohemoprotein-2 (Flavohemoglobin-2) (FlavoHb-2) (Hemoglobin-like protein-2) (Nitric oxide dioxygenase-2) (NO oxygenase-2) (NOD-2) (EC 1.14.12.17)	hmpA-2 FLHb-2 GLP15_347	Giardia intestinalis (strain P15) (Giardia lamblia)	457
+Q7WHW5	HMP_BORBR	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp fhp BB3091	Bordetella bronchiseptica (strain ATCC BAA-588 / NCTC 13252 / RB50) (Alcaligenes bronchisepticus)	402
+Q7TTP0	HMP_BORPE	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp fhp BP2212	Bordetella pertussis (strain Tohama I / ATCC BAA-589 / NCTC 13251)	402
+Q7TTP2	HMP_BORPA	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp fhp BPP1637	Bordetella parapertussis (strain 12822 / ATCC BAA-587 / NCTC 13253)	402
+Q7NSD8	HMP_CHRVO	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp hmpA CV_3488	Chromobacterium violaceum (strain ATCC 12472 / DSM 30191 / JCM 1249 / NBRC 12614 / NCIMB 9131 / NCTC 9757)	404
+P39662	HMP_CUPNH	reviewed	Flavohemoprotein (FHP) (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp fhp PHG200	Cupriavidus necator (strain ATCC 17699 / H16 / DSM 428 / Stanier 337) (Ralstonia eutropha)	403
+Q9RYR5	HMP_DEIRA	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp DR_A0243	Deinococcus radiodurans (strain ATCC 13939 / DSM 20539 / JCM 16871 / LMG 4051 / NBRC 15346 / NCIMB 9279 / R1 / VKM B-1422)	403
+Q47266	HMP_DICD3	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Hemoprotein X) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp hmpX Dda3937_03368	Dickeya dadantii (strain 3937) (Erwinia chrysanthemi (strain 3937))	395
+Q7ABK6	HMP_ECO57	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp hmpA Z3828 ECs3418	Escherichia coli O157:H7	396
+Q8FF30	HMP_ECOL6	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp hmpA c3075	Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC)	396
+Q8GAZ4	HMP_BURST	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp	Burkholderia sp. (strain TH2)	393
+C6LR75	HMP_GIAIB	reviewed	Flavohemoprotein (Flavohemoglobin) (FlavoHb) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmpA FLHb GL50581_1257	Giardia intestinalis (strain ATCC 50581 / GS clone H7) (Giardia lamblia)	458
+E2RTZ4	HMP_GIAIC	reviewed	Flavohemoprotein (Flavohemoglobin) (FlavoHb) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmpA FLHb GL50803_15009	Giardia intestinalis (strain ATCC 50803 / WB clone C6) (Giardia lamblia)	458
+Q6D245	HMP_PECAS	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp ECA3251	Pectobacterium atrosepticum (strain SCRI 1043 / ATCC BAA-672) (Erwinia carotovora subsp. atroseptica)	396
+Q7N215	HMP_PHOLL	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp hmpA plu3292	Photorhabdus luminescens subsp. laumondii (strain TT01)	396
+Q9I0H4	HMP_PSEAE	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp fhp PA2664	Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228)	393
+Q7WUM8	HMP_RHIME	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp fhb RA0649 SMa1191	Rhizobium meliloti (strain 1021) (Ensifer meliloti) (Sinorhizobium meliloti)	403
+Q8ETH0	HMP_OCEIH	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp OB0291	Oceanobacillus iheyensis (strain DSM 14371 / JCM 11309 / KCTC 3954 / HTE831)	406
+Q88PP0	HMP_PSEPK	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp hmpA PP_0808	Pseudomonas putida (strain KT2440)	392
+Q6LM37	HMP_PHOPR	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp PBPRA3343	Photobacterium profundum (Photobacterium sp. (strain SS9))	394
+Q57LF5	HMP_SALCH	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp SCH_2551	Salmonella choleraesuis (strain SC-B67)	396
+Q5PIH6	HMP_SALPA	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp hmpA SPA0310	Salmonella paratyphi A (strain ATCC 9150 / SARB42)	396
+P26353	HMP_SALTY	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp frsB hmpA STM2556	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	396
+Q8Z4M3	HMP_SALTI	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp hmpA STY2803 t0300	Salmonella typhi	396
+P40609	HMP_VIBPA	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp VP2809	Vibrio parahaemolyticus serotype O3:K6 (strain RIMD 2210633)	394
+Q7C0F9	HMP_SHIFL	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp hmpA SF2599 S2771	Shigella flexneri	396
+Q8DCU2	HMP_VIBVU	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp VV1_1301	Vibrio vulnificus (strain CMCP6)	394
+Q9KMY3	HMP_VIBCH	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp VC_A0183	Vibrio cholerae serotype O1 (strain ATCC 39315 / El Tor Inaba N16961)	394
+P49852	HMP_BACSU	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp ane3 ykiA BSU13040	Bacillus subtilis (strain 168)	399
+Q9PH91	HMP_XYLFA	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp XF_0053	Xylella fastidiosa (strain 9a5c)	397
+Q8ZCR0	HMP_YERPE	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp fsrB hmp2 hmpA hmpX YPO2908 y1321 YP_2547	Yersinia pestis	396
+Q7MH09	HMP_VIBVY	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp VV3064	Vibrio vulnificus (strain YJ016)	394
+Q87F90	HMP_XYLFT	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp hmpA PD_0038	Xylella fastidiosa (strain Temecula1 / ATCC 700964)	397
+Q7UIY1	HMP_RHOBA	reviewed	Flavohemoprotein (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)	hmp fhp RB12262	Rhodopirellula baltica (strain DSM 10527 / NCIMB 13988 / SH1)	408
+P02239	LGB1_LUPLU	reviewed	Leghemoglobin-1 (Leghemoglobin I)		Lupinus luteus (European yellow lupin)	154
+P02240	LGB2_LUPLU	reviewed	Leghemoglobin-2 (Leghemoglobin II)		Lupinus luteus (European yellow lupin)	154
+Q43236	LGB1_VIGUN	reviewed	Leghemoglobin-1 (Leghemoglobin I) (LbI)	LBI	Vigna unguiculata (Cowpea)	145
+O48668	LGB2_PEA	reviewed	Leghemoglobin Lb5-10		Pisum sativum (Garden pea)	147
+O04939	LGB2_PHAVU	reviewed	Leghemoglobin		Phaseolus vulgaris (Kidney bean) (French bean)	146
+P27993	LGB2_MEDTR	reviewed	Leghemoglobin 2	LB2	Medicago truncatula (Barrel medic) (Medicago tribuloides)	146
+P09187	LGB1_MEDSA	reviewed	Leghemoglobin-1 (Leghemoglobin I)		Medicago sativa (Alfalfa)	147
+P14848	LGB2_SESRO	reviewed	Leghemoglobin 2 (Srglb2)	GLB2	Sesbania rostrata	148
+P02235	LGB1_SOYBN	reviewed	Leghemoglobin C1 (Nodulin-50) (N-50)		Glycine max (Soybean) (Glycine hispida)	144
+P02233	LGB1_PEA	reviewed	Leghemoglobin-1 (Leghemoglobin I)		Pisum sativum (Garden pea)	148
+O80405	LGB3_PEA	reviewed	Leghemoglobin Lb120-1		Pisum sativum (Garden pea)	146
+P14962	LGB3_MEDSA	reviewed	Leghemoglobin-3 (Leghemoglobin III)		Medicago sativa (Alfalfa)	146
+P93848	LGB2_VICFA	reviewed	Leghemoglobin 29 (VfLb29)	LB29	Vicia faba (Broad bean) (Faba vulgaris)	148
+P10816	LGB3_SESRO	reviewed	Leghemoglobin 3 (Srglb3)	GLB3	Sesbania rostrata	148
+P02232	LGB1_VICFA	reviewed	Leghemoglobin-1 (Leghemoglobin I)		Vicia faba (Broad bean) (Faba vulgaris)	144
+Q43296	LGB2_VIGUN	reviewed	Leghemoglobin-2 (Leghemoglobin II) (LbII)	LBII	Vigna unguiculata (Cowpea)	145
+Q9SAZ1	LGB4_PEA	reviewed	Leghemoglobin Lb120-8		Pisum sativum (Garden pea)	146
+Q9SAZ0	LGB6_PEA	reviewed	Leghemoglobin Lb120-34		Pisum sativum (Garden pea)	146
+P02237	LGB3_SOYBN	reviewed	Leghemoglobin C3	LGB1	Glycine max (Soybean) (Glycine hispida)	145
+P28010	LGB4_MEDSA	reviewed	Leghemoglobin	LB3	Medicago sativa (Alfalfa)	147
+P02234	LGBA_PHAVU	reviewed	Leghemoglobin A		Phaseolus vulgaris (Kidney bean) (French bean)	146
+P93849	LGB3_VICFA	reviewed	Leghemoglobin 49 (VfLb49)		Vicia faba (Broad bean) (Faba vulgaris)	146
+Q9FEP8	LGB_LOTJA	reviewed	Leghemoglobin		Lotus japonicus (Lotus corniculatus var. japonicus)	147
+P02238	LGBA_SOYBN	reviewed	Leghemoglobin A (Nodulin-2) (N-2)	LBA	Glycine max (Soybean) (Glycine hispida)	144
+P27199	LGB_PSOTE	reviewed	Leghemoglobin		Psophocarpus tetragonolobus (Winged bean) (Dolichos tetragonolobus)	145
+P02236	LGB2_SOYBN	reviewed	Leghemoglobin C2		Glycine max (Soybean) (Glycine hispida)	145
+P27992	LGB1_MEDTR	reviewed	Leghemoglobin 1	LB1	Medicago truncatula (Barrel medic) (Medicago tribuloides)	147
+P42511	LGB_CANLI	reviewed	Leghemoglobin		Canavalia lineata (Beach bean) (Dolichos lineatus)	149
+O48665	LGB5_PEA	reviewed	Leghemoglobin Lb120-29		Pisum sativum (Garden pea)	146
+Q0KIY6	MYG2_STEAT	reviewed	Myoglobin-2	MB2	Stenella attenuata (Pantropical spotted dolphin) (Steno attenuatus)	154
+Q0KIY7	MYG1_STEAT	reviewed	Myoglobin-1	MB1	Stenella attenuata (Pantropical spotted dolphin) (Steno attenuatus)	154
+P02200	MYG_ALLMI	reviewed	Myoglobin	MB	Alligator mississippiensis (American alligator)	154
+Q7M3C1	MYG_AILME	reviewed	Myoglobin (Fragment)	MB	Ailuropoda melanoleuca (Giant panda)	96
+Q7LZM5	MYG_AETPY	reviewed	Myoglobin	MB	Aethia pygmaea (Whiskered auklet) (Alca pygmaea)	154
+Q7LZM2	MYG_ANAPO	reviewed	Myoglobin	MB	Anas poecilorhyncha (Spot-billed duck)	154
+Q6I7B0	MYG_AUXRO	reviewed	Myoglobin	mb	Auxis rochei (Bullet tuna)	147
+P02199	MYG_APTFO	reviewed	Myoglobin	MB	Aptenodytes forsteri (Emperor penguin)	153
+P02179	MYG_BALAC	reviewed	Myoglobin	MB	Balaenoptera acutorostrata (Common minke whale) (Balaena rostrata)	154
+P02151	MYG_AOTTR	reviewed	Myoglobin	MB	Aotus trivirgatus (Three-striped night monkey) (Douroucouli)	154
+Q0KIY2	MYG_BALED	reviewed	Myoglobin	MB	Balaenoptera edeni (Pigmy Bryde's whale)	154
+B7U9B5	MYG_CAPHI	reviewed	Myoglobin	MB	Capra hircus (Goat)	154
+P86873	MYG_BISBI	reviewed	Myoglobin	MB	Bison bison (American bison) (Bos bison)	154
+Q0KIY1	MYG_BALBO	reviewed	Myoglobin	MB	Balaenoptera borealis (Sei whale) (Pollack whale)	154
+P02192	MYG_BOVIN	reviewed	Myoglobin	MB	Bos taurus (Bovine)	154
+Q7LZM4	MYG_CERMN	reviewed	Myoglobin	MB	Cerorhinca monocerata (Rhinoceros auklet) (Alca monocerata)	154
+Q7T044	MYG_CHARH	reviewed	Myoglobin	mb	Channichthys rhinoceratus (Unicorn icefish)	147
+P02202	MYG_CHEMY	reviewed	Myoglobin	MB	Chelonia mydas (Green sea-turtle) (Chelonia agassizi)	154
+P02152	MYG_CALJA	reviewed	Myoglobin	MB	Callithrix jacchus (White-tufted-ear marmoset)	154
+P14396	MYG_CASFI	reviewed	Myoglobin	MB	Castor fiber (Eurasian beaver)	154
+P02197	MYG_CHICK	reviewed	Myoglobin	MB	Gallus gallus (Chicken)	154
+P84997	MYG_BUBBU	reviewed	Myoglobin	MB	Bubalus bubalis (Domestic water buffalo)	154
+P02204	MYG_CYPCA	reviewed	Myoglobin	mb	Cyprinus carpio (Common carp)	147
+Q2MJN4	MYG_BOSMU	reviewed	Myoglobin	MB	Bos mutus grunniens (Wild yak) (Bos grunniens)	154
+P02191	MYG_CEREL	reviewed	Myoglobin	MB	Cervus elaphus (Red deer)	154
+P20856	MYG_CTEGU	reviewed	Myoglobin	MB	Ctenodactylus gundi (Northern gundi)	154
+P02193	MYG_DIDVI	reviewed	Myoglobin	MB	Didelphis virginiana (North American opossum) (Didelphis marsupialis virginiana)	154
+P68276	MYG_DELDE	reviewed	Myoglobin	MB	Delphinus delphis (Short-beaked common dolphin)	154
+P63113	MYG_CANFA	reviewed	Myoglobin	MB	Canis familiaris (Dog) (Canis lupus familiaris)	154
+P86874	MYG_DRONO	reviewed	Myoglobin	MB	Dromaius novaehollandiae (Emu)	154
+Q6VN46	MYG_DANRE	reviewed	Myoglobin	mb zgc:65819	Danio rerio (Zebrafish) (Brachydanio rerio)	147
+P68086	MYG_ERYPA	reviewed	Myoglobin	MB	Erythrocebus patas (Red guenon) (Cercopithecus patas)	154
+P02180	MYG_BALPH	reviewed	Myoglobin	MB	Balaenoptera physalus (Finback whale) (Common rorqual)	154
+P02201	MYG_GRAGE	reviewed	Myoglobin	MB	Graptemys geographica (Common map turtle) (Testudo geographica)	154
+P02147	MYG_GORBE	reviewed	Myoglobin	MB	Gorilla gorilla beringei (Mountain gorilla) (Highland gorilla)	154
+P02156	MYG_ERIEU	reviewed	Myoglobin	MB	Erinaceus europaeus (Western European hedgehog)	154
+Q9DEN9	MYG_GOBGI	reviewed	Myoglobin	mb	Gobionotothen gibberifrons (Humped rockcod) (Notothenia gibberifrons)	147
+P14398	MYG_HEMJP	reviewed	Myoglobin	mb	Hemitriakis japanica (Japanese topeshark) (Galeus japanicus)	149
+P02174	MYG_GLOME	reviewed	Myoglobin	MB	Globicephala melas (Long-finned pilot whale) (Globicephala melaena)	154
+P83682	MYG_DELLE	reviewed	Myoglobin	MB	Delphinapterus leucas (Beluga whale)	154
+P02206	MYG_HETPO	reviewed	Myoglobin	mb	Heterodontus portusjacksoni (Port Jackson shark)	149
+P68081	MYG_HALGR	reviewed	Myoglobin	MB	Halichoerus grypus (Gray seal)	154
+P56208	MYG_CARCR	reviewed	Myoglobin	MB	Caretta caretta (Loggerhead sea turtle)	154
+P68082	MYG_HORSE	reviewed	Myoglobin	MB	Equus caballus (Horse)	154
+P02186	MYG_ELEMA	reviewed	Myoglobin	MB	Elephas maximus (Indian elephant)	154
+P87497	MYG_CHIRA	reviewed	Myoglobin	mb	Chionodraco rastrospinosus (Ocellated icefish)	147
+Q9DEP0	MYG_CRYAN	reviewed	Myoglobin	mb	Cryodraco antarcticus (Long-fingered icefish) (Pagetodes antarcticus)	147
+P02177	MYG_ESCRO	reviewed	Myoglobin	MB	Eschrichtius robustus (California gray whale) (Eschrichtius gibbosus)	154
+P68083	MYG_EQUBU	reviewed	Myoglobin	MB	Equus burchelli (Plains zebra) (Equus quagga)	154
+P62734	MYG_HYLAG	reviewed	Myoglobin	MB	Hylobates agilis (Agile gibbon)	154
+P14397	MYG_GALGA	reviewed	Myoglobin	mb	Galeorhinus galeus (Tope shark) (Galeorhinus australis)	149
+Q0KIY9	MYG_INDPC	reviewed	Myoglobin	MB	Indopacetus pacificus (Longman's beaked whale) (Mesoplodon pacificus)	154
+P02181	MYG_INIGE	reviewed	Myoglobin	MB	Inia geoffrensis (Amazon river dolphin)	154
+Q0KIY5	MYG_KOGBR	reviewed	Myoglobin	MB	Kogia breviceps (Pygmy sperm whale) (Physeter breviceps)	154
+Q9DGI8	MYG_KATPE	reviewed	Myoglobin	mb	Katsuwonus pelamis (Skipjack tuna) (Bonito)	146
+P04250	MYG_LAGMA	reviewed	Myoglobin	MB	Lagostomus maximus (Plains viscacha)	154
+P02169	MYG_LEPMU	reviewed	Myoglobin	MB	Lepilemur mustelinus (Weasel sportive lemur)	154
+P02187	MYG_LOXAF	reviewed	Myoglobin	MB	Loxodonta africana (African elephant)	154
+P11343	MYG_LUTLU	reviewed	Myoglobin	MB	Lutra lutra (European river otter)	154
+P02154	MYG_LAGLA	reviewed	Myoglobin	MB	Lagothrix lagotricha (Brown woolly monkey) (Humboldt's woolly monkey)	154
+P02150	MYG_MACFA	reviewed	Myoglobin	MB	Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey)	154
+P02194	MYG_MACRU	reviewed	Myoglobin	MB	Macropus rufus (Red kangaroo) (Megaleia rufa)	154
+P02159	MYG_LYCPI	reviewed	Myoglobin	MB	Lycaon pictus (African wild dog) (Cape hunting dog)	154
+P02178	MYG_MEGNO	reviewed	Myoglobin	MB	Megaptera novaeangliae (Humpback whale) (Balaena novaeangliae)	154
+G1NJB6	MYG_MELGA	reviewed	Myoglobin	MB	Meleagris gallopavo (Common turkey)	154
+P02183	MYG_MESCA	reviewed	Myoglobin	MB	Mesoplodon carlhubbsi (Hubb's beaked whale)	154
+Q9DGJ1	MYG_MAKNI	reviewed	Myoglobin	mb	Makaira nigricans (Atlantic blue marlin)	147
+P02157	MYG_MELME	reviewed	Myoglobin	MB	Meles meles (Eurasian badger)	154
+P02184	MYG_KOGSI	reviewed	Myoglobin	MB	Kogia sima (Dwarf sperm whale) (Physeter simus)	154
+Q9DEN8	MYG_NOTNE	reviewed	Myoglobin	mb	Notothenia neglecta (Yellowbelly rockcod) (Notothenia coriiceps neglecta)	147
+P02167	MYG_NYCCO	reviewed	Myoglobin	MB	Nycticebus coucang (Slow loris)	154
+Q6PL31	MYG_OCHCU	reviewed	Myoglobin	MB	Ochotona curzoniae (Black-lipped pika)	154
+P04247	MYG_MOUSE	reviewed	Myoglobin	Mb	Mus musculus (Mouse)	154
+P02171	MYG_OCHPR	reviewed	Myoglobin	MB	Ochotona princeps (Southern American pika)	154
+P02173	MYG_ORCOR	reviewed	Myoglobin	MB	Orcinus orca (Killer whale)	154
+P02196	MYG_ORNAN	reviewed	Myoglobin	MB	Ornithorhynchus anatinus (Duckbill platypus)	154
+P32428	MYG_ONDZI	reviewed	Myoglobin	MB	Ondatra zibethicus (Muskrat)	154
+P02168	MYG_OTOCR	reviewed	Myoglobin	MB	Otolemur crassicaudatus (Brown greater galago) (Galago crassicaudatus)	154
+P63114	MYG_OTOME	reviewed	Myoglobin	MB	Otocyon megalotis (Bat-eared fox)	154
+P02164	MYG_ORYAF	reviewed	Myoglobin	MB	Orycteropus afer (Aardvark)	154
+Q0KIY0	MYG_MESST	reviewed	Myoglobin	MB	Mesoplodon stejnegeri (Stejneger's beaked whale)	154
+P14399	MYG_MUSAN	reviewed	Myoglobin	mb	Mustelus antarcticus (Gummy shark)	149
+P02145	MYG_PANTR	reviewed	Myoglobin	MB	Pan troglodytes (Chimpanzee)	154
+Q0KIY3	MYG_PENEL	reviewed	Myoglobin	MB	Peponocephala electra (Melon-headed whale) (Lagenorhynchus electra)	154
+Q7LZM3	MYG_PHAFI	reviewed	Myoglobin	MB	Phalacrocorax filamentosus (Japanese cormorant)	154
+P68084	MYG_PAPAN	reviewed	Myoglobin	MB	Papio anubis (Olive baboon)	154
+P02166	MYG_PERPO	reviewed	Myoglobin	MB	Perodicticus potto edwarsi (Potto)	154
+P68278	MYG_PHOPH	reviewed	Myoglobin	MB	Phocoena phocoena (Harbor porpoise)	154
+P68277	MYG_PHODA	reviewed	Myoglobin	MB	Phocoenoides dalli dalli (Dall's porpoise)	154
+P68080	MYG_PHOVI	reviewed	Myoglobin	MB	Phoca vitulina (Harbor seal)	154
+P02185	MYG_PHYCD	reviewed	Myoglobin	MB	Physeter catodon (Sperm whale) (Physeter macrocephalus)	154
+P02189	MYG_PIG	reviewed	Myoglobin	MB	Sus scrofa (Pig)	154
+P04249	MYG_PROGU	reviewed	Myoglobin	MB	Proechimys guairae (Guaira spiny rat)	154
+Q9DEP1	MYG_PSEGE	reviewed	Myoglobin	mb	Pseudochaenichthys georgianus (South Georgia icefish)	147
+P30562	MYG_PUSSI	reviewed	Myoglobin	MB	Pusa sibirica (Baikal seal) (Phoca sibirica)	154
+Q9QZ76	MYG_RAT	reviewed	Myoglobin	Mb	Rattus norvegicus (Rat)	154
+P02163	MYG_ROUAE	reviewed	Myoglobin	MB	Rousettus aegyptiacus (Egyptian rousette) (Egyptian fruit bat)	154
+P02170	MYG_RABIT	reviewed	Myoglobin	MB	Oryctolagus cuniculus (Rabbit)	154
+P02155	MYG_SAISC	reviewed	Myoglobin	MB	Saimiri sciureus (Common squirrel monkey)	154
+Q9DGI9	MYG_SCOJP	reviewed	Myoglobin	mb	Scomber japonicus (Chub mackerel)	147
+Q9DGJ0	MYG_SARCH	reviewed	Myoglobin	mb	Sarda chiliensis (Pacific bonito) (Pelamys chiliensis)	147
+P02153	MYG_SAPAP	reviewed	Myoglobin	MB	Sapajus apella (Brown-capped capuchin) (Cebus apella)	154
+P02148	MYG_PONPY	reviewed	Myoglobin	MB	Pongo pygmaeus (Bornean orangutan)	154
+P85077	MYG_STRCA	reviewed	Myoglobin	MB	Struthio camelus (Common ostrich)	154
+P62735	MYG_SYMSY	reviewed	Myoglobin	MB	Symphalangus syndactylus (Siamang) (Hylobates syndactylus)	154
+P02205	MYG_THUAL	reviewed	Myoglobin	mb	Thunnus albacares (Yellowfin tuna) (Neothunnus macropterus)	147
+Q76G09	MYG_THUOB	reviewed	Myoglobin	mb	Thunnus obesus (Bigeye tuna)	147
+Q701N9	MYG_TETNG	reviewed	Myoglobin	mb GSTENG00010013001	Tetraodon nigroviridis (Spotted green pufferfish) (Chelonodon nigroviridis)	146
+P68085	MYG_SEMEN	reviewed	Myoglobin	MB	Semnopithecus entellus (Hanuman langur) (Presbytis entellus)	154
+P04248	MYG_SPAEH	reviewed	Myoglobin	MB	Spalax ehrenbergi (Middle East blind mole rat) (Nannospalax ehrenbergi)	154
+P68189	MYG_THUTH	reviewed	Myoglobin	mb	Thunnus thynnus (Atlantic bluefin tuna) (Scomber thynnus)	147
+P68279	MYG_TURTR	reviewed	Myoglobin	MB	Tursiops truncatus (Atlantic bottle-nosed dolphin) (Delphinus truncatus)	154
+P02190	MYG_SHEEP	reviewed	Myoglobin	MB	Ovis aries (Sheep)	154
+P02160	MYG_VULCH	reviewed	Myoglobin	MB	Vulpes chama (Cape fox)	154
+P02195	MYG_TACAC	reviewed	Myoglobin	MB	Tachyglossus aculeatus aculeatus (Australian echidna)	154
+P02182	MYG_ZIPCA	reviewed	Myoglobin	MB	Ziphius cavirostris (Cuvier's beaked whale) (Goose-beaked whale)	154
+P02165	MYG_TUPGL	reviewed	Myoglobin	MB	Tupaia glis (Tree shrew)	154
+Q7LZM1	MYG_URILO	reviewed	Myoglobin	MB	Uria lomvia (Thick-billed murre)	154
+P02203	MYG_VARVA	reviewed	Myoglobin	MB	Varanus varius (Lace monitor)	154
+P68190	MYG_THUOR	reviewed	Myoglobin	mb	Thunnus orientalis (North Pacific bluefin tuna) (Thunnus thynnus orientalis)	147
+P02161	MYG_ZALCA	reviewed	Myoglobin	MB	Zalophus californianus (California sealion)	154
+Q9DGJ2	MYG_THUAA	reviewed	Myoglobin	mb	Thunnus alalunga (Albacore) (Scomber alalunga)	147
+P59742	NGB1_ONCMY	reviewed	Neuroglobin-1	ngb1	Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri)	159
+Q6WZ19	NGB_BOVIN	reviewed	Neuroglobin	NGB	Bos taurus (Bovine)	151
+Q6WZ18	NGB_CANFA	reviewed	Neuroglobin	NGB	Canis familiaris (Dog) (Canis lupus familiaris)	151
+P86881	NGB_DISMA	reviewed	Neuroglobin		Dissostichus mawsoni (Antarctic cod)	159
+P86880	NGB_CHAAC	reviewed	Neuroglobin		Chaenocephalus aceratus (Blackfin icefish) (Chaenichthys aceratus)	159
+Q9ER97	NGB_MOUSE	reviewed	Neuroglobin	Ngb	Mus musculus (Mouse)	151
+Q3KN66	NGB_PANTR	reviewed	Neuroglobin	NGB	Pan troglodytes (Chimpanzee)	151
+Q9NPG2	NGB_HUMAN	reviewed	Neuroglobin	NGB	Homo sapiens (Human)	151
+Q99JA8	NGB_RAT	reviewed	Neuroglobin	Ngb	Rattus norvegicus (Rat)	151
+Q6WZ20	NGB_MACMU	reviewed	Neuroglobin	NGB	Macaca mulatta (Rhesus macaque)	151
+Q90YJ2	NGB_DANRE	reviewed	Neuroglobin	ngb si:ch211-233n24.2	Danio rerio (Zebrafish) (Brachydanio rerio)	159
+Q90W04	NGB_TETNG	reviewed	Neuroglobin	ngb GSTENG00032294001	Tetraodon nigroviridis (Spotted green pufferfish) (Chelonodon nigroviridis)	159
+Q6EV97	NGB_RABIT	reviewed	Neuroglobin	NGB	Oryctolagus cuniculus (Rabbit)	151
+Q6WZ17	NGB_PIG	reviewed	Neuroglobin	NGB	Sus scrofa (Pig)	151
+P59743	NGB2_ONCMY	reviewed	Neuroglobin-2	ngb2	Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri)	159
+O66586	Y211_AQUAE	reviewed	Uncharacterized globin-like protein aq_211	aq_211	Aquifex aeolicus (strain VF5)	139
+P53857	YNX4_YEAST	reviewed	Uncharacterized globin-like protein YNL234W	YNL234W N1142	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	426
