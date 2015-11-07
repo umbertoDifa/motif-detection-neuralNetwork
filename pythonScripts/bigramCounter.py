@@ -97,9 +97,44 @@ shuffledDf = dfPlusClasses.iloc[np.random.permutation(len(dfPlusClasses))]
 #=================slit the shuffled dataframe between trainin data and labels
 shuffledData = shuffledDf.ix[:,0:529]
 shuffledLabels = shuffledDf.ix[:,529:]
+#reset indeces of the dataframes
+shuffledData = shuffledData.reset_index(drop=True)
+shuffledLabels = shuffledLabels.reset_index(drop=True)
+
+#take out the test data
+testData = shuffledData.ix[0:round(0.10 * len(shuffledData)),:]
+testLabels = shuffledLabels.ix[0:round(0.10 * len(shuffledLabels)),:]
+testData.to_csv("testData.csv",header=False, index_label=False,index=False)
+testLabels.to_csv("testLabels.csv",header=False, index_label=False,index=False)
+
+#remove test data from train data
+shuffledData = shuffledData.ix[round(0.10 * len(shuffledData)):,:]
+shuffledLabels = shuffledLabels.ix[round(0.10 * len(shuffledLabels)):,:]
+#reset indeces of the dataframes
+shuffledData = shuffledData.reset_index(drop=True)
+shuffledLabels = shuffledLabels.reset_index(drop=True)
+
+#create all division of dataset in %
+for i in range(1,11):
+    perc  =0.10*i * len(shuffledData)
+    #partition
+    tmpShuffledData = shuffledData.ix[0:round(perc),:]
+    tmpShuffledLabels = shuffledLabels.ix[0:round(perc),:]
+    #save partition
+    fileNameData = 'trainingData%d.csv' % (i*10)
+    fileNameLabels  = 'trainingLabels%d.csv' % (i*10)
+    tmpShuffledData.to_csv(fileNameData,header=False, index_label=False,index=False)
+    tmpShuffledLabels.to_csv(fileNameLabels,header=False, index_label=False,index=False)
+
 #====================save files
 shuffledData.to_csv('trainingData.csv',header=False, index_label=False,index=False)
 shuffledLabels.to_csv('trainingLabels.csv',header=False, index_label=False,index=False)
+
+
+
+
+
+
 
 #======================inutile per ora
 #================================================add target classes to dataframe

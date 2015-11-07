@@ -36,18 +36,21 @@ public class BackPropNN {
     }
 
     public void train(double[][] input, int numberOfDataset,
-                      double[][] datatrue, int numberOfEpochs) {
+                      double[][] datatrue, int numberOfEpochs, boolean silent) {
         double min = 1000000; //min error achieved
         double sumError = 0.0;
+        float success = 0;
 
         for (int epoch = 0; epoch < numberOfEpochs; epoch++) {
             //feedForward phase
             //for each dataset
-            System.out.printf("epoch:%d\n", epoch);
+            if (!silent) {
+                //    System.out.printf("epoch:%d\n", epoch);
+            }
             sumError = 0.0;
-            float success = 0;
+            success = 0;
             for (int i = 0; i < numberOfDataset; i++) {
-              //  System.out.printf("\ninput n: %d\n", i);
+                //System.out.printf("\ninput n: %d\n", i);
                 layerList.get(0).feedForward(extractRow(input, i));
 
                 //error detection
@@ -56,18 +59,18 @@ public class BackPropNN {
 
                 output = layerList.get(layerList.size() - 1).getOutput();
 
-                //System.out.printf("ERROR is: [");
+                // System.out.printf("ERROR is: [");
                 for (int j = 0; j < datatrue[0].length; j++) {
                     error[j] = datatrue[i][j] - output[j];
                     sumError += pow(error[j], 2);
-               //     System.out.printf("(%f)", error[j]);
+                    //    System.out.printf("(%f)", error[j]);
                 }
-               // System.out.print("]");
+                // System.out.print("]");
                 if (abs(error[0]) < 0.1 && abs(error[1]) < 0.1 && abs(error[2]) < 0.1 && abs(error[3]) < 0.1) {
-                  //  System.out.println("--RECOGNIZED--");
+                    //      System.out.println("--RECOGNIZED--");
                     success++;
                 } else {
-                  //  System.out.println("--NOT RECOGNIZED--");
+                    //      System.out.println("--NOT RECOGNIZED--");
                 }
 
                 //backpropagation
@@ -77,26 +80,32 @@ public class BackPropNN {
                 //update weights
                 layerList.get(0).updateWeights(LEARNING_RATE);
             }
-            System.out.printf("Success is:%f\n", success / numberOfDataset);
-            
-            System.out.printf("Average error is:%f\n", sumError / 2);
+
             min = min(sumError / 2, min);
             //updateLearningRate(epoch);
         }
 //        for (int i = 0; i < layerList.size(); i++) {
 //            layerList.get(i).printWeights();
 //        }
-        System.out.printf("min was: %f\n", min);
+        if (!silent) {
+            System.out.printf("Train Success is:%f / %d =  %f\n", success, numberOfDataset, (success / numberOfDataset));
+            // System.out.printf("Average error is:%f\n", sumError / 2);
+        }
+//        if (!silent) {
+//            System.out.printf("min was: %f\n", min);
+//        }
 
     }
 
     public void test(double[][] input, int numberOfTestset, double[][] datatrue) {
-
+        float sum = 0;
         for (int i = 0; i < numberOfTestset; i++) {
-            System.out.printf("\nTest n: %d\n", i);
+            //System.out.printf("\nTest n: %d\n", i);
             double[] row = extractRow(input, i);
-            singleTest(row, i, datatrue);
+            sum += singleTest(row, i, datatrue);
         }
+        System.out.printf("Test Success is:%f / %d =  %f\n", sum, numberOfTestset, (sum / numberOfTestset));
+
     }
 
     private int singleTest(double[] input, int indexOfTestToRun, double[][] datatrue) {
@@ -108,19 +117,21 @@ public class BackPropNN {
 
         output = layerList.get(layerList.size() - 1).getOutput();
 
-        // System.out.printf("ERROR is: [");
+        //   System.out.printf("ERROR is: [");
         for (int j = 0; j < datatrue[0].length; j++) {
             error[j] = datatrue[indexOfTestToRun][j] - output[j];
             // System.out.printf("(%f)", error[j]);
         }
-        //System.out.print("]");
-        if (abs(error[0]) < 0.1 && abs(error[1]) < 0.1) {
-            //System.out.println("--RECOGNIZED--");
+        //  System.out.println("]");
+        if (abs(error[0]) < 0.1 && abs(error[1]) < 0.1 && abs(error[2]) < 0.1 && abs(error[3]) < 0.1) {
+            //      System.out.println("--RECOGNIZED--");
+            //success++;
             return 1;
         } else {
-            //System.out.println("--NOT RECOGNIZED--");
+            //      System.out.println("--NOT RECOGNIZED--");
             return 0;
         }
+
     }
 
     public void robustnessTest(double[][] input, int numberOfDataset, double[][] datatrue) {
