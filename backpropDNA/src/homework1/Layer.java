@@ -1,8 +1,3 @@
- /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package homework1;
 
 import homework1.utility.RandomGenerator;
@@ -47,7 +42,7 @@ public class Layer {
         for (int i = 0; i < numberOfNeurons; i++) {
             z[i] = 0.0;
             y[i] = 0.0;
-            phi[i]=0.0;
+            phi[i] = 0.0;
         }
     }
 
@@ -60,7 +55,7 @@ public class Layer {
         System.arraycopy(input, 0, this.x, 0, input.length);
 
         if (input.length != numberOfInputs) {
-            System.out.printf("Expected input at layer %d were %d received are %d, abort.\n",this.index,numberOfInputs,input.length);
+            System.out.printf("Expected input at layer %d were %d received are %d, abort.\n", this.index, numberOfInputs, input.length);
             return;
         }
         this.reset();
@@ -73,8 +68,6 @@ public class Layer {
             y[i] = sigmoidActivation(z[i]);
         }
 
-        //System.out.printf("Layer %d done\n", this.index);
-        //printNeurons();
         //now if the layer is the last the function ends otherwise
         //the output of this layer is forwarded into the next one
         if (this.nextLayer == null) {
@@ -100,7 +93,7 @@ public class Layer {
             for (int i = 0; i < numberOfNeurons; i++) {
                 double sumPhi;
                 sumPhi = 0.0;
-                for (int j = 0; j < targetOrPhi.length; j++) {                    
+                for (int j = 0; j < targetOrPhi.length; j++) {
                     //System.out.printf("1-Calculating %f * %f\n", targetOrPhi[j], this.nextLayer.weight[j][i]);
                     sumPhi += targetOrPhi[j] * this.nextLayer.weight[j][i];
                 }
@@ -108,8 +101,6 @@ public class Layer {
                 phi[i] = sumPhi * sigmoideDerivative(z[i]);
             }
         }
-
-        //this.printPhi();
 
         if (this.previousLayer == null) {
             //this was the first layer of the nework
@@ -127,7 +118,6 @@ public class Layer {
                 weight[i][j] += learningRate * phi[i] * x[j];
             }
         }
-        //this.printWeights();
 
         if (this.nextLayer == null) {
             //if last layer
@@ -138,25 +128,12 @@ public class Layer {
         }
     }
 
-    private void printPhi() {
-        for (int i = 0; i < numberOfNeurons; i++) {
-            System.out.printf("phi[%d] = %f |", i, phi[i]);
-        }
-        System.out.println();
-    }
-
     private double sigmoidActivation(double val) {
         return 1 / (1 + Math.exp(-val));
     }
 
     private double sigmoideDerivative(double val) {
         return sigmoidActivation(val) * (1 - sigmoidActivation(val));
-    }
-
-    private void printNeurons() {
-        for (int i = 0; i < numberOfNeurons; i++) {
-            System.out.printf("Neuron %d, z= %f, y=%f\n", i, z[i], y[i]);
-        }
     }
 
     //give a random value between -0.5 and 0.5
@@ -192,15 +169,4 @@ public class Layer {
         this.index = index;
     }
 
-    public void printWeights() {
-        System.out.printf("There are %d weights: ", numberOfInputs * numberOfNeurons);
-        for (int i = 0; i < numberOfNeurons; i++) {
-            for (int j = 0; j < numberOfInputs; j++) {
-                System.out.printf("[%d][%d]%f | ", i, j, weight[i][j]);
-            }
-        }
-
-        System.out.println();
-
-    }
 }
