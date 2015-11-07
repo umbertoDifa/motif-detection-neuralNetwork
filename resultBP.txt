@@ -1,0 +1,225 @@
+====================Percentage of training 60
+====Epochs: 0
+Train Success is:0,000000 / 1297 =  0,000000
+Test Success is:0,000000 / 241 =  0,000000
+Execution time for 0 epoch averaged on 30 runs is: 0 milliseconds
+====Epochs: 5
+Train Success is:0,000000 / 1297 =  0,000000
+Test Success is:0,000000 / 241 =  0,000000
+Execution time for 5 epoch averaged on 30 runs is: 72 milliseconds
+====Epochs: 10
+Train Success is:221,000000 / 1297 =  0,170393
+Test Success is:56,000000 / 241 =  0,232365
+Execution time for 10 epoch averaged on 30 runs is: 132 milliseconds
+====Epochs: 15
+Train Success is:1133,000000 / 1297 =  0,873554
+Test Success is:196,000000 / 241 =  0,813278
+Execution time for 15 epoch averaged on 30 runs is: 200 milliseconds
+====Epochs: 20
+Train Success is:1159,000000 / 1297 =  0,893601
+Test Success is:205,000000 / 241 =  0,850622
+Execution time for 20 epoch averaged on 30 runs is: 270 milliseconds
+====Epochs: 25
+Train Success is:1263,000000 / 1297 =  0,973786
+Test Success is:212,000000 / 241 =  0,879668
+Execution time for 25 epoch averaged on 30 runs is: 340 milliseconds
+====Epochs: 30
+Train Success is:1278,000000 / 1297 =  0,985351
+Test Success is:221,000000 / 241 =  0,917012
+Execution time for 30 epoch averaged on 30 runs is: 417 milliseconds
+====Epochs: 35
+Train Success is:1278,000000 / 1297 =  0,985351
+Test Success is:222,000000 / 241 =  0,921162
+Execution time for 35 epoch averaged on 30 runs is: 492 milliseconds
+====Epochs: 40
+Train Success is:1291,000000 / 1297 =  0,995374
+Test Success is:228,000000 / 241 =  0,946058
+Execution time for 40 epoch averaged on 30 runs is: 551 milliseconds
+====Epochs: 45
+Train Success is:1294,000000 / 1297 =  0,997687
+Test Success is:226,000000 / 241 =  0,937759
+Execution time for 45 epoch averaged on 30 runs is: 595 milliseconds
+====Epochs: 50
+Train Success is:1286,000000 / 1297 =  0,991519
+Test Success is:228,000000 / 241 =  0,946058
+Execution time for 50 epoch averaged on 30 runs is: 672 milliseconds
+====================Percentage of training 70
+====Epochs: 0
+Train Success is:0,000000 / 1513 =  0,000000
+Test Success is:0,000000 / 241 =  0,000000
+Execution time for 0 epoch averaged on 30 runs is: 0 milliseconds
+====Epochs: 5
+Train Success is:99,000000 / 1513 =  0,065433
+Test Success is:23,000000 / 241 =  0,095436
+Execution time for 5 epoch averaged on 30 runs is: 79 milliseconds
+====Epochs: 10
+Train Success is:680,000000 / 1513 =  0,449438
+Test Success is:111,000000 / 241 =  0,460581
+Execution time for 10 epoch averaged on 30 runs is: 157 milliseconds
+====Epochs: 15
+Train Success is:1383,000000 / 1513 =  0,914078
+Test Success is:213,000000 / 241 =  0,883817
+Execution time for 15 epoch averaged on 30 runs is: 259 milliseconds
+====Epochs: 20
+Train Success is:1469,000000 / 1513 =  0,970919
+Test Success is:228,000000 / 241 =  0,946058
+Execution time for 20 epoch averaged on 30 runs is: 332 milliseconds
+====Epochs: 25
+Train Success is:1442,000000 / 1513 =  0,953073
+Test Success is:220,000000 / 241 =  0,912863
+Execution time for 25 epoch averaged on 30 runs is: 406 milliseconds
+====Epochs: 30
+Train Success is:1499,000000 / 1513 =  0,990747
+Test Success is:224,000000 / 241 =  0,929461
+Execution time for 30 epoch averaged on 30 runs is: 493 milliseconds
+====Epochs: 35
+Train Success is:1498,000000 / 1513 =  0,990086
+Test Success is:229,000000 / 241 =  0,950207
+Execution time for 35 epoch averaged on 30 runs is: 577 milliseconds
+====Epochs: 40
+Train Success is:1504,000000 / 1513 =  0,994052
+Test Success is:230,000000 / 241 =  0,954357
+Execution time for 40 epoch averaged on 30 runs is: 670 milliseconds
+====Epochs: 45
+Train Success is:1508,000000 / 1513 =  0,996695
+Test Success is:230,000000 / 241 =  0,954357
+Execution time for 45 epoch averaged on 30 runs is: 736 milliseconds
+====Epochs: 50
+Train Success is:1511,000000 / 1513 =  0,998678
+Test Success is:230,000000 / 241 =  0,954357
+Execution time for 50 epoch averaged on 30 runs is: 836 milliseconds
+====================Percentage of training 80
+====Epochs: 0
+Train Success is:0,000000 / 1729 =  0,000000
+Test Success is:0,000000 / 241 =  0,000000
+Execution time for 0 epoch averaged on 30 runs is: 0 milliseconds
+====Epochs: 5
+Train Success is:244,000000 / 1729 =  0,141122
+Test Success is:77,000000 / 241 =  0,319502
+Execution time for 5 epoch averaged on 30 runs is: 91 milliseconds
+====Epochs: 10
+Train Success is:1397,000000 / 1729 =  0,807981
+Test Success is:196,000000 / 241 =  0,813278
+Execution time for 10 epoch averaged on 30 runs is: 204 milliseconds
+====Epochs: 15
+Train Success is:1656,000000 / 1729 =  0,957779
+Test Success is:222,000000 / 241 =  0,921162
+Execution time for 15 epoch averaged on 30 runs is: 305 milliseconds
+====Epochs: 20
+Train Success is:1684,000000 / 1729 =  0,973973
+Test Success is:221,000000 / 241 =  0,917012
+Execution time for 20 epoch averaged on 30 runs is: 392 milliseconds
+====Epochs: 25
+Train Success is:1680,000000 / 1729 =  0,971660
+Test Success is:221,000000 / 241 =  0,917012
+Execution time for 25 epoch averaged on 30 runs is: 481 milliseconds
+====Epochs: 30
+Train Success is:1714,000000 / 1729 =  0,991324
+Test Success is:226,000000 / 241 =  0,937759
+Execution time for 30 epoch averaged on 30 runs is: 565 milliseconds
+====Epochs: 35
+Train Success is:1720,000000 / 1729 =  0,994795
+Test Success is:231,000000 / 241 =  0,958506
+Execution time for 35 epoch averaged on 30 runs is: 653 milliseconds
+====Epochs: 40
+Train Success is:1721,000000 / 1729 =  0,995373
+Test Success is:226,000000 / 241 =  0,937759
+Execution time for 40 epoch averaged on 30 runs is: 755 milliseconds
+====Epochs: 45
+Train Success is:1727,000000 / 1729 =  0,998843
+Test Success is:230,000000 / 241 =  0,954357
+Execution time for 45 epoch averaged on 30 runs is: 850 milliseconds
+====Epochs: 50
+Train Success is:1725,000000 / 1729 =  0,997687
+Test Success is:225,000000 / 241 =  0,933610
+Execution time for 50 epoch averaged on 30 runs is: 969 milliseconds
+====================Percentage of training 90
+====Epochs: 0
+Train Success is:0,000000 / 1945 =  0,000000
+Test Success is:0,000000 / 241 =  0,000000
+Execution time for 0 epoch averaged on 30 runs is: 0 milliseconds
+====Epochs: 5
+Train Success is:14,000000 / 1945 =  0,007198
+Test Success is:7,000000 / 241 =  0,029046
+Execution time for 5 epoch averaged on 30 runs is: 111 milliseconds
+====Epochs: 10
+Train Success is:1375,000000 / 1945 =  0,706941
+Test Success is:197,000000 / 241 =  0,817427
+Execution time for 10 epoch averaged on 30 runs is: 216 milliseconds
+====Epochs: 15
+Train Success is:1896,000000 / 1945 =  0,974807
+Test Success is:225,000000 / 241 =  0,933610
+Execution time for 15 epoch averaged on 30 runs is: 333 milliseconds
+====Epochs: 20
+Train Success is:1906,000000 / 1945 =  0,979949
+Test Success is:233,000000 / 241 =  0,966805
+Execution time for 20 epoch averaged on 30 runs is: 442 milliseconds
+====Epochs: 25
+Train Success is:1919,000000 / 1945 =  0,986632
+Test Success is:228,000000 / 241 =  0,946058
+Execution time for 25 epoch averaged on 30 runs is: 541 milliseconds
+====Epochs: 30
+Train Success is:1929,000000 / 1945 =  0,991774
+Test Success is:225,000000 / 241 =  0,933610
+Execution time for 30 epoch averaged on 30 runs is: 673 milliseconds
+====Epochs: 35
+Train Success is:1939,000000 / 1945 =  0,996915
+Test Success is:232,000000 / 241 =  0,962656
+Execution time for 35 epoch averaged on 30 runs is: 781 milliseconds
+====Epochs: 40
+Train Success is:1937,000000 / 1945 =  0,995887
+Test Success is:228,000000 / 241 =  0,946058
+Execution time for 40 epoch averaged on 30 runs is: 879 milliseconds
+====Epochs: 45
+Train Success is:1938,000000 / 1945 =  0,996401
+Test Success is:230,000000 / 241 =  0,954357
+Execution time for 45 epoch averaged on 30 runs is: 990 milliseconds
+====Epochs: 50
+Train Success is:1939,000000 / 1945 =  0,996915
+Test Success is:231,000000 / 241 =  0,958506
+Execution time for 50 epoch averaged on 30 runs is: 1089 milliseconds
+====================Percentage of training 100
+====Epochs: 0
+Train Success is:0,000000 / 2160 =  0,000000
+Test Success is:0,000000 / 241 =  0,000000
+Execution time for 0 epoch averaged on 30 runs is: 0 milliseconds
+====Epochs: 5
+Train Success is:240,000000 / 2160 =  0,111111
+Test Success is:44,000000 / 241 =  0,182573
+Execution time for 5 epoch averaged on 30 runs is: 127 milliseconds
+====Epochs: 10
+Train Success is:1627,000000 / 2160 =  0,753241
+Test Success is:196,000000 / 241 =  0,813278
+Execution time for 10 epoch averaged on 30 runs is: 239 milliseconds
+====Epochs: 15
+Train Success is:2018,000000 / 2160 =  0,934259
+Test Success is:216,000000 / 241 =  0,896266
+Execution time for 15 epoch averaged on 30 runs is: 351 milliseconds
+====Epochs: 20
+Train Success is:2126,000000 / 2160 =  0,984259
+Test Success is:227,000000 / 241 =  0,941909
+Execution time for 20 epoch averaged on 30 runs is: 466 milliseconds
+====Epochs: 25
+Train Success is:2131,000000 / 2160 =  0,986574
+Test Success is:226,000000 / 241 =  0,937759
+Execution time for 25 epoch averaged on 30 runs is: 584 milliseconds
+====Epochs: 30
+Train Success is:2147,000000 / 2160 =  0,993981
+Test Success is:228,000000 / 241 =  0,946058
+Execution time for 30 epoch averaged on 30 runs is: 718 milliseconds
+====Epochs: 35
+Train Success is:2150,000000 / 2160 =  0,995370
+Test Success is:227,000000 / 241 =  0,941909
+Execution time for 35 epoch averaged on 30 runs is: 850 milliseconds
+====Epochs: 40
+Train Success is:2151,000000 / 2160 =  0,995833
+Test Success is:232,000000 / 241 =  0,962656
+Execution time for 40 epoch averaged on 30 runs is: 976 milliseconds
+====Epochs: 45
+Train Success is:2152,000000 / 2160 =  0,996296
+Test Success is:229,000000 / 241 =  0,950207
+Execution time for 45 epoch averaged on 30 runs is: 1084 milliseconds
+====Epochs: 50
+Train Success is:2147,000000 / 2160 =  0,993981
+Test Success is:224,000000 / 241 =  0,929461
+Execution time for 50 epoch averaged on 30 runs is: 1179 milliseconds
