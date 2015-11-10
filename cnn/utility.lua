@@ -1,4 +1,4 @@
---from http://nocurve.com/simple-csv-read-and-write-using-lua/
+--adapted from http://nocurve.com/simple-csv-read-and-write-using-lua/
 
 ---------------------------------------------------------------------
 local function split(str, sep)
@@ -46,23 +46,26 @@ function write(path, data, sep)
 end
 
 ---------------------------------------------------------------------
-local classes = {1,2,3,4} -- indices in torch/lua start at 1, not at zero
+function loadData(path)
 
---read labels
-trainingLabelsTable=read('./../pythonScripts/trainingLabels.csv')
---transform to tensor
-trainingLabels= torch.Tensor(trainingLabelsTable)
+   trainingDataTable=read(path)
+   trainingData= torch.Tensor(trainingDataTable)
+   
+   --reshape training data into a list of 3D tensors
+   trainingList={}
+   for i=1,trainingData:size(1) do
+      table.insert(trainingList,torch.reshape(trainingData[i],1,23,23))
+   end
+   
+   return trainingList
+end
+function loadLabels(path)
+   --read labels
+   trainingLabelsTable=read(path)
+   --transform to tensor
+   trainingLabels= torch.Tensor(trainingLabelsTable)
 
-
-trainingDataTable=read('./../pythonScripts/trainingData.csv')
-trainingData= torch.Tensor(trainingDataTable)
-
---reshape training data into a list of 3D tensors
-trainingList={}
-for i=1,trainingData:size(1) do
-   table.insert(trainingList,torch.reshape(trainingData[i],1,23,23))
+   return trainingLabels
 end
 
-return trainingList,
-      trainingLabels,
-      classes
+
