@@ -1,22 +1,20 @@
 comp <- read.csv("C:/Users/Umberto/Desktop/projectNN/comp.csv")
 d=comp
+#trim unkown values
 d= d[d$EXE.TIME.ms.!='-',]
-sort(as.numeric(d$EXE.TIME.ms.))
-as.numeric(d$EXE.TIME.ms.)
+
+#convert exe time as numeric
+d$EXE.TIME.ms.<-as.numeric(levels(d$EXE.TIME.ms.))[d$EXE.TIME.ms.]
+
+#trim values > 1000ms
+d= d[d$EXE.TIME.ms.<=1000,]
+
+#sort(d$EXE.TIME.ms.)
+d <- d[order(d$EXE.TIME.ms.),] 
 
 library('ggplot2')
-ggplot(data=d, aes(x= d$X.TRAINING , y=d$EXE.TIME.ms., group = d$LEARNING.RATE, colour =  d$LEARNING.RATE)) +
+ggplot(data=d, aes(x= d$X.TRAINING , y=d$EXE.TIME.ms., group = d$LEARNING.RATE, colour =  LEARNING.RATE)) +
   geom_line() +
-  geom_point( size=4, shape=21, fill="white")
-
-rain<-read.csv("cityrain.csv")
-plot(d$EXE.TIME.ms.,type="b",lwd=2,
-       xaxt="n",ylim=c(0,1),col="black",
-     xlab="Training set %",ylab="Exe time (ms)",
-     main="Execution time")
-
-axis(1,at=1:length(d$X.TRAINING),labels=d$X.TRAINING)
-lines(d$EXE.TIME.ms.,col="red",type="b",lwd=2)
-#lines(rain$NewYork,col="orange",type="b",lwd=2)
-#lines(rain$London,col="purple",type="b",lwd=2)
-
+  geom_point( size=4, shape=21, fill="white")+
+  xlab("Training %")+
+  ylab("Execution time(ms)")
