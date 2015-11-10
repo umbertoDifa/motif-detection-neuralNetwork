@@ -3,8 +3,8 @@ require "nn"
 require "math"
 
 -- global variables
-learningRate = 0.05
-EPOCHS = 1
+learningRate = 0.01
+EPOCHS = 5
 
 
 -- here we set up the architecture of the neural network
@@ -47,6 +47,12 @@ function train_network( network, dataset,datasetClasses)
          --print(input)
          --print(output)
        	criterion:forward(network:forward(input), output)
+--         print(network.output)
+         if(math.abs(output[1]-network.output[1]) < 0.1 and math.abs(output[2]-network.output[2] )< 0.1 and
+         math.abs(output[3]-network.output[3]) < 0.1 and math.abs(output[4]-network.output[4]) < 0.1) then
+        --print('--success!--')else
+        --print('---NOT success--')
+         end
          
        	network:zeroGradParameters() --reset parameters before backward call
         	network:backward(input, criterion:backward(network.output, output))
@@ -71,7 +77,7 @@ function test_predictor(predictor, test_dataset,testing_target_classes, classes)
       local probabilites_per_class = torch.exp(responses_per_class)
       local probability, prediction = torch.max(probabilites_per_class, 1) 
       
-             
+      --print(responses_per_class)
       if class_id[prediction[1]] ~= 1 then
           mistakes= mistakes + 1
           local label = class_id[prediction]
@@ -93,14 +99,6 @@ function test_predictor(predictor, test_dataset,testing_target_classes, classes)
 end
 
 
-
-
-function getStats(network, training_dataset, training_target_classes)
-	for i=1,10 do
-	 train_network(network, training_dataset, training_target_classes)
-	end
-end
-
 -- main routine
 function main()
    local classes={1,2,3,4} 
@@ -118,12 +116,13 @@ function main()
       local network = create_network(#classes) --#classes is the number of classes
 
       --train
+      local nClock = os.clock()
       train_network(network, training_dataset, training_target_classes)
-
+      print('Elapsed time is '.. os.clock()-nClock)
       --test
       test_predictor(network, test_dataset, test_target_classed,classes)
    end
---getStats(network, training_dataset,training_target_classes)
+
 
 end
 
