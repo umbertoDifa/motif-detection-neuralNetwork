@@ -79,7 +79,7 @@
 	colorlinks=false,
 	urlbordercolor=white,
 	citebordercolor=black,
-	linkbordercolor = white
+	linkbordercolor = purple
 }
 \title{
 		%\vspace{-1in} 	
@@ -201,20 +201,99 @@ Sections  ~\nameref{sec:bp} ~\nameref{sec:cnn}, ~\nameref{sec:lamstar} discuss t
 	The input of the neural network is the encoded protein sequence, the output is the family of the protein.\\
 	The network structure is shown in ~\ref{bp}: it is composed by an input layer of 6 neurons, an hidden layer of 5 neurons and an output layer of 4 neurons. The layer are fully connected so the total amount of weights to train are $529*6 + 6*5 + 5*4=3224$. This particular configuration has been chosen for its simplicity, the network infact has been reduced to the minimum number of neurons required to have an high accuracy so that the execution time is minimized. In all the implementation that are presented (Backprop,CNN,LAMSTAR) the objective is to have an accuracy higher than 95\% minimizing the execution time that is notoriously the bottle neck of most ANN applications.\\
 	The 4 output neurons represent the 4 chosen families using the one-hot encoding, and a result is considered correct only is each neuron has an absolute error less than 0.1.\\
+	The network is initialized with random weights
+	between -0.5 and 0.5 and the learning rate set at 1, this decision is the consequence of the tests presented in the RESULTS section. The backpropagation algorithm runs
+	on its stochastic (or on-line) version of the gradient descendent algorithm which means
+	that weights are updated at each iteration, this
+	solution has been used instead of batch or minibatch
+	learning because it is well suited for the
+	problem domain and leads to a faster convergence.
 	\begin{figure}[thpb]
 		\centering
-		\includegraphics[scale=0.6]{bp.png}
+		\includegraphics[scale=0.5]{bp.png}
 		\caption{BackPropagation network structure.}
 		\label{bp}
 	\end{figure}
 
 \section{CONVOLUTIONAL NEURAL NETWORK}\label{sec:cnn}
+The convolutional neural network has the same output of the backprop and the same input, although the input has been reshaped to assume the matrix form needed by the CNN.\\
+ The network structure is shown in  ~\ref{cnn}: the input is a 23x23 matrix of bigram frequencies, then the convolutional layer produces 2 feature maps by convolving the input with 2 kernels (filters) of 7x7 weights, this leads to 2 maps of 17x17 neurons. The convolution is implemented with the formula:
+ \[ (f*g)[n]=1\sum_{m=-M}^{M}f[n-m]g[m] \]
+% \[ output[i][j][k] =
+%bias[k]\]\[
+% + \sum_{l} \sum_{s=1}^{kW} \sum_{t=1}^{kH} (weight[s][t][l][k]
+%  * input[dW*(i-1)+s)]\]\[[dH*(j-1)+t][l]) \]
+%  where \textit{i,j,k} identify a neuron in a three dimensional tensor (in our case i=1 because the input is 2D),\\
+%  \textit{ bias} is the bias,\\
+%\textit{  l} is the number of rows(=cols) of the input matrix\\
+%   \textit{kW} is the kernel width of the convolution\\
+%  \textit{  kH} is the kernel height of the convolution\\
+%  \textit{ dW} is the step of the convolution in the width dimension\\
+%   \textit{dH} is the step of the convolution in the height dimension.
+ The result of the convolution is used as input for the pooling layer which is implemented as a SpatialMaxPooling accordingly to the torch documentation\cite{subsampling}, this produces two matrix of 8x8 neurons, then the 2x8x8=128 neurons are reshaped to a vector form and fully connected to the output layer which is composed by 4 neurons.\\
+ \textbf{Convolution operation:}
+ The neurons of a convolutional layer are linked
+ to the previous ones through an operation of
+ convolution. In contrast with the neurons of a fully
+ connected layers, that can be disposed in vectors,
+ neurons of convolutional layers are disposed in
+ matrices. In order to compute the convolution,
+ a matrix kernel (the weights of the convolution)
+ is put over an area of neurons of the previous
+ layer and each input is multiplied with the corresponding
+ kernel weight (the filter) to generate the
+ output, this operations is shown in figure ~\ref{conv}.\\
+ \textbf{Pooling operation:} The pooling used is the
+ max-pooling which means that for each submatrix
+ (2x2) of the input layer the pooling layer extracts
+ only one value that is the maximum of the 4, in
+ this way the matrix dimension is reduced.\\
+ The network has been trained with a learning
+ rate = 0.01 during 1 epoch those values have been selected
+ after computing the performances for the learning rate in the range [0.01,0.05] and epochs between [1,5]. The number of filters (convolution kernels) has been set to 2 because it was the minimum number that led to high accuracy.\\
+ The weights and bias of the
+ network are initialized ramdomly by the framework
+ used : Torch[5]. The weights and biases are
+ then trained using the backpropagation algorithm
+ (extended for convolutoinal and subsampling layers)
+ and accordingly to the Minimum Squared
+ Error (MSE) error function.
+ Given the layer described in the previous section
+ we can count the total number of weights and
+ biases, we will se how the fact that the convolution
+ shares weights will lead to a small number of
+ weights to be trained:
+ $2*7*7+2*8*8=226$ which is much less than the 3224 needed for backpropagation.
+	\begin{figure}[thpb]
+		\centering
+		\includegraphics[scale=0.4]{cnn.png}
+		\caption{CNN network structure.}
+		\label{cnn}
+	\end{figure}
+		\begin{figure}[thpb]
+			\centering
+			\includegraphics[scale=0.5]{convolution.jpg}
+			\caption{Convolution operation example.}
+			\label{conv}
+		\end{figure}
 \section{LAMSTAR}\label{sec:lamstar}
+The LAMSTAR\cite{graupe} network is actually an ensemble of networks that exploit the WTA principle combining several Kohonen Layers.\\
+The 23x23 input matrix is split by rows and columns so the total number of inputs for the network are 23 subwords representing the rows and 23 subwords representing the cols, for a total of 46 layers.\\
+The number of neurons implemented in each
+SOM module is dynamic, according to the typical
+LAMSTAR design. A neuron is added to each
+SOM module only if it necessary to recognize a
+new pattern (error > 0.05), as we will see by varying this error threshold the performance of the network are going to change (tests in the RESULTS section).\\
+No links between SOM module has been implemented because not necessary in this case. Also the forgetting feature of LAMSTAR
+has been avoided, since was not relevant to the kind the problem addressed. The output as always is composed by 4 neurons each one representing a family class.\\
+
 \section{RESULTS}\label{sec:results}
+
 \section{CONCLUSION}\label{sec:conclusion}
+
 \section{CODE}
 The code: R scripts and python scripts for the data collection and preprocessing, and Java for the ANN coding is available at 
-
+\href{https://github.com/umbertoDifa/protein-family-classification-ann}{https://github.com/umbertoDifa/protein-family-classification-ann}
 
 \clearpage
 \newpage
@@ -234,6 +313,8 @@ The code: R scripts and python scripts for the data collection and preprocessing
 
 \bibitem{bookWu}Neural Networks and Genome Informatics
 \bibitem{kimono}\href{https://www.kimonolabs.com/}{https://www.kimonolabs.com/}
+\bibitem{subsampling} \href{https://github.com/torch/nn/blob/master/doc/convolution.md#nn.SpatialMaxPooling}{https://github.com/torch/nn/blob/master/doc/convolution.md\#nn.SpatialMaxPooling}
+\bibitem{graupe}Large memory storage and retrieval (LAMSTAR) network, D.Graupe,1999
 \end{thebibliography}
 
 \end{document}
