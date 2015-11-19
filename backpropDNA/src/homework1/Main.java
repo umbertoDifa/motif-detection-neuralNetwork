@@ -56,7 +56,6 @@ public class Main {
                 testLabels[i][j] = Float.parseFloat(testLabelsArr[i][j]);
             }
         }
-  
 
         for (int k = 1; k <= 10; k++) {
             loadTrainingData(k);
@@ -68,15 +67,19 @@ public class Main {
             nn.addLayer(N_NEURONS_SECOND, N_NEURONS_FIRST);
             //third layer
             nn.addLayer(N_NEURONS_OUTPUT, N_NEURONS_SECOND);
-           // gatherStats(nn);
+            // gatherStats(nn);
             float res = 0;
             //stop only if max limit of iteration or enough success
             for (int e = 5; res < 0.95 && e <= 200; e += 5) {
                 NUMBER_OF_EPOCHS = 5;
                 System.out.printf("====Epochs: %d\n", e);
+                long startTime = System.currentTimeMillis();
 
                 //each time train 5 more epochs
                 nn.train(trainingData, N_TRAINSET, trainingLabels, NUMBER_OF_EPOCHS, false);
+                long endTime = System.currentTimeMillis();
+                long totalTime = endTime - startTime;
+                System.out.printf("time %d\n", totalTime);
                 res = nn.test(testData, N_TESTSET, testLabels);
 
             }
