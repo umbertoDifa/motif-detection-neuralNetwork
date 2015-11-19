@@ -67,6 +67,7 @@
 	basicstyle=\ttfamily
 }
 
+\usepackage{wrapfig}
 
 \usepackage{multicol}
 \usepackage[hyperfootnotes=false]{hyperref}
@@ -166,23 +167,54 @@ In section ~\nameref{sec:collection} it is explained where the data was collecte
 Sections  ~\nameref{sec:bp} ~\nameref{sec:cnn}, ~\nameref{sec:lamstar} discuss the design and structure of the ANNs employed to solve the problem, together with the choices that were made to optimize the execution time and the accuracy of the nets. Finally section ~\nameref{sec:results} presents the results and in ~\nameref{sec:conclusion} the contribution of the work are summarized and compared to the state of the art techniques.
 \section{DATA COLLECTION}\label{sec:collection}
 
-	The objective is to obtain for each superfamily or family the list of all the proteins that belong to that family and their complete protein sequence.\\
-	This step is particularly tricky because there is not a database of protein sequences and families, or better there are several but they all have to be queried manually through a web interface. For this reason the data is scraped from the web sites (\href{http://prosite.expasy.org/}{http://prosite.expasy.org/}, \href{http://www.uniprot.org/uniprot/}{http://www.uniprot.org/uniprot/}) with the use of the Kimono platform\cite{kimono} and Rscripts. Automatizing is particularly useful in case any new superfamily data has to be collected.\\
+	The objective is to obtain for each superfamily or family the list of all the proteins that belong to that family and their complete protein sequence, an example of data is shown in table ~\ref{family}.\\
+	This step is particularly tricky because there is not a database of protein sequences and families, or better there are several but they all have to be queried manually through a web interface. For this reason the data is scraped from the web sites (\href{http://prosite.expasy.org/}{http://prosite.expasy.org/}, \href{http://www.uniprot.org/uniprot/}{http://www.uniprot.org/uniprot/}) with the use of the Kimono platform\cite{kimono} and Rscripts. Automatizing this step is particularly useful in case any new superfamily data has to be collected.\\
 	With this process 4 families have been chosen: \textit{ADH\_SHORT},\textit{ ABC\_TRANSPORTER\_2}, \textit{G\_TR\_2}, \textit{globin}, and for each of them 600 protein sequences have been collected. The overall dataset is thus made by 2400 protein sequences and it is divided between training(90\%) and testing(10\%).
-\section{DATA ENCODING}\label{sec:encoding}
-	During this phase the sequences of proteines will be analyzed and encoded through the indirect method. Different solution will be explored as regard the n-gram value (2,3) and the possibility to include any other valuable information. The objective is to extract as many information as possible from the protein without creating too many inputs for the neural network.
-\section{Design of the NN}
-	The input of the neural network will be the encoded protein sequence (the estimated size will be around 500 inputs), the output is the superfamily of the protein or 'Other' if the protein does not belong to any of the available families (possibly 3 or 4).
-	The neural network two design are still uncertain, the basic approach will be to first create a backpropagation network in order to have a classifier to use as baseline and to test the underlining assumptions and the encoding method.\\
-	Then a Convolutional Neural Network will be designed, during the step the input format will be re-formatted from the vector form to the matrix form that CNN handles and the choice of the convolution filters and pooling method will be made by comparing different solution.\\
-	At this point, if I will still have time the LAMSTAR will be designed and used although given the amount of time available this step may be omitted.
+	
 
+\begin{table*}[t]
+	\centering
+	\caption{Example of protein sequences and their family}
+	\label{family}
+	\begin{tabular}{|c|c|}
+		\hline
+		\rowcolor[HTML]{FFFFFF} 
+		Family                                      & Sequence                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        \\ \hline
+		\cellcolor[HTML]{FFFFFF}ABC\_TRANSPORTER\_2 & \begin{tabular}[c]{@{}c@{}}MAEAPAKKLTVSATEVAVEIVNMNKWYGDFHVLRDINLKVMRGERIVIAGPSGSGKSTMI\\ RCINRLEEHQKGKIVVDGTELTNDLKKIDEVRREVGMVFQHFNLFPHLTILENCTLAPIW\\ VRKMPKKQAEEVAMHFLKRVKIPEQANKYPGQLSGGQQQRVAIARSLCMNPKIMLFDEPT\\ SALDPEMIKEVLDTMVGLAEEGMTMLCVTHEMGFARQVANRVIFMDQGQIVEQNEPAAFF\\ DNPQHERTKLFLSQILH\end{tabular}                                                                                                                                                                                                                                                                                                                                                           \\ \hline
+		\cellcolor[HTML]{FFFFFF}ABC\_TRANSPORTER\_2 & \begin{tabular}[c]{@{}c@{}}MDKTRQTELVRWLKQHSTSAKRWLRISMLLGVVSGLLIIAQAWFLAVILQALIMEHTPRE\\ QLLTPFILLLAVFVLRALLTVIRERVGFRCGQVVRQEVRNMVLNKLQALGPVWVKGKPAG\\ SWATIVLEQIEDMQEYYSRYLPQMYLAGIIPIMILIAIFPFNWAAALILFATAPLIPIFM\\ ALVGLGAADANRRNFVALGRLSGSFLDRLRGLDTLRLFFREKAEVQQIRESTEDFRSRTM\\ EVLRMAFLSSGVLEFFASISIAIVAVYFGFSYLGELNFGSYGLPVTMFAGFLALILSPEF\\ FQPLRDLGTYYHAKAQAVGAAESLVTLLESDGEQKTETGDKTPQDKPIQIEANKLEIYSH\\ DGQRLVGPLDFTIEPQQRIAVFGQSGAGKSSLLNLLLGFLPYKGSIKINGDELKELCPDK\\ WRALIGWVGQNPHLPEQTLIENICLGKPTASEAEIQQAIDDAYVSEFLPMLPDGLNTRLG\\ DYAARLSVGQAQRVAVARTLLKPSRILLLDEPAASLDAHSEKRVMHTLNQLAQQQTTIMV\\ THLLEETVNYDQIWVMANGQIIQRGHYAQLSQSEGPFARLLAHRSEEL\end{tabular} \\ \hline
+		ADH\_SHORT                                  & \begin{tabular}[c]{@{}c@{}}MMDWNNKNVVYVGGFSGFGYQVCQMMMKKPMKHLIVCSRMENVEMLKKLQAINTSVKVMF\\ VQMNIADYASIVKGVKQVIGHVGHVDVLINGVGGLADKDVETTVAVNLTGLINTTLMFMP\\ YMDKTQSGHGGMVVSISSVYGLEPGPAFSVYSAAKHGGIGFTRSMADEHLYHKTGVAFMC\\ ICPAMTSTELMMNKRDMNWMKWVPHSEEMWKMVMDAKMQTPEECAVNMMTAMEQAKNGAI\\ YICSTSGMKEITPTVYMH\end{tabular}                                                                                                                                                                                                                                                                                                                                                          \\ \hline
+		ADH\_SHORT                                  & \begin{tabular}[c]{@{}c@{}}MTNRLQGKVALVTGGASGVGLEVVKLLLGEGAKVAFSDINEAAGQQLAAELGERSMFVRH\\ DVSSEADWTLVMAAVQRRLGTLNVLVNNAGILLPGDMETGRLEDFSRLLKINTESVFIGC\\ QQGIAAMKETGGSIINMASVSSWLPIEQYAGYSASKAAVSALTRAAALSCRKQGYAIRVN\\ SIHPDGIYTPMMQASLPKGVSKEMVLHDPKLNRAGRAYMPERIAQLVLFLASDESSVMSG\\ SELHADNSILGMGL\end{tabular}                                                                                                                                                                                                                                                                                                                                                              \\ \hline
+	\end{tabular}
+\end{table*}
+	
+\section{DATA ENCODING}\label{sec:encoding}
+	The sequences of proteins are encoded through the indirect method. The purpose is to extract as many information as possible from the protein without creating too many inputs for the neural network. The encoding adopted is a bigram hashing method as presented in \cite{bookWu} but the 20 amino acids are not mapped into 6 macro categories(as suggested), in order to keep as much information as possible. In this way we have 20x20 possible bigrams although there are also 3 special characters ('X','B','Z') that represent uncertainty of some amino acid base (e.g. X represent when it was not possible to detect the right amino acid), for this reason the total amount of inputs generated is 23x23=529. Notice that since we are using bigrams the number of inputs is the square of the number of possible amino acids, this is particular useful when we will reshape the input into a 23x23 matrix for the CNN.\\ A python script extracts the frequency of bigrams and normalize it on the length of the protein sequence, the information that we obtain represent a global feature of the sequence, an example of bigram frequency is shown in fig ~\ref{big}.
+
+\begin{figure}[thpb]
+	\centering
+	\includegraphics[scale=0.6]{1.png}
+	\caption{Frequency bigrams for protein P00334.}
+	\label{big}
+\end{figure}
 
 \section{BACKPROPAGATION}\label{sec:bp}
+	The input of the neural network is the encoded protein sequence, the output is the family of the protein.\\
+	The network structure is shown in ~\ref{bp}: it is composed by an input layer of 6 neurons, an hidden layer of 5 neurons and an output layer of 4 neurons. The layer are fully connected so the total amount of weights to train are $529*6 + 6*5 + 5*4=3224$. This particular configuration has been chosen for its simplicity, the network infact has been reduced to the minimum number of neurons required to have an high accuracy so that the execution time is minimized. In all the implementation that are presented (Backprop,CNN,LAMSTAR) the objective is to have an accuracy higher than 95\% minimizing the execution time that is notoriously the bottle neck of most ANN applications.\\
+	The 4 output neurons represent the 4 chosen families using the one-hot encoding, and a result is considered correct only is each neuron has an absolute error less than 0.1.\\
+	\begin{figure}[thpb]
+		\centering
+		\includegraphics[scale=0.6]{bp.png}
+		\caption{BackPropagation network structure.}
+		\label{bp}
+	\end{figure}
+
 \section{CONVOLUTIONAL NEURAL NETWORK}\label{sec:cnn}
 \section{LAMSTAR}\label{sec:lamstar}
 \section{RESULTS}\label{sec:results}
 \section{CONCLUSION}\label{sec:conclusion}
+\section{CODE}
+The code: R scripts and python scripts for the data collection and preprocessing, and Java for the ANN coding is available at 
+
 
 \clearpage
 \newpage
